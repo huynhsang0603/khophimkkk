@@ -45,19 +45,24 @@ async function run() {
     fs.mkdirSync("addon", { recursive: true });
     const addonManifest = {
         id: "org.github.kkphim.static7",
-        version: "1.0.0",
+        version: "1.0.2",
         name: "KKPhim 7 Danh Mục (GitHub Serverless)",
         description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
-        resources: ["catalog"],
+        resources: ["catalog", "meta"],
         types: ["series", "movie"],
+        idPrefixes: ["kk_", "tmdb:"],
         catalogs: CATALOGS.map(c => ({ type: c.type, id: c.id, name: c.name }))
     };
     fs.writeFileSync(path.join("addon", "manifest.json"), JSON.stringify(addonManifest, null, 2));
 
-    // 3. Xuất 7 file JSON danh sách phim tĩnh vào thư mục "addon/catalog/"
+    const processedSlugs = new Set();
+
+    // 3. Xuất 7 file JSON danh sách phim tĩnh và chi tiết từng tập có poster
     for (const cat of CATALOGS) {
         const dir = path.join("addon", "catalog", cat.type);
+        const metaDir = path.join("addon", "meta", cat.type);
         fs.mkdirSync(dir, { recursive: true });
+        fs.mkdirSync(metaDir, { recursive: true });
 
         try {
             const res = await fetch(cat.url);
@@ -65,7 +70,7 @@ async function run() {
             const items = data?.items || data?.data?.items || [];
 
             const metas = items.map(item => ({
-                id: item.tmdb?.id ? `tmdb:${item.tmdb.id}` : `kk_${item.slug}`,
+                id: `kk_${item.slug}`,
                 type: cat.type,
                 name: item.origin_name ? `${item.name} (${item.origin_name})` : item.name,
                 poster: fixImg(item.poster_url || item.thumb_url),
@@ -74,7 +79,55 @@ async function run() {
             }));
 
             fs.writeFileSync(path.join(dir, `${cat.id}.json`), JSON.stringify({ metas }, null, 2));
-            console.log(`Đã cập nhật xong: ${cat.name} (${metas.length} phim)`);
+            console.log(`Đã cập nhật danh mục: ${cat.name} (${metas.length} phim)`);
+
+            for (const item of items) {
+                if (processedSlugs.has(item.slug)) continue;
+                processedSlugs.add(item.slug);
+
+                try {
+                    const detailRes = await fetch(`${KK_API}/phim/${item.slug}`);
+                    const detailJson = await detailRes.json();
+                    const movie = detailJson?.movie;
+                    const episodes = detailJson?.episodes || [];
+
+                    if (movie) {
+                        const videos = [];
+                        const epThumb = fixImg(movie.thumb_url || movie.poster_url);
+                        const mainServer = episodes.reduce((prev, curr) => 
+                            (curr.server_data?.length || 0) > (prev.server_data?.length || 0) ? curr : prev
+                        , { server_data: [] });
+
+                        (mainServer.server_data || []).forEach((ep, idx) => {
+                            const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
+                            videos.push({
+                                id: `kk_${item.slug}:1:${epNum}`,
+                                title: ep.name || `Tập ${epNum}`,
+                                season: 1,
+                                episode: epNum,
+                                thumbnail: epThumb,
+                                overview: `${movie.name} - ${ep.name || `Tập ${epNum}`}`,
+                                released: new Date().toISOString()
+                            });
+                        });
+
+                        const metaObj = {
+                            meta: {
+                                id: `kk_${item.slug}`,
+                                type: cat.type,
+                                name: movie.name,
+                                poster: fixImg(movie.poster_url || movie.thumb_url),
+                                background: epThumb,
+                                description: (movie.content || "").replace(/<[^>]*>?/gm, ""),
+                                releaseInfo: String(movie.year || ""),
+                                videos: cat.type === "series" ? videos : undefined
+                            }
+                        };
+
+                        fs.writeFileSync(path.join(metaDir, `kk_${item.slug}.json`), JSON.stringify(metaObj, null, 2));
+                    }
+                } catch (err) {}
+            }
         } catch (e) {
             console.error(`Lỗi danh mục ${cat.id}:`, e.message);
         }
