@@ -20,8 +20,28 @@ function fixImg(url) {
 }
 
 async function run() {
-    // 1. Xuất file manifest.json chuẩn Stremio
-    const manifest = {
+    // 1. Xuất file manifest.json chuẩn Nuvio Provider (không bị ghi đè mất scrapers)
+    const providerManifest = {
+        name: "KKPhim Việt Nam",
+        version: "1.0.0",
+        description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
+        author: "huynhsang0603",
+        scrapers: [
+            {
+                id: "kkphim_vn",
+                name: "KKPhim (Thuyết Minh & Vietsub)",
+                description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
+                version: "1.0.0",
+                type: "all",
+                filename: "provider.js",
+                supportedTypes: ["movie", "tv"]
+            }
+        ]
+    };
+    fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
+
+    // 2. Xuất file addon-manifest.json chứa 7 danh mục chuẩn Stremio
+    const addonManifest = {
         id: "org.github.kkphim.static7",
         version: "1.0.0",
         name: "KKPhim 7 Danh Mục (GitHub Serverless)",
@@ -30,9 +50,9 @@ async function run() {
         types: ["series", "movie"],
         catalogs: CATALOGS.map(c => ({ type: c.type, id: c.id, name: c.name }))
     };
-    fs.writeFileSync("manifest.json", JSON.stringify(manifest, null, 2));
+    fs.writeFileSync("addon-manifest.json", JSON.stringify(addonManifest, null, 2));
 
-    // 2. Xuất 7 file dữ liệu danh mục tĩnh theo đúng cấu trúc URL của Stremio: catalog/{type}/{id}.json
+    // 3. Xuất 7 file JSON danh sách phim tĩnh vào thư mục catalog/
     for (const cat of CATALOGS) {
         const dir = path.join("catalog", cat.type);
         fs.mkdirSync(dir, { recursive: true });
@@ -43,7 +63,6 @@ async function run() {
             const items = data?.items || data?.data?.items || [];
 
             const metas = items.map(item => ({
-                // Dùng ID chuẩn TMDB nếu có để bấm vào là Nuvio/Stremio tự khớp luồng phát ngay
                 id: item.tmdb?.id ? `tmdb:${item.tmdb.id}` : `kk_${item.slug}`,
                 type: cat.type,
                 name: item.origin_name ? `${item.name} (${item.origin_name})` : item.name,
