@@ -40,12 +40,12 @@ async function searchKkphim(keyword) {
     }
 }
 
-async function getStreams(tmdbId, mediaType, season, episode) {
+async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
         const info = await getMovieTitleFromTmdb(tmdbId, mediaType);
         if (!info || (!info.viTitle && !info.origTitle)) return [];
 
-        const epNum = episode || 1;
+        const epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
         let items = await searchKkphim(info.viTitle);
         if (items.length === 0 && info.origTitle) {
             items = await searchKkphim(info.origTitle);
@@ -68,22 +68,26 @@ async function getStreams(tmdbId, mediaType, season, episode) {
 
             const targetEp = serverData.find(e => {
                 const label = String(e.name || "").trim().toLowerCase();
-                const cleanNum = label.replace(/\D/g, "");
-                if (cleanNum && cleanNum === String(epNum)) return true;
-                if (String(epNum) === "1" && (label === "full" || label === "hd")) return true;
+                const cleanNum = parseInt(label.replace(/\D/g, ""), 10);
+                if (!isNaN(cleanNum) && cleanNum === epTarget) return true;
+                if (epTarget === 1 && (label === "full" || label === "hd" || label === "tập 1")) return true;
                 return false;
             });
 
             if (targetEp && targetEp.link_m3u8) {
-                const streamItem = {
-                    name: isDub ? "🎙️ KKPhim Thuyết Minh" : "🇻🇳 KKPhim Vietsub",
+                const streamObj = {
+                    name: isDub ? "KKPhim Thuyết Minh" : "KKPhim Vietsub",
                     title: `${movieName} - ${serverName} (${targetEp.name})`,
                     url: targetEp.link_m3u8,
                     quality: "1080p",
-                    type: "hls"
+                    provider: "KKPhim",
+                    headers: {
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                        "Referer": "https://phimapi.com"
+                    }
                 };
-                if (isDub) dubStreams.push(streamItem);
-                else subStreams.push(streamItem);
+                if (isDub) dubStreams.push(streamObj);
+                else subStreams.push(streamObj);
             }
         }
 
