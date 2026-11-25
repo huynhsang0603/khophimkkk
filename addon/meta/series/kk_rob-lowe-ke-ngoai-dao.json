@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "id": "kk_rob-lowe-ke-ngoai-dao",
+    "type": "series",
+    "name": "Rob Lowe: Kẻ Ngoại Đạo",
+    "poster": "https://phimimg.com/uploads/movies/20261125/rob-lowe-ke-ngoai-dao-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261125/rob-lowe-ke-ngoai-dao-thumb.webp",
+    "description": "Rob Lowe trải lòng về những thập kỷ danh vọng, thăng trầm và màn tái xuất trong phim tài liệu với nhiều thông tin về việc trở thành một trong những ngôi sao bền bỉ nhất Hollywood.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_rob-lowe-ke-ngoai-dao:1:1",
+        "title": "Full",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261125/rob-lowe-ke-ngoai-dao-thumb.webp",
+        "overview": "Rob Lowe: Kẻ Ngoại Đạo - Full",
+        "released": "2026-11-25T18:22:26.793Z"
+      }
+    ]
+  }
+}

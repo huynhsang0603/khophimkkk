@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "kk_tinh-yeu-doc-nhat",
+    "type": "series",
+    "name": "Tình Yêu Độc Nhất",
+    "poster": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+    "description": "Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ hãi vì bị bám đuôi. Khi trở thành quản lý của anh, Yu Il phát hiện cuốn tiểu thuyết mình từng viết chính là ánh sáng đã nâng đỡ Mu I trong những ngày tăm tối. Từ những tổn thương giấu kín, hai trái tim dần tìm thấy nhau, viết nên một tình yêu vừa mong manh, vừa duy nhất.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_tinh-yeu-doc-nhat:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "overview": "Tình Yêu Độc Nhất - Tập 01",
+        "released": "2026-11-25T18:22:39.372Z"
+      },
+      {
+        "id": "kk_tinh-yeu-doc-nhat:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "overview": "Tình Yêu Độc Nhất - Tập 02",
+        "released": "2026-11-25T18:22:39.372Z"
+      },
+      {
+        "id": "kk_tinh-yeu-doc-nhat:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "overview": "Tình Yêu Độc Nhất - Tập 03",
+        "released": "2026-11-25T18:22:39.372Z"
+      },
+      {
+        "id": "kk_tinh-yeu-doc-nhat:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "overview": "Tình Yêu Độc Nhất - Tập 04",
+        "released": "2026-11-25T18:22:39.372Z"
+      },
+      {
+        "id": "kk_tinh-yeu-doc-nhat:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "overview": "Tình Yêu Độc Nhất - Tập 05",
+        "released": "2026-11-25T18:22:39.372Z"
+      },
+      {
+        "id": "kk_tinh-yeu-doc-nhat:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
+        "overview": "Tình Yêu Độc Nhất - Tập 06",
+        "released": "2026-11-25T18:22:39.372Z"
+      }
+    ]
+  }
+}

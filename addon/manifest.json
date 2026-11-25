@@ -1,14 +1,19 @@
 {
   "id": "org.github.kkphim.static7",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "name": "KKPhim 7 Danh Mục (GitHub Serverless)",
   "description": "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
   "resources": [
-    "catalog"
+    "catalog",
+    "meta"
   ],
   "types": [
     "series",
     "movie"
+  ],
+  "idPrefixes": [
+    "kk_",
+    "tmdb:"
   ],
   "catalogs": [
     {

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "id": "kk_suikoden-the-anime",
+    "type": "series",
+    "name": "Suikoden: The Anime",
+    "poster": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+    "description": "Hai thiếu niên trẻ tuổi... người anh hùng Riou cùng người bạn thân nhất Jowy, từng là thành viên thuộc đội quân niên thiếu của quê hương họ — Vương quốc Highland, một cường quốc quân sự hùng mạnh nằm ở phía đông bắc vùng Dunan. Cả hai đã từng cùng ngước nhìn một bầu trời đêm đầy sao, ngủ chung một mái lều và cùng tin tưởng vào một tương lai tươi sáng. Họ tin rằng khi chiến tranh khép lại và đêm đen qua đi, cuộc sống bình yên thường ngày chắc chắn sẽ trở lại. Nhưng trái ngược với kỳ vọng ấy, hai chàng trai đã bị cuốn vào vòng xoáy nghiệt ngã của số phận, bị dẫn lối bởi những ngọn lửa chiến tranh tàn khốc. Những thiếu niên bất lực ngày nào giờ đây vươn tay nắm lấy nguồn sức mạnh vô song. Khi 108 ngôi sao chiếu sáng rực rỡ nơi chân trời mờ đục, hai chàng trai bước tiếp về phía trước, mỗi người mang theo một niềm tin riêng để tìm kiếm lời giải cho một câu hỏi vốn không có đáp án.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_suikoden-the-anime:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 01",
+        "released": "2026-11-25T18:22:31.828Z"
+      },
+      {
+        "id": "kk_suikoden-the-anime:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 02",
+        "released": "2026-11-25T18:22:31.828Z"
+      },
+      {
+        "id": "kk_suikoden-the-anime:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 03",
+        "released": "2026-11-25T18:22:31.828Z"
+      },
+      {
+        "id": "kk_suikoden-the-anime:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 04",
+        "released": "2026-11-25T18:22:31.828Z"
+      },
+      {
+        "id": "kk_suikoden-the-anime:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 05",
+        "released": "2026-11-25T18:22:31.828Z"
+      },
+      {
+        "id": "kk_suikoden-the-anime:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 06",
+        "released": "2026-11-25T18:22:31.828Z"
+      },
+      {
+        "id": "kk_suikoden-the-anime:1:7",
+        "title": "Tập 07",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 07",
+        "released": "2026-11-25T18:22:31.828Z"
+      },
+      {
+        "id": "kk_suikoden-the-anime:1:8",
+        "title": "Tập 08",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
+        "overview": "Suikoden: The Anime - Tập 08",
+        "released": "2026-11-25T18:22:31.828Z"
+      }
+    ]
+  }
+}

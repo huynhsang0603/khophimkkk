@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "id": "kk_tieu-thu-cuong-loan-nia-liston",
+    "type": "series",
+    "name": "Tiểu Thư Cuồng Loạn Nia Liston",
+    "poster": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+    "description": "Một cô gái đang hấp hối được cứu sống khi linh hồn của một chiến binh ngã xuống được đặt vào cơ thể cô. Điều đó mang lại cho cô một cuộc sống mới, năng lực chữa lành cùng một khao khát chiến đấu không gì dập tắt nổi — thứ châm ngòi cho những cuộc hỗn chiến đẫm máu trên bước đường cô đi.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 01",
+        "released": "2026-11-25T18:22:32.594Z"
+      },
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 02",
+        "released": "2026-11-25T18:22:32.594Z"
+      },
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 03",
+        "released": "2026-11-25T18:22:32.594Z"
+      },
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 04",
+        "released": "2026-11-25T18:22:32.594Z"
+      },
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 05",
+        "released": "2026-11-25T18:22:32.594Z"
+      },
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 06",
+        "released": "2026-11-25T18:22:32.594Z"
+      },
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:7",
+        "title": "Tập 07",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 07",
+        "released": "2026-11-25T18:22:32.594Z"
+      },
+      {
+        "id": "kk_tieu-thu-cuong-loan-nia-liston:1:8",
+        "title": "Tập 08",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
+        "overview": "Tiểu Thư Cuồng Loạn Nia Liston - Tập 08",
+        "released": "2026-11-25T18:22:32.594Z"
+      }
+    ]
+  }
+}

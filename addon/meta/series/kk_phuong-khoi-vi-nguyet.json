@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "id": "kk_phuong-khoi-vi-nguyet",
+    "type": "series",
+    "name": "Phượng Khởi Vi Nguyệt",
+    "poster": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+    "description": "Phượng Vi Nguyệt, trưởng nhóm nghiên cứu khoa học không gian thời hiện đại, gặp sự cố trong một thí nghiệm và xuyên không cùng đồng nghiệp Diệp Trường Cửu và cấp trên Quân Thanh Dạ đến vương triều Dận Bắc. Cô trở thành đích nữ phủ Thái phó, vừa tỉnh dậy đã thấy mình nằm trong phòng ngủ của Dung Vương Mặc Ngọc Tà, lại còn mang tiếng xấu là một vương phi si tình mê trai.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 01",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 02",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 03",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 04",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 05",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 06",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:7",
+        "title": "Tập 07",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 07",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:8",
+        "title": "Tập 08",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 08",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:9",
+        "title": "Tập 09",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 09",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:10",
+        "title": "Tập 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 10",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:11",
+        "title": "Tập 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 11",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:12",
+        "title": "Tập 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 12",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:13",
+        "title": "Tập 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 13",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:14",
+        "title": "Tập 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 14",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:15",
+        "title": "Tập 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 15",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:16",
+        "title": "Tập 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 16",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:17",
+        "title": "Tập 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 17",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:18",
+        "title": "Tập 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 18",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:19",
+        "title": "Tập 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 19",
+        "released": "2026-11-25T18:22:27.067Z"
+      },
+      {
+        "id": "kk_phuong-khoi-vi-nguyet:1:20",
+        "title": "Tập 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+        "overview": "Phượng Khởi Vi Nguyệt - Tập 20",
+        "released": "2026-11-25T18:22:27.067Z"
+      }
+    ]
+  }
+}

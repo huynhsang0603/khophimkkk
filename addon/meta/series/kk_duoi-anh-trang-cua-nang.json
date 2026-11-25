@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": "kk_duoi-anh-trang-cua-nang",
+    "type": "series",
+    "name": "Dưới Ánh Trăng Của Nàng",
+    "poster": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-thumb.webp",
+    "description": "Alice, một cô gái vừa tốt nghiệp, gặp gỡ sếp của mình là Nannalin - một người đầy nhiệt huyết và sức hút. Khi ranh giới giữa công việc, khao khát và quyền lực trở nên mờ nhạt, Alice phải đưa ra quyết định: thoát khỏi người sếp đòi hỏi khắt khe hay đầu hàng theo luật lệ của cô ấy?",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_duoi-anh-trang-cua-nang:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-thumb.webp",
+        "overview": "Dưới Ánh Trăng Của Nàng - Tập 01",
+        "released": "2026-11-25T18:22:34.104Z"
+      },
+      {
+        "id": "kk_duoi-anh-trang-cua-nang:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-thumb.webp",
+        "overview": "Dưới Ánh Trăng Của Nàng - Tập 02",
+        "released": "2026-11-25T18:22:34.104Z"
+      },
+      {
+        "id": "kk_duoi-anh-trang-cua-nang:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261115/duoi-anh-trang-cua-nang-thumb.webp",
+        "overview": "Dưới Ánh Trăng Của Nàng - Tập 03",
+        "released": "2026-11-25T18:22:34.104Z"
+      }
+    ]
+  }
+}
