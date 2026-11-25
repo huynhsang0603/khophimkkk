@@ -1,6 +1,11 @@
 const KK_API = "https://phimapi.com";
 const TMDB_KEY = "439c478a771f35c05022d9feabcca01c";
 
+const FETCH_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "Accept": "application/json"
+};
+
 async function getMovieTitleFromTmdb(tmdbId, mediaType) {
     if (!tmdbId) return null;
     if (typeof tmdbId === "object") {
@@ -32,7 +37,9 @@ async function getMovieTitleFromTmdb(tmdbId, mediaType) {
 async function searchKkphim(keyword) {
     if (!keyword) return [];
     try {
-        const res = await fetch(`${KK_API}/v1/api/tim-kiem?keyword=${encodeURIComponent(keyword.trim())}&limit=5`);
+        const res = await fetch(`${KK_API}/v1/api/tim-kiem?keyword=${encodeURIComponent(keyword.trim())}&limit=5`, {
+            headers: FETCH_HEADERS
+        });
         const json = await res.json();
         return json?.data?.items || [];
     } catch (e) {
@@ -42,30 +49,42 @@ async function searchKkphim(keyword) {
 
 async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
-        const rawId = String(tmdbId || "");
+        // Hỗ trợ cả trường hợp Nuvio truyền tham số dạng Object { id, type, season, episode }
+        let rawId = String(tmdbId || "");
+        let type = mediaType;
         let epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
 
+        if (tmdbId && typeof tmdbId === "object" && tmdbId.id) {
+            rawId = String(tmdbId.id);
+            type = tmdbId.type || mediaType;
+            epTarget = parseInt(String(tmdbId.episode || episodeNum || "1").replace(/\D/g, ""), 10) || 1;
+        }
+
+        // Tách số tập từ ID dạng kk_slug:1:5 hoặc tt12345:1:5
         if (rawId.includes(":")) {
             const parts = rawId.split(":");
             if (parts.length >= 3) {
-                epTarget = parseInt(parts, 10) || epTarget;
+                const parsedEp = parseInt(parts[2], 10);
+                if (!isNaN(parsedEp)) epTarget = parsedEp;
             }
         }
 
         let detailJson = null;
 
-        // Trường hợp 1: Phim từ 7 danh mục KKPhim (ID dạng kk_slug hoặc kk_slug:1:5)
+        // Trường hợp 1: Phim lấy từ 7 danh mục KKPhim (ID bắt đầu bằng kk_)
         if (rawId.startsWith("kk_")) {
-            const slug = rawId.split(":").replace(/^kk_/, "");
-            const detailRes = await fetch(`${KK_API}/phim/${slug}`);
+            const baseId = rawId.split(":")[0];
+            const slug = baseId.replace(/^kk_/, "");
+            const detailRes = await fetch(`${KK_API}/phim/${slug}`, { headers: FETCH_HEADERS });
             detailJson = await detailRes.json();
         } else {
             // Trường hợp 2: Tra cứu trực tiếp qua API TMDB của KKPhim
-            const cleanId = rawId.replace(/\D/g, "");
-            const kkType = (mediaType === "movie") ? "movie" : "tv";
+            const baseId = rawId.split(":")[0];
+            const cleanId = baseId.replace(/\D/g, "");
+            const kkType = (type === "movie") ? "movie" : "tv";
             if (cleanId) {
                 try {
-                    const directRes = await fetch(`${KK_API}/tmdb/${kkType}/${cleanId}`);
+                    const directRes = await fetch(`${KK_API}/tmdb/${kkType}/${cleanId}`, { headers: FETCH_HEADERS });
                     const directData = await directRes.json();
                     if (directData && directData.status && directData.episodes) {
                         detailJson = directData;
@@ -73,9 +92,9 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 } catch (e) {}
             }
 
-            // Trường hợp 3: Tìm kiếm theo tên phim từ TMDB
+            // Trường hợp 3: Tìm kiếm theo tên tiếng Việt / tên gốc từ TMDB
             if (!detailJson || !detailJson.episodes) {
-                const info = await getMovieTitleFromTmdb(tmdbId, mediaType);
+                const info = await getMovieTitleFromTmdb(baseId, type);
                 if (!info || (!info.viTitle && !info.origTitle)) return [];
 
                 let items = await searchKkphim(info.viTitle);
@@ -84,8 +103,8 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 }
                 if (items.length === 0) return [];
 
-                const matched = items;
-                const detailRes = await fetch(`${KK_API}/phim/${matched.slug}`);
+                const matched = items[0];
+                const detailRes = await fetch(`${KK_API}/phim/${matched.slug}`, { headers: FETCH_HEADERS });
                 detailJson = await detailRes.json();
             }
         }
