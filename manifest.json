@@ -1,0 +1,17 @@
+{
+  "name": "KKPhim Việt Nam (Thuyết Minh & Vietsub)",
+  "version": "1.0.0",
+  "description": "Nguồn phim KKPhim tự động lấy Thuyết Minh và Vietsub chạy trực tiếp trên Nuvio",
+  "author": "Custom",
+  "providers": [
+    {
+      "id": "kkphim_vn_provider",
+      "name": "KKPhim (Thuyết Minh & Vietsub)",
+      "description": "Ưu tiên bản Thuyết Minh / Lồng Tiếng, kèm Vietsub chuẩn",
+      "version": "1.0.0",
+      "type": "all",
+      "script": "provider.js",
+      "supportedTypes": ["movie", "tv"]
+    }
+  ]
+}
