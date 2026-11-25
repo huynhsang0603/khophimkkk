@@ -10,7 +10,7 @@
       "description": "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
       "version": "1.0.0",
       "type": "all",
-      "filename": "https://raw.githubusercontent.com/huynhsang0603/khophimkkk/refs/heads/main/provider.js",
+      "filename": "provider.js",
       "supportedTypes": ["movie", "tv"]
     }
   ]
