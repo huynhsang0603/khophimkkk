@@ -20,8 +20,9 @@ function fixImg(url) {
 }
 
 async function run() {
-    // 1. Xuất file manifest.json chuẩn Nuvio Provider (không bị ghi đè mất scrapers)
+    // 1. Xuất file manifest.json chuẩn Nuvio Provider (có đầy đủ trường "id" ở cấp ngoài cùng)
     const providerManifest = {
+        id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
         version: "1.0.0",
         description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
