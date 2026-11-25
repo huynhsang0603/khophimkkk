@@ -10,7 +10,7 @@ async function getMovieTitleFromTmdb(tmdbId, mediaType) {
         };
     }
     const cleanId = String(tmdbId).replace(/\D/g, "");
-    if (!cleanId) return { viTitle: String(tmdbId), origTitle: "" };
+    if (!cleanId) return null;
 
     const typePath = (mediaType === "movie") ? "movie" : "tv";
     try {
@@ -42,21 +42,49 @@ async function searchKkphim(keyword) {
 
 async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
-        const info = await getMovieTitleFromTmdb(tmdbId, mediaType);
-        if (!info || (!info.viTitle && !info.origTitle)) return [];
-
         const epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
-        let items = await searchKkphim(info.viTitle);
-        if (items.length === 0 && info.origTitle) {
-            items = await searchKkphim(info.origTitle);
+        const rawId = String(tmdbId || "");
+        let detailJson = null;
+
+        // Trường hợp 1: Phim lấy từ danh mục KKPhim không có TMDB (ID dạng kk_slug)
+        if (rawId.startsWith("kk_")) {
+            const slug = rawId.replace(/^kk_/, "");
+            const detailRes = await fetch(`${KK_API}/phim/${slug}`);
+            detailJson = await detailRes.json();
+        } else {
+            // Trường hợp 2: Thử gọi trực tiếp API TMDB của KKPhim trước
+            const cleanId = rawId.replace(/\D/g, "");
+            const kkType = (mediaType === "movie") ? "movie" : "tv";
+            if (cleanId) {
+                try {
+                    const directRes = await fetch(`${KK_API}/tmdb/${kkType}/${cleanId}`);
+                    const directData = await directRes.json();
+                    if (directData && directData.status && directData.episodes) {
+                        detailJson = directData;
+                    }
+                } catch (e) {}
+            }
+
+            // Trường hợp 3: Nếu API trực tiếp không có, lấy tên từ TMDB rồi tìm kiếm
+            if (!detailJson || !detailJson.episodes) {
+                const info = await getMovieTitleFromTmdb(tmdbId, mediaType);
+                if (!info || (!info.viTitle && !info.origTitle)) return [];
+
+                let items = await searchKkphim(info.viTitle);
+                if (items.length === 0 && info.origTitle) {
+                    items = await searchKkphim(info.origTitle);
+                }
+                if (items.length === 0) return [];
+
+                const matched = items[0];
+                const detailRes = await fetch(`${KK_API}/phim/${matched.slug}`);
+                detailJson = await detailRes.json();
+            }
         }
-        if (items.length === 0) return [];
 
-        const matched = items.shift();
-        const detailRes = await fetch(`${KK_API}/phim/${matched.slug}`);
-        const detailJson = await detailRes.json();
+        if (!detailJson || !detailJson.episodes) return [];
 
-        const movieName = detailJson?.movie?.name || matched.name;
+        const movieName = detailJson?.movie?.name || "KKPhim";
         const episodes = detailJson?.episodes || [];
         const dubStreams = [];
         const subStreams = [];
@@ -70,7 +98,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 const label = String(e.name || "").trim().toLowerCase();
                 const cleanNum = parseInt(label.replace(/\D/g, ""), 10);
                 if (!isNaN(cleanNum) && cleanNum === epTarget) return true;
-                if (epTarget === 1 && (label === "full" || label === "hd" || label === "tập 1")) return true;
+                if (epTarget === 1 && (label === "full" || label === "hd" || label === "tập 1" || label === "tập 01")) return true;
                 return false;
             });
 
