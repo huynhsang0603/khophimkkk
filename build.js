@@ -20,7 +20,7 @@ function fixImg(url) {
 }
 
 async function run() {
-    // 1. Xuất file manifest.json chuẩn Nuvio Provider (có đầy đủ trường "id" ở cấp ngoài cùng)
+    // 1. Xuất file manifest.json cho Nuvio Provider (Nguồn phát)
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
@@ -41,7 +41,8 @@ async function run() {
     };
     fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
 
-    // 2. Xuất file addon-manifest.json chứa 7 danh mục chuẩn Stremio
+    // 2. Xuất file manifest.json chuẩn Stremio vào thư mục con "addon/"
+    fs.mkdirSync("addon", { recursive: true });
     const addonManifest = {
         id: "org.github.kkphim.static7",
         version: "1.0.0",
@@ -51,11 +52,11 @@ async function run() {
         types: ["series", "movie"],
         catalogs: CATALOGS.map(c => ({ type: c.type, id: c.id, name: c.name }))
     };
-    fs.writeFileSync("addon-manifest.json", JSON.stringify(addonManifest, null, 2));
+    fs.writeFileSync(path.join("addon", "manifest.json"), JSON.stringify(addonManifest, null, 2));
 
-    // 3. Xuất 7 file JSON danh sách phim tĩnh vào thư mục catalog/
+    // 3. Xuất 7 file JSON danh sách phim tĩnh vào thư mục "addon/catalog/"
     for (const cat of CATALOGS) {
-        const dir = path.join("catalog", cat.type);
+        const dir = path.join("addon", "catalog", cat.type);
         fs.mkdirSync(dir, { recursive: true });
 
         try {
