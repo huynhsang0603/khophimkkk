@@ -42,17 +42,25 @@ async function searchKkphim(keyword) {
 
 async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
-        const epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
         const rawId = String(tmdbId || "");
+        let epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
+
+        if (rawId.includes(":")) {
+            const parts = rawId.split(":");
+            if (parts.length >= 3) {
+                epTarget = parseInt(parts, 10) || epTarget;
+            }
+        }
+
         let detailJson = null;
 
-        // Trường hợp 1: Phim lấy từ danh mục KKPhim không có TMDB (ID dạng kk_slug)
+        // Trường hợp 1: Phim từ 7 danh mục KKPhim (ID dạng kk_slug hoặc kk_slug:1:5)
         if (rawId.startsWith("kk_")) {
-            const slug = rawId.replace(/^kk_/, "");
+            const slug = rawId.split(":").replace(/^kk_/, "");
             const detailRes = await fetch(`${KK_API}/phim/${slug}`);
             detailJson = await detailRes.json();
         } else {
-            // Trường hợp 2: Thử gọi trực tiếp API TMDB của KKPhim trước
+            // Trường hợp 2: Tra cứu trực tiếp qua API TMDB của KKPhim
             const cleanId = rawId.replace(/\D/g, "");
             const kkType = (mediaType === "movie") ? "movie" : "tv";
             if (cleanId) {
@@ -65,7 +73,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 } catch (e) {}
             }
 
-            // Trường hợp 3: Nếu API trực tiếp không có, lấy tên từ TMDB rồi tìm kiếm
+            // Trường hợp 3: Tìm kiếm theo tên phim từ TMDB
             if (!detailJson || !detailJson.episodes) {
                 const info = await getMovieTitleFromTmdb(tmdbId, mediaType);
                 if (!info || (!info.viTitle && !info.origTitle)) return [];
@@ -76,7 +84,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 }
                 if (items.length === 0) return [];
 
-                const matched = items[0];
+                const matched = items;
                 const detailRes = await fetch(`${KK_API}/phim/${matched.slug}`);
                 detailJson = await detailRes.json();
             }
