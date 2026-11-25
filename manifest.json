@@ -1,50 +1,20 @@
 {
-  "id": "org.github.kkphim.static7",
+  "name": "KKPhim Việt Nam",
   "version": "1.0.0",
-  "name": "KKPhim 7 Danh Mục (GitHub Serverless)",
-  "description": "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
-  "resources": [
-    "catalog"
-  ],
-  "types": [
-    "series",
-    "movie"
-  ],
-  "catalogs": [
+  "description": "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
+  "author": "huynhsang0603",
+  "scrapers": [
     {
-      "type": "series",
-      "id": "kk_hot",
-      "name": "KKPhim - Hôm Nay Xem Gì"
-    },
-    {
-      "type": "series",
-      "id": "kk_updated",
-      "name": "KKPhim - Phim Mới Cập Nhật"
-    },
-    {
-      "type": "series",
-      "id": "kk_2026",
-      "name": "KKPhim - Phim Mới 2026 Nhất"
-    },
-    {
-      "type": "series",
-      "id": "kk_cn_drama",
-      "name": "KKPhim - Phim Bộ Trung Quốc"
-    },
-    {
-      "type": "series",
-      "id": "kk_tv",
-      "name": "KKPhim - Phim Truyền Hình"
-    },
-    {
-      "type": "series",
-      "id": "kk_anime",
-      "name": "KKPhim - Phim Hoạt Hình"
-    },
-    {
-      "type": "movie",
-      "id": "kk_movies",
-      "name": "KKPhim - Phim Lẻ Mới"
+      "id": "kkphim_vn",
+      "name": "KKPhim (Thuyết Minh & Vietsub)",
+      "description": "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
+      "version": "1.0.0",
+      "type": "all",
+      "filename": "provider.js",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ]
     }
   ]
 }
