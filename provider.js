@@ -205,9 +205,6 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     }
 }
 
-if (typeof module !== "undefined" && module.exports) {
-    module.exports = { getStreams, searchKkphim };
-}
 
 
 
