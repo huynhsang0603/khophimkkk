@@ -1,6 +1,42 @@
 {
   "metas": [
     {
+      "id": "tt37762350",
+      "imdb_id": "tt37762350",
+      "type": "series",
+      "name": "Vụ Tấn Công Cung Tư Pháp (Under Siege)",
+      "poster": "https://phimimg.com/uploads/movies/20261126/vu-tan-cong-cung-tu-phap-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261126/vu-tan-cong-cung-tu-phap-poster.webp",
+      "description": "Hoàn Tất (8/8) • FHD • Vietsub"
+    },
+    {
+      "id": "tt51199819",
+      "imdb_id": "tt51199819",
+      "type": "series",
+      "name": "Tâm Cơ (Shinji: Double Shuffle)",
+      "poster": "https://phimimg.com/uploads/movies/20261126/tam-co-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261126/tam-co-poster.webp",
+      "description": "Tập 2 • FHD • Vietsub"
+    },
+    {
+      "id": "tt34959964",
+      "imdb_id": "tt34959964",
+      "type": "series",
+      "name": "Cốc Vũ (The Silent Storm)",
+      "poster": "https://phimimg.com/uploads/movies/20261126/coc-vu-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261126/coc-vu-poster.webp",
+      "description": "Hoàn Tất (30/30) • FHD • Vietsub + Thuyết Minh"
+    },
+    {
+      "id": "tt26658447",
+      "imdb_id": "tt26658447",
+      "type": "series",
+      "name": "Câu Chuyện Không Ai Biết (The Story Untold)",
+      "poster": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-poster.webp",
+      "description": "Tập 3 • FHD • Vietsub + Thuyết Minh"
+    },
+    {
       "id": "tmdb:342038",
       "type": "series",
       "name": "Thứ Nữ (Daughter Of A Concubine)",
@@ -168,42 +204,6 @@
       "poster": "https://phimimg.com/uploads/movies/20261011/tan-hoang-tu-tennis-u-17-world-cup-tran-tuyen-chon-thanh-vien-cuoi-cung-poster-2.webp",
       "background": "https://phimimg.com/uploads/movies/20261011/tan-hoang-tu-tennis-u-17-world-cup-tran-tuyen-chon-thanh-vien-cuoi-cung-poster-2.webp",
       "description": "Tập 9 • FHD • Vietsub"
-    },
-    {
-      "id": "tt13884052",
-      "imdb_id": "tt13884052",
-      "type": "series",
-      "name": "Thám Tử Đã Chết (Phần 2) (The Detective Is Already Dead (Season 2))",
-      "poster": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-poster.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt27524116",
-      "imdb_id": "tt27524116",
-      "type": "series",
-      "name": "Sasaki Và P-chan (Phần 2) (Sasaki and Peeps (Season 1))",
-      "poster": "https://phimimg.com/uploads/movies/20261009/sasaki-va-p-chan-phan-2-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261009/sasaki-va-p-chan-phan-2-poster.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt27517921",
-      "imdb_id": "tt27517921",
-      "type": "series",
-      "name": "Nghịch Thiên Tà Thần (Against The Gods)",
-      "poster": "https://phimimg.com/upload/vod/20260420-1/0a4c1589001cf10c879d5b8c4f7e75d6.jpg",
-      "background": "https://phimimg.com/upload/vod/20260420-1/0a4c1589001cf10c879d5b8c4f7e75d6.jpg",
-      "description": "Tập 65 • FHD • Vietsub"
-    },
-    {
-      "id": "tt36413910",
-      "imdb_id": "tt36413910",
-      "type": "movie",
-      "name": "Trận Bóng Cuối Cùng (The Mosquito Bowl)",
-      "poster": "https://phimimg.com/uploads/movies/20261126/tran-bong-cuoi-cung-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261126/tran-bong-cuoi-cung-poster.webp",
-      "description": "Full • FHD • Vietsub"
     }
   ]
 }

@@ -1,6 +1,24 @@
 {
   "metas": [
     {
+      "id": "tt34959964",
+      "imdb_id": "tt34959964",
+      "type": "series",
+      "name": "Cốc Vũ (The Silent Storm)",
+      "poster": "https://phimimg.com/uploads/movies/20261126/coc-vu-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261126/coc-vu-thumb.webp",
+      "description": "Hoàn Tất (30/30) • FHD • Vietsub + Thuyết Minh"
+    },
+    {
+      "id": "tt26658447",
+      "imdb_id": "tt26658447",
+      "type": "series",
+      "name": "Câu Chuyện Không Ai Biết (The Story Untold)",
+      "poster": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-thumb.webp",
+      "description": "Tập 3 • FHD • Vietsub + Thuyết Minh"
+    },
+    {
       "id": "tt37148648",
       "imdb_id": "tt37148648",
       "type": "series",
@@ -242,23 +260,6 @@
       "poster": "https://phimimg.com/uploads/movies/20260811/khoi-dau-cua-bien-ca-noi-bien-bat-dau-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20260811/khoi-dau-cua-bien-ca-noi-bien-bat-dau-thumb.webp",
       "description": "Hoàn Tất (12/12) • FHD • Vietsub + Thuyết Minh"
-    },
-    {
-      "id": "tt36758489",
-      "imdb_id": "tt36758489",
-      "type": "series",
-      "name": "Tôi Không Phải Là Đại Sư (Phần 1) (A Prophet (Season 1))",
-      "poster": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20260924/toi-khong-phai-la-dai-su-thumb.webp",
-      "description": "Hoàn Tất (24/24) • FHD • Vietsub + Thuyết Minh"
-    },
-    {
-      "id": "tmdb:317314",
-      "type": "series",
-      "name": "Tàn Thuốc (Ash)",
-      "poster": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-      "description": "Hoàn Tất (9/9) • FHD • Vietsub + Thuyết Minh"
     }
   ]
 }
