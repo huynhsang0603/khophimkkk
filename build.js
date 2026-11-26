@@ -71,17 +71,28 @@ async function run() {
     fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
 
     fs.mkdirSync("addon", { recursive: true });
-    const addonManifest = {
-        id: "org.github.kkphim.static7",
-        version: "1.0.6",
-        name: "KKPhim 7 Danh Mục (GitHub Serverless)",
-        description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
-        resources: ["catalog", "meta"],
-        types: ["series", "movie"],
-        idPrefixes: ["kk_", "tmdb:", "tt"],
-        catalogs: CATALOGS.map(c => ({ type: c.type, id: c.id, name: c.name }))
+    const providerManifest = {
+        id: "com.huynhsang0603.kkphim",
+        name: "KKPhim Việt Nam",
+        version: "1.0.7",
+        description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
+        author: "huynhsang0603",
+        homepage: "https://github.com",
+        repository: "https://github.com",
+        scrapers: [
+            {
+                id: "kkphim_vn",
+                name: "KKPhim (Thuyết Minh & Vietsub)",
+                description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
+                version: "1.0.7",
+                type: "all",
+                filename: "provider.js",
+                supportedTypes: ["movie", "tv"]
+            }
+        ]
     };
-    fs.writeFileSync(path.join("addon", "manifest.json"), JSON.stringify(addonManifest, null, 2));
+    fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
+
 
     fs.mkdirSync(path.join("addon", "meta", "series"), { recursive: true });
     fs.mkdirSync(path.join("addon", "meta", "movie"), { recursive: true });
