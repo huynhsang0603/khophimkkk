@@ -1,5 +1,6 @@
 const KK_API = "https://phimapi.com";
 const TMDB_KEY = "439c478a771f35c05022d9feabcca01c";
+
 const API_HEADERS = {
     accept: "application/json",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -32,8 +33,9 @@ async function getMovieTitleFromTmdb(id, mediaType) {
                 tmdbId: (viData && viData.id) || (origData && origData.id) || "",
                 viTitle: (viData && (viData.title || viData.name)) || "",
                 origTitle: (origData && (origData.original_title || origData.original_name || origData.title || origData.name)) || "",
+                enTitle: (origData && (origData.title || origData.name)) || "",
                 year: releaseDate.slice(0, 4),
-                mediaType: (viJson.movie_results !== undefined && viData && viData.title) ? "movie" : "tv"
+                mediaType: (viJson.movie_results && viData && viData.title) ? "movie" : "tv"
             };
         }
 
@@ -53,6 +55,7 @@ async function getMovieTitleFromTmdb(id, mediaType) {
             tmdbId: cleanId,
             viTitle: viJson.title || viJson.name || "",
             origTitle: origJson.original_title || origJson.original_name || origJson.title || origJson.name || "",
+            enTitle: origJson.title || origJson.name || "",
             year: releaseDate.slice(0, 4),
             mediaType: typePath
         };
@@ -94,9 +97,9 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 
         if (rawId.includes(":")) {
             const parts = rawId.split(":");
-            if (parts.length >= 3) {
-                const parsedEp = parseInt(parts.pop(), 10);
-                if (!isNaN(parsedEp)) epTarget = parsedEp;
+            const epPart = parts.slice(2, 3).join("");
+            if (epPart && !isNaN(parseInt(epPart, 10))) {
+                epTarget = parseInt(epPart, 10);
             }
         }
 
@@ -139,13 +142,15 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 }
 
                 if (!detailJson || !detailJson.episodes) {
-                    if (!info.viTitle && !info.origTitle) return [];
                     let items = await searchKkphim(info.viTitle, info.year);
+                    if (items.length === 0 && info.enTitle) {
+                        items = await searchKkphim(info.enTitle, info.year);
+                    }
                     if (items.length === 0 && info.origTitle) {
                         items = await searchKkphim(info.origTitle, info.year);
                     }
-                    if (items.length === 0 && info.origTitle.includes(":")) {
-                        items = await searchKkphim(info.origTitle.split(":").shift(), info.year);
+                    if (items.length === 0 && info.enTitle && info.enTitle.includes(":")) {
+                        items = await searchKkphim(info.enTitle.split(":").shift(), info.year);
                     }
                     if (items.length === 0) return [];
 
@@ -165,7 +170,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         const subStreams = [];
 
         for (const server of episodes) {
-            const serverName = server.server_name || "";
+            const serverName = server.server_name || "Vietsub";
             const isDub = /thuyết minh|lồng tiếng/i.test(serverName);
             const serverData = server.server_data || [];
 
@@ -186,7 +191,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                     provider: "KKPhim",
                     headers: {
                         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://phimapi.com"
+                        "Referer": "https://player.phimapi.com/"
                     }
                 };
                 if (isDub) dubStreams.push(streamObj);
@@ -200,9 +205,36 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     }
 }
 
-if (typeof module !== "undefined" && module.exports) {
-    module.exports = { getStreams, searchKkphim };
+async function search(query) {
+    if (!query || !String(query).trim()) return [];
+    try {
+        const res = await fetch(`${KK_API}/v1/api/tim-kiem?keyword=${encodeURIComponent(String(query).trim())}&limit=20`, {
+            headers: { accept: "application/json" }
+        });
+        const data = await res.json();
+        const items = (data && data.data && data.data.items) || [];
+
+        return items.map(item => {
+            const posterUrl = item.poster_url
+                ? (item.poster_url.startsWith("http") ? item.poster_url : `https://phimimg.com{item.poster_url.replace(/^\/+/, "")}`)
+                : "";
+            const isMovie = item.type === "single" || item.episode_total === "1";
+
+            return {
+                id: `kk_${item.slug}`,
+                type: isMovie ? "movie" : "tv",
+                title: item.name,
+                originalTitle: item.origin_name || "",
+                year: item.year ? parseInt(String(item.year), 10) : undefined,
+                poster: posterUrl,
+                provider: "KKPhim"
+            };
+        });
+    } catch (e) {
+        return [];
+    }
 }
+
 
 
 module.exports = {
