@@ -22,28 +22,28 @@ function fixImg(url) {
 }
 
 async function resolveImdbId(movieObj, mediaType) {
-    if (movieObj?.imdb?.id && /^tt\d+/i.test(String(movieObj.imdb.id))) {
+    if (movieObj && movieObj.imdb && movieObj.imdb.id && /^tt\d+/i.test(String(movieObj.imdb.id))) {
         return String(movieObj.imdb.id).toLowerCase();
     }
-    const tmdbType = (movieObj?.tmdb?.type === "movie" || mediaType === "movie") ? "movie" : "tv";
-    if (movieObj?.tmdb?.id) {
+    const tmdbType = ((movieObj && movieObj.tmdb && movieObj.tmdb.type === "movie") || mediaType === "movie") ? "movie" : "tv";
+    if (movieObj && movieObj.tmdb && movieObj.tmdb.id) {
         try {
             const res = await fetch(`https://themoviedb.org{tmdbType}/${movieObj.tmdb.id}/external_ids?api_key=${TMDB_KEY}`);
             const json = await res.json();
-            if (json?.imdb_id && /^tt\d+/i.test(json.imdb_id)) return json.imdb_id.toLowerCase();
+            if (json && json.imdb_id && /^tt\d+/i.test(json.imdb_id)) return json.imdb_id.toLowerCase();
         } catch (e) {}
     }
-    const query = movieObj?.origin_name || movieObj?.name;
+    const query = (movieObj && (movieObj.origin_name || movieObj.name)) || "";
     if (query) {
         try {
-            const yearParam = movieObj?.year ? `&year=${movieObj.year}&first_air_date_year=${movieObj.year}` : "";
+            const yearParam = movieObj.year ? `&year=${movieObj.year}&first_air_date_year=${movieObj.year}` : "";
             const sRes = await fetch(`https://themoviedb.org{TMDB_KEY}&query=${encodeURIComponent(query)}${yearParam}`);
             const sJson = await sRes.json();
-            const best = sJson?.results?.[0];
+            const best = sJson && sJson.results && sJson.results.shift();
             if (best && (best.media_type === "movie" || best.media_type === "tv")) {
                 const eRes = await fetch(`https://themoviedb.org{best.media_type}/${best.id}/external_ids?api_key=${TMDB_KEY}`);
                 const eJson = await eRes.json();
-                if (eJson?.imdb_id && /^tt\d+/i.test(eJson.imdb_id)) return eJson.imdb_id.toLowerCase();
+                if (eJson && eJson.imdb_id && /^tt\d+/i.test(eJson.imdb_id)) return eJson.imdb_id.toLowerCase();
             }
         } catch (e) {}
     }
@@ -54,45 +54,35 @@ async function run() {
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
-        version: "1.0.5",
+        version: "1.0.8",
         description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
         author: "huynhsang0603",
+        homepage: "https://github.com",
+        repository: "https://github.com",
         scrapers: [{
             id: "kkphim_vn",
             name: "KKPhim (Thuyết Minh & Vietsub)",
             description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
-            version: "1.0.5",
+            version: "1.0.8",
             type: "all",
             filename: "provider.js",
-            supportedTypes: ["movie", "tv"],
-            idPrefixes: ["kk_", "tmdb:", "tt"]
+            supportedTypes: ["movie", "tv"]
         }]
     };
     fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
 
     fs.mkdirSync("addon", { recursive: true });
-    const providerManifest = {
-        id: "com.huynhsang0603.kkphim",
-        name: "KKPhim Việt Nam",
-        version: "1.0.7",
-        description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
-        author: "huynhsang0603",
-        homepage: "https://github.com",
-        repository: "https://github.com",
-        scrapers: [
-            {
-                id: "kkphim_vn",
-                name: "KKPhim (Thuyết Minh & Vietsub)",
-                description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
-                version: "1.0.7",
-                type: "all",
-                filename: "provider.js",
-                supportedTypes: ["movie", "tv"]
-            }
-        ]
+    const addonManifest = {
+        id: "org.github.kkphim.static7",
+        version: "1.0.8",
+        name: "KKPhim 7 Danh Mục (GitHub Serverless)",
+        description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
+        resources: ["catalog", "meta"],
+        types: ["series", "movie"],
+        idPrefixes: ["kk_", "tmdb:", "tt"],
+        catalogs: CATALOGS.map(c => ({ type: c.type, id: c.id, name: c.name }))
     };
-    fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
-
+    fs.writeFileSync(path.join("addon", "manifest.json"), JSON.stringify(addonManifest, null, 2));
 
     fs.mkdirSync(path.join("addon", "meta", "series"), { recursive: true });
     fs.mkdirSync(path.join("addon", "meta", "movie"), { recursive: true });
@@ -104,7 +94,7 @@ async function run() {
         try {
             const res = await fetch(cat.url, { headers: API_HEADERS });
             const data = await res.json();
-            const items = data?.items || data?.data?.items || [];
+            const items = (data && data.items) || (data && data.data && data.data.items) || [];
 
             for (const item of items) {
                 const itemMediaType = item.type === "single" ? "movie" : cat.type;
@@ -116,19 +106,19 @@ async function run() {
                 try {
                     const dRes = await fetch(`${KK_API}/phim/${item.slug}`, { headers: API_HEADERS });
                     const dJson = await dRes.json();
-                    const movie = dJson?.movie;
-                    const episodes = dJson?.episodes || [];
+                    const movie = dJson && dJson.movie;
+                    const episodes = (dJson && dJson.episodes) || [];
 
                     if (movie) {
                         const resolvedImdb = await resolveImdbId(movie, itemMediaType);
-                        const tmdbId = movie.tmdb?.id;
+                        const tmdbId = movie.tmdb && movie.tmdb.id;
                         const standardId = resolvedImdb ? resolvedImdb : (tmdbId ? `tmdb:${tmdbId}` : `kk_${item.slug}`);
                         item._standardId = standardId;
                         slugToStandardId.set(item.slug, standardId);
 
                         const videos = [];
                         const epThumb = fixImg(movie.thumb_url || movie.poster_url);
-                        const mainServer = episodes.reduce((p, c) => (c.server_data?.length || 0) > (p.server_data?.length || 0) ? c : p, { server_data: [] });
+                        const mainServer = episodes.reduce((p, c) => ((c.server_data && c.server_data.length) || 0) > ((p.server_data && p.server_data.length) || 0) ? c : p, { server_data: [] });
 
                         (mainServer.server_data || []).forEach((ep, idx) => {
                             const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
