@@ -54,14 +54,14 @@ async function run() {
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
-        version: "1.0.4",
+        version: "1.0.5",
         description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
         author: "huynhsang0603",
         scrapers: [{
             id: "kkphim_vn",
             name: "KKPhim (Thuyết Minh & Vietsub)",
             description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
-            version: "1.0.4",
+            version: "1.0.5",
             type: "all",
             filename: "provider.js",
             supportedTypes: ["movie", "tv"],
