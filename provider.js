@@ -1,5 +1,5 @@
-
 const KK_API = "https://phimapi.com";
+const TMDB_API = "https://" + "api.themoviedb.org/3";
 const TMDB_KEY = "439c478a771f35c05022d9feabcca01c";
 
 const API_HEADERS = {
@@ -19,8 +19,8 @@ async function getMovieTitleFromTmdb(id, mediaType) {
             const cleanImdbId = match.shift().toLowerCase();
 
             const [viRes, origRes] = await Promise.all([
-                fetch(`https://themoviedb.org{cleanImdbId}?api_key=${TMDB_KEY}&external_source=imdb_id&language=vi-VN`),
-                fetch(`https://themoviedb.org{cleanImdbId}?api_key=${TMDB_KEY}&external_source=imdb_id`)
+                fetch(`${TMDB_API}/find/${cleanImdbId}?api_key=${TMDB_KEY}&external_source=imdb_id&language=vi-VN`),
+                fetch(`${TMDB_API}/find/${cleanImdbId}?api_key=${TMDB_KEY}&external_source=imdb_id`)
             ]);
             const viJson = await viRes.json();
             const origJson = await origRes.json();
@@ -45,8 +45,8 @@ async function getMovieTitleFromTmdb(id, mediaType) {
         const typePath = (mediaType === "movie") ? "movie" : "tv";
 
         const [viRes, origRes] = await Promise.all([
-            fetch(`https://themoviedb.org{typePath}/${cleanId}?api_key=${TMDB_KEY}&language=vi-VN`),
-            fetch(`https://themoviedb.org{typePath}/${cleanId}?api_key=${TMDB_KEY}`)
+            fetch(`${TMDB_API}/${typePath}/${cleanId}?api_key=${TMDB_KEY}&language=vi-VN`),
+            fetch(`${TMDB_API}/${typePath}/${cleanId}?api_key=${TMDB_KEY}`)
         ]);
         const viJson = await viRes.json();
         const origJson = await origRes.json();
@@ -205,28 +205,134 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         return [];
     }
 }
-        const finalStreams = [...dubStreams, ...subStreams];
-        if (finalStreams.length === 0) {
-            return [{
-                name: "KKPhim Debug",
-                title: `Rong: ID=${rawId} | Type=${type} | Ep=${epTarget} | CoPhim=${Boolean(detailJson && detailJson.movie)}`,
-                url: "https://phimapi.com",
-                provider: "KKPhim"
-            }];
-        }
-        return finalStreams;
-    } catch (err) {
-        return [{
-            name: "KKPhim Error",
-            title: `Loi: ${err && err.message ? err.message : String(err)}`,
-            url: "https://phimapi.com",
-            provider: "KKPhim"
-        }];
+async function getCatalog(type, page) {
+    try {
+        const listType = type || "phim-moi-cap-nhat";
+        const pageNum = page || 1;
+        const res = await fetch(`${KK_API}/danh-sach/${listType}?page=${pageNum}`, { headers: API_HEADERS });
+        const json = await res.json();
+        const items = (json && json.items) || (json && json.data && json.data.items) || [];
+
+        return items.map(item => {
+            const posterUrl = item.poster_url
+                ? (item.poster_url.startsWith("http") ? item.poster_url : `https://phimimg.com{item.poster_url.replace(/^\/+/, "")}`)
+                : "";
+            const imdbId = (item.imdb && item.imdb.id && /^tt\d+/i.test(String(item.imdb.id))) ? String(item.imdb.id).toLowerCase() : null;
+
+            return {
+                id: imdbId || `kk_${item.slug}`,
+                imdb_id: imdbId || undefined,
+                type: (item.type === "single" || item.episode_total === "1") ? "movie" : "series",
+                name: item.name,
+                poster: posterUrl,
+                releaseInfo: String(item.year || ""),
+                description: item.origin_name || ""
+            };
+        });
+    } catch (e) {
+        return [];
     }
 }
 
+async function getMeta(id, mediaType) {
+    try {
+        const rawId = String(id || "").trim();
+        let metaResult = null;
+        let tmdbId = "";
+        let isMovie = (mediaType === "movie");
 
+        if (/^tt\d+/i.test(rawId)) {
+            const match = rawId.match(/(tt\d+)/i);
+            const cleanImdbId = match ? match.shift().toLowerCase() : rawId;
+            const res = await fetch(`${TMDB_API}/find/${cleanImdbId}?api_key=${TMDB_KEY}&external_source=imdb_id&language=vi-VN`);
+            const json = await res.json();
+            const item = (json.movie_results && json.movie_results.shift()) || (json.tv_results && json.tv_results.shift());
 
+            if (item) {
+                isMovie = Boolean(item.title);
+                tmdbId = String(item.id || "");
+                metaResult = {
+                    id: cleanImdbId,
+                    imdb_id: cleanImdbId,
+                    type: isMovie ? "movie" : "series",
+                    name: item.title || item.name,
+                    poster: item.poster_path ? `https://tmdb.org{item.poster_path}` : "",
+                    background: item.backdrop_path ? `https://tmdb.org{item.backdrop_path}` : "",
+                    description: item.overview || "",
+                    releaseInfo: (item.release_date || item.first_air_date || "").slice(0, 4)
+                };
+            }
+        }
+
+        let kkDetail = null;
+        if (tmdbId) {
+            try {
+                const kkRes = await fetch(`${KK_API}/tmdb/${isMovie ? "movie" : "tv"}/${tmdbId}`, { headers: API_HEADERS });
+                const kkJson = await kkRes.json();
+                if (kkJson && kkJson.status && kkJson.episodes) kkDetail = kkJson;
+            } catch (e) {}
+        } else if (rawId.startsWith("kk_")) {
+            const slug = rawId.replace(/^kk_/, "");
+            const kkRes = await fetch(`${KK_API}/phim/${slug}`, { headers: API_HEADERS });
+            kkDetail = await kkRes.json();
+        }
+
+        if (kkDetail && kkDetail.movie) {
+            const movie = kkDetail.movie;
+            const episodes = kkDetail.episodes || [];
+            const baseStdId = metaResult ? metaResult.id : `kk_${movie.slug}`;
+            const epThumb = (metaResult && metaResult.background) || movie.thumb_url || movie.poster_url || "";
+
+            if (!metaResult) {
+                isMovie = (movie.type === "single");
+                metaResult = {
+                    id: baseStdId,
+                    type: isMovie ? "movie" : "series",
+                    name: movie.name,
+                    poster: movie.poster_url || "",
+                    background: movie.thumb_url || "",
+                    description: (movie.content || "").replace(/<[^>]*>?/gm, ""),
+                    releaseInfo: String(movie.year || "")
+                };
+            }
+
+            if (!isMovie && episodes.length > 0) {
+                const epImagesMap = {};
+                if (tmdbId) {
+                    try {
+                        const sRes = await fetch(`${TMDB_API}/tv/${tmdbId}/season/1?api_key=${TMDB_KEY}&language=vi-VN`);
+                        const sJson = await sRes.json();
+                        (sJson.episodes || []).forEach(e => {
+                            if (e.episode_number && e.still_path) {
+                                epImagesMap[e.episode_number] = `https://tmdb.org{e.still_path}`;
+                            }
+                        });
+                    } catch (e) {}
+                }
+
+                const mainServer = episodes.reduce((p, c) => ((c.server_data && c.server_data.length) || 0) > ((p.server_data && p.server_data.length) || 0) ? c : p, { server_data: [] });
+                const videos = [];
+
+                (mainServer.server_data || []).forEach((ep, idx) => {
+                    const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
+                    videos.push({
+                        id: `${baseStdId}:1:${epNum}`,
+                        title: ep.name || `Tập ${epNum}`,
+                        season: 1,
+                        episode: epNum,
+                        thumbnail: epImagesMap[epNum] || epThumb,
+                        overview: `${movie.name} - ${ep.name || `Tập ${epNum}`}`
+                    });
+                });
+                metaResult.videos = videos;
+            }
+        }
+
+        return metaResult || {};
+    } catch (e) {
+        return {};
+    }
+}
 
 if (typeof module !== "undefined" && module.exports) {
     module.exports = {
