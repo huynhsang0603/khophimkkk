@@ -205,6 +205,25 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         return [];
     }
 }
+        const finalStreams = [...dubStreams, ...subStreams];
+        if (finalStreams.length === 0) {
+            return [{
+                name: "KKPhim Debug",
+                title: `Rong: ID=${rawId} | Type=${type} | Ep=${epTarget} | CoPhim=${Boolean(detailJson && detailJson.movie)}`,
+                url: "https://phimapi.com",
+                provider: "KKPhim"
+            }];
+        }
+        return finalStreams;
+    } catch (err) {
+        return [{
+            name: "KKPhim Error",
+            title: `Loi: ${err && err.message ? err.message : String(err)}`,
+            url: "https://phimapi.com",
+            provider: "KKPhim"
+        }];
+    }
+}
 
 
 
