@@ -209,10 +209,11 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 
 
 
-module.exports = {
-    name: "KKPhim",
-    getStreams,
-    searchKkphim,
-    getCatalog,
-    getMeta
-};
+if (typeof module !== "undefined" && module.exports) {
+    module.exports = {
+        getStreams,
+        searchKkphim,
+        getCatalog,
+        getMeta
+    };
+}
