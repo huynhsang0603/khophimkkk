@@ -1,3 +1,4 @@
+
 const KK_API = "https://phimapi.com";
 const TMDB_KEY = "439c478a771f35c05022d9feabcca01c";
 
@@ -191,7 +192,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                     provider: "KKPhim",
                     headers: {
                         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://player.phimapi.com/"
+                        "Referer": "https://phimapi.com"
                     }
                 };
                 if (isDub) dubStreams.push(streamObj);
@@ -205,7 +206,9 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     }
 }
 
-
+if (typeof module !== "undefined" && module.exports) {
+    module.exports = { getStreams, searchKkphim };
+}
 
 
 module.exports = {
