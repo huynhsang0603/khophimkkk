@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "id": "tmdb:331912",
+    "type": "series",
+    "name": "Đối Chứng",
+    "poster": "https://phimimg.com/uploads/movies/20260907/doi-chung-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+    "description": "Đối Chứng theo chân quá trình trưởng thành trong sự nghiệp của Trình Chỉ Hân, một nữ bác sĩ pháp y mới vào nghề. Được điều động đến làm việc dưới trướng ân nhân Lâm Sâm, Chỉ Hân luôn cố gắng vượt qua mọi khó khăn để được công nhận thực lực. Sau khi giúp cảnh sát tổ trọng án Cao Tuấn thoát khỏi cáo buộc giết người, cô lại càng được đồng nghiệp và cấp trên tin tưởng. Cũng từ đó, Chỉ Hân cùng Lâm Sâm và Cao Tuấn trở thành một bộ ba ăn ý, hỗ trợ nhau phá giải nhiều vụ án bí ẩn.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "tmdb:331912:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 01",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 02",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 03",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 04",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 05",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 06",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:7",
+        "title": "Tập 07",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 07",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:8",
+        "title": "Tập 08",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 08",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:9",
+        "title": "Tập 09",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 09",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:10",
+        "title": "Tập 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 10",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:11",
+        "title": "Tập 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 11",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:12",
+        "title": "Tập 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 12",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:13",
+        "title": "Tập 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 13",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:14",
+        "title": "Tập 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 14",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:15",
+        "title": "Tập 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 15",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:16",
+        "title": "Tập 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 16",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:17",
+        "title": "Tập 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 17",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:18",
+        "title": "Tập 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 18",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:19",
+        "title": "Tập 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 19",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:20",
+        "title": "Tập 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 20",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:21",
+        "title": "Tập 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 21",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:22",
+        "title": "Tập 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 22",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:23",
+        "title": "Tập 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 23",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:24",
+        "title": "Tập 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 24",
+        "released": "2026-11-26T00:19:41.050Z"
+      },
+      {
+        "id": "tmdb:331912:1:25",
+        "title": "Tập 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+        "overview": "Đối Chứng - Tập 25",
+        "released": "2026-11-26T00:19:41.050Z"
+      }
+    ]
+  }
+}

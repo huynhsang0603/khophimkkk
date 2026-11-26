@@ -1,6 +1,6 @@
 {
   "id": "org.github.kkphim.static7",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "name": "KKPhim 7 Danh Mục (GitHub Serverless)",
   "description": "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
   "resources": [
@@ -13,7 +13,8 @@
   ],
   "idPrefixes": [
     "kk_",
-    "tmdb:"
+    "tmdb:",
+    "tt"
   ],
   "catalogs": [
     {
@@ -22,9 +23,9 @@
       "name": "KKPhim - Hôm Nay Xem Gì"
     },
     {
-      "type": "movie",
-      "id": "kk_kr_movies",
-      "name": "KKPhim - Phim Hong kong"
+      "type": "series",
+      "id": "kk_hk",
+      "name": "KKPhim - Phim Hồng Kông"
     },
     {
       "type": "series",
@@ -38,12 +39,12 @@
     },
     {
       "type": "series",
-      "id": "kk_tv",
+      "id": "kk_tm",
       "name": "KKPhim - Phim Thuyết Minh"
     },
     {
       "type": "series",
-      "id": "kk_tv",
+      "id": "kk_lt",
       "name": "KKPhim - Phim Lồng Tiếng"
     },
     {

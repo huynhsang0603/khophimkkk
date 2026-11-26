@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "id": "tt31122067",
+    "type": "series",
+    "name": "Stokes Twins (Phần 1)",
+    "poster": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+    "description": "Từ những căn phòng bí mật cho đến các trò chơi khăm và thử thách không tưởng, anh em nhà Stokes biến những điều bất khả thi thành hiện thực trong tuyển tập các video triệu view đình đám nhất của họ.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "tt31122067:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 01",
+        "released": "2026-11-26T00:20:02.269Z"
+      },
+      {
+        "id": "tt31122067:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 02",
+        "released": "2026-11-26T00:20:02.269Z"
+      },
+      {
+        "id": "tt31122067:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 03",
+        "released": "2026-11-26T00:20:02.269Z"
+      },
+      {
+        "id": "tt31122067:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 04",
+        "released": "2026-11-26T00:20:02.269Z"
+      },
+      {
+        "id": "tt31122067:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 05",
+        "released": "2026-11-26T00:20:02.269Z"
+      },
+      {
+        "id": "tt31122067:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 06",
+        "released": "2026-11-26T00:20:02.269Z"
+      },
+      {
+        "id": "tt31122067:1:7",
+        "title": "Tập 07",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 07",
+        "released": "2026-11-26T00:20:02.269Z"
+      },
+      {
+        "id": "tt31122067:1:8",
+        "title": "Tập 08",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+        "overview": "Stokes Twins (Phần 1) - Tập 08",
+        "released": "2026-11-26T00:20:02.269Z"
+      }
+    ]
+  }
+}

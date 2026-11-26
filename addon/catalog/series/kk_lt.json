@@ -1,0 +1,244 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:299276",
+      "type": "series",
+      "name": "Cuộc Chiến Hoa Hồng (War Of Thorns)",
+      "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
+      "description": "Tập 20 • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt0182647",
+      "type": "series",
+      "name": "Siêu Nhân Tiga (Ultraman Tiga)",
+      "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+      "description": "Tập 21 • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tmdb:319938",
+      "type": "series",
+      "name": "Thợ Săn Giác Thú Omegahorn (KakuseiHunter Omegahorn)",
+      "poster": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260726/tho-san-giac-thu-omegahorn-thumb.webp",
+      "description": "Tập 17 • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt41416782",
+      "type": "series",
+      "name": "Hiệp Sĩ Mặt Nạ MY-TH: Huyền Thoại 12 Con Giáp (Kamen Rider MY-TH)",
+      "poster": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260907/hiep-si-mat-na-my-th-thumb.webp",
+      "description": "Tập 11 • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt41846573",
+      "type": "series",
+      "name": "Chiến Binh Ánh Sáng TEO (Ultraman Teo)",
+      "poster": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260708/chien-binh-anh-sang-teo-thumb.webp",
+      "description": "Tập 21 • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt35324004",
+      "type": "series",
+      "name": "Thượng Công Chúa (Tigers Sniff the Rose)",
+      "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+      "description": "Hoàn Tất (40/40) • FHD • Vietsub + Thuyết Minh + Lồng Tiếng"
+    },
+    {
+      "id": "tt31122067",
+      "type": "series",
+      "name": "Stokes Twins (Phần 2) (Stokes Twins (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-2-thumb.webp",
+      "description": "Hoàn Tất (9/9) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt31122067",
+      "type": "series",
+      "name": "Stokes Twins (Phần 1) (Stokes Twins (Season 1))",
+      "poster": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261117/stokes-twins-phan-1-thumb.webp",
+      "description": "Hoàn Tất (8/8) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt22479848",
+      "type": "series",
+      "name": "Người Nào Đó (Somebody)",
+      "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
+      "description": "Hoàn Tất (8/8) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt39443161",
+      "type": "series",
+      "name": "Thành Phố Rực Rỡ (This City Never Sleeps)",
+      "poster": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261013/thanh-pho-ruc-ro-thumb.webp",
+      "description": "Hoàn Tất (20/20) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Siêu Trộm Lupin (Phần 4) (Lupin (Season 4))",
+      "poster": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
+      "description": "Hoàn Tất (8/8) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Siêu Trộm Lupin (Phần 3) (Lupin (Season 3))",
+      "poster": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261024/lupin-phan-3-thumb.webp",
+      "description": "Hoàn Tất (7/7) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Siêu Trộm Lupin (Phần 2) (Lupin (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261024/lupin-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261024/lupin-phan-2-thumb.webp",
+      "description": "Hoàn Tất (5/5) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt2531336",
+      "type": "series",
+      "name": "Siêu Trộm Lupin (Phần 1) (Lupin (Season 1))",
+      "poster": "https://phimimg.com/uploads/movies/20261024/lupin-phan-1-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261024/lupin-phan-1-thumb.webp",
+      "description": "Hoàn Tất (5/5) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tmdb:70900",
+      "type": "series",
+      "name": "Duyên Nợ Tiền Kiếp / Nhân Duyên Tiền Định (Previous Lives / Tae Pang Korn)",
+      "poster": "https://phimimg.com/uploads/movies/20261022/duyen-no-tien-kiep-nhan-duyen-tien-dinh-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261022/duyen-no-tien-kiep-nhan-duyen-tien-dinh-thumb.webp",
+      "description": "Hoàn Tất (28/28) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "Nhà Ngoại Giao (Phần 4) (The Diplomat (Season 4))",
+      "poster": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261016/nha-ngoai-giao-phan-4-thumb.webp",
+      "description": "Hoàn Tất (8/8) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "Nhà Ngoại Giao (Phần 3) (The Diplomat (Season 3))",
+      "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+      "background": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
+      "description": "Hoàn Tất (8/8) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "Nhà Ngoại Giao (Phần 2) (The Diplomat (Season 2))",
+      "poster": "https://phimimg.com/upload/vod/20251017-1/544ab7e6c04795c398235f30856efc9a.jpg",
+      "background": "https://phimimg.com/upload/vod/20251017-1/570075821e3e9bb065b31405e0093d1d.jpg",
+      "description": "Hoàn Tất (6/6) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt17491088",
+      "type": "series",
+      "name": "Nhà Ngoại Giao (Phần 1) (The Diplomat (Season 1))",
+      "poster": "https://phimimg.com/upload/vod/20251017-1/e8ad839ee4b7e08b0cee00209b642166.jpg",
+      "background": "https://phimimg.com/upload/vod/20251017-1/207cd1798a2b3bf922fa596ea59b7abd.jpg",
+      "description": "Hoàn Tất (8/8) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tmdb:270713",
+      "type": "series",
+      "name": "Thám Tình An / Kỳ Án Se Duyên (Dawn Amidst Hidden Clouds)",
+      "poster": "https://phimimg.com/uploads/movies/20261016/tham-tinh-an-ky-an-se-duyen-poster.webp",
+      "background": "https://phimimg.com/upload/vod/20241026-1/68a4f91b35a5e0a7adc2a840e17cd3a0.jpg",
+      "description": "Hoàn Tất (22/22) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt6912356",
+      "type": "series",
+      "name": "Liệt Hỏa Như Ca (The Flame's Daughter)",
+      "poster": "https://phimimg.com/uploads/movies/20261014/liet-hoa-nhu-ca-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261014/liet-hoa-nhu-ca-thumb.webp",
+      "description": "Hoàn Tất (52/52) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tmdb:331912",
+      "type": "series",
+      "name": "Đối Chứng (Cause Of Death)",
+      "poster": "https://phimimg.com/uploads/movies/20260907/doi-chung-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260907/doi-chung-thumb.webp",
+      "description": "Hoàn Tất (25/25) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt37537640",
+      "type": "series",
+      "name": "Vọng Âm Nơi Cố Đô Đã Mất / Truyền Thuyết Hồ Thiêng (Echoes Of The Lost City)",
+      "poster": "https://phimimg.com/upload/vod/20250717-1/c808b7ce358a3ffbf7f47fe3217dad7e.jpg",
+      "background": "https://phimimg.com/upload/vod/20250717-1/ee986c9fac2f9a3f6e67d84af97ad194.jpg",
+      "description": "Hoàn Tất (38/38) • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "tt2469954",
+      "type": "series",
+      "name": "Thần Thám Địch Nhân Kiệt (Phần 4) (Amazing Detective Di Renjie (Season 4))",
+      "poster": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-4-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-4-thumb.webp",
+      "description": "Hoàn Tất (44/44) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt2469954",
+      "type": "series",
+      "name": "Thần Thám Địch Nhân Kiệt (Phần 3) (Amazing Detective Di Renjie (Season 3))",
+      "poster": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-3-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-3-thumb.webp",
+      "description": "Hoàn Tất (48/48) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt2469954",
+      "type": "series",
+      "name": "Thần Thám Địch Nhân Kiệt (Phần 2) (Amazing Detective Di Renjie (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-2-thumb.webp",
+      "description": "Hoàn Tất (40/40) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt2469954",
+      "type": "series",
+      "name": "Thần Thám Địch Nhân Kiệt (Phần 1) (Amazing Detective Di Renjie (Season 1))",
+      "poster": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-1-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261006/than-tham-dich-nhan-kiet-phan-1-thumb.webp",
+      "description": "Hoàn Tất (34/34) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tt28114809",
+      "type": "series",
+      "name": "Trường Tương Tư (Phần 2) (Lost You Forever (Season 2))",
+      "poster": "https://phimimg.com/upload/vod/20250708-1/43ac660e5b770f8b391980bce904020d.jpg",
+      "background": "https://phimimg.com/upload/vod/20250708-1/542c35a122ae86a245842eedb5680f47.jpg",
+      "description": "Hoàn Tất (23/23) • FHD • Vietsub + Thuyết Minh + Lồng Tiếng"
+    },
+    {
+      "id": "tmdb:214190",
+      "type": "series",
+      "name": "Tiên Kiếm (Phần 3) (A Happy Life (Season 3))",
+      "poster": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-3-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-3-thumb.webp",
+      "description": "Hoàn Tất (63/63) • FHD • Lồng Tiếng"
+    },
+    {
+      "id": "tmdb:97367",
+      "type": "series",
+      "name": "Tiên Kiếm (Phần 2) (A Happy Life (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261001/tien-kiem-phan-2-thumb.webp",
+      "description": "Hoàn Tất (48/48) • FHD • Lồng Tiếng"
+    }
+  ]
+}
