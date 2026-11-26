@@ -26,6 +26,7 @@
     },
     {
       "id": "tt43339903",
+      "imdb_id": "tt43339903",
       "type": "series",
       "name": "Thú Vương Chiến Thần Dandevain (Dandivine)",
       "poster": "https://phimimg.com/uploads/movies/20261009/thu-vuong-chien-than-dandevain-poster.webp",
@@ -34,6 +35,7 @@
     },
     {
       "id": "tt43691408",
+      "imdb_id": "tt43691408",
       "type": "series",
       "name": "Bắt Đầu Làm Ma Nữ Mạnh Nhất Thế Giới (The World's Strongest Witch)",
       "poster": "https://phimimg.com/uploads/movies/20261009/bat-dau-lam-ma-nu-manh-nhat-the-gioi-poster.webp",
@@ -42,6 +44,7 @@
     },
     {
       "id": "tt15660128",
+      "imdb_id": "tt15660128",
       "type": "series",
       "name": "Tân Hoàng Tử Tennis U-17 World Cup: Trận Tuyển Chọn Thành Viên Cuối Cùng (The Prince Of Tennis II U-17 WORLD CUP: Final Member Selection Match)",
       "poster": "https://phimimg.com/uploads/movies/20261011/tan-hoang-tu-tennis-u-17-world-cup-tran-tuyen-chon-thanh-vien-cuoi-cung-poster-2.webp",
@@ -50,6 +53,7 @@
     },
     {
       "id": "tt13884052",
+      "imdb_id": "tt13884052",
       "type": "series",
       "name": "Thám Tử Đã Chết (Phần 2) (The Detective Is Already Dead (Season 2))",
       "poster": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-poster.webp",
@@ -58,6 +62,7 @@
     },
     {
       "id": "tt27524116",
+      "imdb_id": "tt27524116",
       "type": "series",
       "name": "Sasaki Và P-chan (Phần 2) (Sasaki and Peeps (Season 1))",
       "poster": "https://phimimg.com/uploads/movies/20261009/sasaki-va-p-chan-phan-2-poster.webp",
@@ -66,6 +71,7 @@
     },
     {
       "id": "tt27517921",
+      "imdb_id": "tt27517921",
       "type": "series",
       "name": "Nghịch Thiên Tà Thần (Against The Gods)",
       "poster": "https://phimimg.com/upload/vod/20260420-1/0a4c1589001cf10c879d5b8c4f7e75d6.jpg",
@@ -74,6 +80,7 @@
     },
     {
       "id": "tt32813343",
+      "imdb_id": "tt32813343",
       "type": "series",
       "name": "Hiệp Sĩ Phép Thuật Rayearth (Magic Knight Rayearth)",
       "poster": "https://phimimg.com/uploads/movies/20261009/hiep-si-phep-thuat-rayearth-poster.webp",
@@ -82,6 +89,7 @@
     },
     {
       "id": "tt15483602",
+      "imdb_id": "tt15483602",
       "type": "series",
       "name": "Chuyển Sinh Thành Kiếm (Phần 2) (Reincarnated As A Sword (Season 2))",
       "poster": "https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-2-poster.webp",
@@ -90,6 +98,7 @@
     },
     {
       "id": "tt28313387",
+      "imdb_id": "tt28313387",
       "type": "series",
       "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 2) (A Returner's Magic Should Be Special (Season 2))",
       "poster": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-poster.webp",
@@ -98,6 +107,7 @@
     },
     {
       "id": "tt27834263",
+      "imdb_id": "tt27834263",
       "type": "series",
       "name": "Sư Huynh À Sư Huynh (My Senior Brother is Too Steady)",
       "poster": "https://phimimg.com/upload/vod/20250117-1/a9e32b44820101a9ba2c887344f7334c.jpg",
@@ -130,6 +140,7 @@
     },
     {
       "id": "tt43691412",
+      "imdb_id": "tt43691412",
       "type": "series",
       "name": "Pháp Sư Gian Lận Bị Sa Thải Tận Hưởng Cuộc Sống Thứ Hai (The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life)",
       "poster": "https://phimimg.com/uploads/movies/20261008/phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai-poster.webp",
@@ -138,6 +149,7 @@
     },
     {
       "id": "tt43691365",
+      "imdb_id": "tt43691365",
       "type": "series",
       "name": "Sato-san Lạnh Lùng Chỉ Dịu Dàng Với Tôi (The Cold Sato-san Is Only Sweet to Me)",
       "poster": "https://phimimg.com/uploads/movies/20261008/sato-san-lanh-lung-chi-diu-dang-voi-toi-poster.webp",
@@ -146,6 +158,7 @@
     },
     {
       "id": "tt35769369",
+      "imdb_id": "tt35769369",
       "type": "series",
       "name": "Chitose Trong Chai Ramune (Chitose Is In The Ramune Bottle)",
       "poster": "https://phimimg.com/upload/vod/20251008-1/20bb877d15cccb1784990a3e5033d1b1.jpg",
@@ -154,6 +167,7 @@
     },
     {
       "id": "tt39390769",
+      "imdb_id": "tt39390769",
       "type": "series",
       "name": "Cỗ Máy Bóng Tối (DARK MACHINE THE ANIMATION)",
       "poster": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-poster.webp",
@@ -162,6 +176,7 @@
     },
     {
       "id": "tt43691391",
+      "imdb_id": "tt43691391",
       "type": "series",
       "name": "Siêu Cảnh Sát Tâm Linh Chojo (Super Psychic Policeman Chojo)",
       "poster": "https://phimimg.com/uploads/movies/20261008/sieu-canh-sat-tam-linh-chojo-poster.webp",
@@ -170,6 +185,7 @@
     },
     {
       "id": "tt42938834",
+      "imdb_id": "tt42938834",
       "type": "series",
       "name": "Suikoden: The Anime (Suikoden: The Anime)",
       "poster": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-poster.webp",
@@ -178,6 +194,7 @@
     },
     {
       "id": "tt41295113",
+      "imdb_id": "tt41295113",
       "type": "series",
       "name": "Battle Spirits [Re]: Tuyệt Giới Thiên Không (Battle Spirits [Re] ZEKKAI NO KU)",
       "poster": "https://phimimg.com/uploads/movies/20261007/battle-spirits-re-tuyet-gioi-thien-khong-poster.webp",
@@ -194,6 +211,7 @@
     },
     {
       "id": "tt41296544",
+      "imdb_id": "tt41296544",
       "type": "series",
       "name": "Tiểu Thư Cuồng Loạn Nia Liston (Nia Liston: The Merciless Maiden)",
       "poster": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-poster.webp",
@@ -202,6 +220,7 @@
     },
     {
       "id": "tt34882755",
+      "imdb_id": "tt34882755",
       "type": "series",
       "name": "Vạn Giới Độc Tôn (Ten Thousand Worlds)",
       "poster": "https://phimimg.com/upload/vod/20250308-1/25c9c7486b5de820475bd8fe0ccb316e.jpg",
@@ -210,6 +229,7 @@
     },
     {
       "id": "tt28210907",
+      "imdb_id": "tt28210907",
       "type": "series",
       "name": "Luyện Khí Mười Vạn Năm (One Hundred Thousand Years of Qi Refining)",
       "poster": "https://phimimg.com/upload/vod/20250219-1/0ddffeb590aa6bad556a0724302487ad.jpg",
@@ -226,6 +246,7 @@
     },
     {
       "id": "tt27617390",
+      "imdb_id": "tt27617390",
       "type": "series",
       "name": "Già Thiên (Shrouding The Heavens)",
       "poster": "https://phimimg.com/upload/vod/20240411-1/0a4084fdfad19ecab9f1f53d629bf422.jpg",
@@ -234,6 +255,7 @@
     },
     {
       "id": "tt39240299",
+      "imdb_id": "tt39240299",
       "type": "series",
       "name": "Dự Án Nuôi Dưỡng Cô Gái Phép Thuật: Khởi Động Lại (Magical Girl Raising Project: Restart)",
       "poster": "https://phimimg.com/uploads/movies/20261008/du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai-poster.webp",

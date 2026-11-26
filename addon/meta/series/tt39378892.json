@@ -1,6 +1,7 @@
 {
   "meta": {
     "id": "tt39378892",
+    "imdb_id": "tt39378892",
     "type": "series",
     "name": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim",
     "poster": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-poster.webp",
@@ -15,7 +16,7 @@
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
         "overview": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim - Tập 01",
-        "released": "2026-11-26T09:15:46.205Z"
+        "released": "2026-11-26T09:50:14.640Z"
       },
       {
         "id": "tt39378892:1:2",
@@ -24,7 +25,7 @@
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
         "overview": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim - Tập 02",
-        "released": "2026-11-26T09:15:46.205Z"
+        "released": "2026-11-26T09:50:14.640Z"
       },
       {
         "id": "tt39378892:1:3",
@@ -33,7 +34,7 @@
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
         "overview": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim - Tập 03",
-        "released": "2026-11-26T09:15:46.205Z"
+        "released": "2026-11-26T09:50:14.640Z"
       },
       {
         "id": "tt39378892:1:4",
@@ -42,7 +43,7 @@
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
         "overview": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim - Tập 04",
-        "released": "2026-11-26T09:15:46.205Z"
+        "released": "2026-11-26T09:50:14.640Z"
       },
       {
         "id": "tt39378892:1:5",
@@ -51,7 +52,7 @@
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
         "overview": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim - Tập 05",
-        "released": "2026-11-26T09:15:46.205Z"
+        "released": "2026-11-26T09:50:14.640Z"
       },
       {
         "id": "tt39378892:1:6",
@@ -60,7 +61,7 @@
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261023/to-am-tinh-yeu-thumb.webp",
         "overview": "Tổ Ấm Tình Yêu / Kiến Tạo Trái Tim - Tập 06",
-        "released": "2026-11-26T09:15:46.205Z"
+        "released": "2026-11-26T09:50:14.640Z"
       }
     ]
   }
