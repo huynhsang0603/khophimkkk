@@ -205,34 +205,8 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     }
 }
 
-async function search(query) {
-    if (!query || !String(query).trim()) return [];
-    try {
-        const res = await fetch(`${KK_API}/v1/api/tim-kiem?keyword=${encodeURIComponent(String(query).trim())}&limit=20`, {
-            headers: { accept: "application/json" }
-        });
-        const data = await res.json();
-        const items = (data && data.data && data.data.items) || [];
-
-        return items.map(item => {
-            const posterUrl = item.poster_url
-                ? (item.poster_url.startsWith("http") ? item.poster_url : `https://phimimg.com{item.poster_url.replace(/^\/+/, "")}`)
-                : "";
-            const isMovie = item.type === "single" || item.episode_total === "1";
-
-            return {
-                id: `kk_${item.slug}`,
-                type: isMovie ? "movie" : "tv",
-                title: item.name,
-                originalTitle: item.origin_name || "",
-                year: item.year ? parseInt(String(item.year), 10) : undefined,
-                poster: posterUrl,
-                provider: "KKPhim"
-            };
-        });
-    } catch (e) {
-        return [];
-    }
+if (typeof module !== "undefined" && module.exports) {
+    module.exports = { getStreams, searchKkphim };
 }
 
 
