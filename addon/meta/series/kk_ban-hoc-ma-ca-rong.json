@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": "kk_ban-hoc-ma-ca-rong",
+    "type": "series",
+    "name": "Bạn Học Ma Cà Rồng",
+    "poster": "https://phimimg.com/uploads/movies/20261106/ban-hoc-ma-ca-rong-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261106/ban-hoc-ma-ca-rong-thumb.webp",
+    "description": "Bạn Học Ma Cà Rồng (Francesca Next Door) theo chân nàng ma cà rồng Pi Na Young từ Romania đến Hàn Quốc và cố gắng che giấu thân phận để sống như một nữ sinh bình thường. Tại trường mới, cô gặp Jang U Ju, lớp trưởng gương mẫu được giao nhiệm vụ giúp cô hòa nhập. Khi cả hai dần nảy sinh tình cảm, Na Young phải đối mặt với những xung đột giữa tình yêu đầu đời và bản năng ma cà rồng.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_ban-hoc-ma-ca-rong:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261106/ban-hoc-ma-ca-rong-thumb.webp",
+        "overview": "Bạn Học Ma Cà Rồng - Tập 01",
+        "released": "2026-11-26T00:11:29.884Z"
+      },
+      {
+        "id": "kk_ban-hoc-ma-ca-rong:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261106/ban-hoc-ma-ca-rong-thumb.webp",
+        "overview": "Bạn Học Ma Cà Rồng - Tập 02",
+        "released": "2026-11-26T00:11:29.884Z"
+      },
+      {
+        "id": "kk_ban-hoc-ma-ca-rong:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261106/ban-hoc-ma-ca-rong-thumb.webp",
+        "overview": "Bạn Học Ma Cà Rồng - Tập 03",
+        "released": "2026-11-26T00:11:29.884Z"
+      },
+      {
+        "id": "kk_ban-hoc-ma-ca-rong:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261106/ban-hoc-ma-ca-rong-thumb.webp",
+        "overview": "Bạn Học Ma Cà Rồng - Tập 04",
+        "released": "2026-11-26T00:11:29.884Z"
+      }
+    ]
+  }
+}

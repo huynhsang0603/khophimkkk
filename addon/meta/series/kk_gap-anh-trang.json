@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "id": "kk_gap-anh-trang",
+    "type": "series",
+    "name": "Gấp Ánh Trăng",
+    "poster": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+    "description": "Vân Li, cô gái mắc chứng sợ giao tiếp nghiêm trọng, đến Nam Vu học cao học để chứng minh mình có thể sống tự lập và tình cờ gặp lại Phó Thức Tắc, chàng trai cô thầm mến từ thời trung học.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_gap-anh-trang:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 01",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 02",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 03",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 04",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 05",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 06",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:7",
+        "title": "Tập 07",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 07",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:8",
+        "title": "Tập 08",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 08",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:9",
+        "title": "Tập 09",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 09",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:10",
+        "title": "Tập 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 10",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:11",
+        "title": "Tập 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 11",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:12",
+        "title": "Tập 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 12",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:13",
+        "title": "Tập 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 13",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:14",
+        "title": "Tập 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 14",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:15",
+        "title": "Tập 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 15",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:16",
+        "title": "Tập 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 16",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:17",
+        "title": "Tập 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 17",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:18",
+        "title": "Tập 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 18",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:19",
+        "title": "Tập 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 19",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:20",
+        "title": "Tập 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 20",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:21",
+        "title": "Tập 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 21",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:22",
+        "title": "Tập 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 22",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:23",
+        "title": "Tập 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 23",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:24",
+        "title": "Tập 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 24",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:25",
+        "title": "Tập 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 25",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:26",
+        "title": "Tập 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 26",
+        "released": "2026-11-26T00:11:29.362Z"
+      },
+      {
+        "id": "kk_gap-anh-trang:1:27",
+        "title": "Tập 27",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261105/gap-anh-trang-thumb.webp",
+        "overview": "Gấp Ánh Trăng - Tập 27",
+        "released": "2026-11-26T00:11:29.362Z"
+      }
+    ]
+  }
+}

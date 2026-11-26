@@ -1,6 +1,6 @@
 {
   "id": "org.github.kkphim.static7",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "KKPhim 7 Danh Mục (GitHub Serverless)",
   "description": "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
   "resources": [
@@ -18,13 +18,13 @@
   "catalogs": [
     {
       "type": "series",
-      "id": "kk_hot",
+      "id": "kk_home",
       "name": "KKPhim - Hôm Nay Xem Gì"
     },
     {
-      "type": "series",
-      "id": "kk_updated",
-      "name": "KKPhim - Phim Mới Cập Nhật"
+      "type": "movie",
+      "id": "kk_kr_movies",
+      "name": "KKPhim - Phim Hong kong"
     },
     {
       "type": "series",
@@ -39,17 +39,17 @@
     {
       "type": "series",
       "id": "kk_tv",
-      "name": "KKPhim - Phim Truyền Hình"
+      "name": "KKPhim - Phim Thuyết Minh"
+    },
+    {
+      "type": "series",
+      "id": "kk_tv",
+      "name": "KKPhim - Phim Lồng Tiếng"
     },
     {
       "type": "series",
       "id": "kk_anime",
       "name": "KKPhim - Phim Hoạt Hình"
-    },
-    {
-      "type": "movie",
-      "id": "kk_movies",
-      "name": "KKPhim - Phim Lẻ Mới"
     }
   ]
 }
