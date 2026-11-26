@@ -14,15 +14,15 @@ async function resolveMovieInfo(id, mediaType) {
         if (isImdb) {
             const match = rawId.match(/(tt\d+)/i);
             if (!match) return null;
-            const cleanImdbId = match.toLowerCase();
+            const cleanImdbId = match.at(0).toLowerCase();
             const [viRes, origRes] = await Promise.all([
                 fetch(`https://themoviedb.org{cleanImdbId}?api_key=${TMDB_KEY}&external_source=imdb_id&language=vi-VN`),
                 fetch(`https://themoviedb.org{cleanImdbId}?api_key=${TMDB_KEY}&external_source=imdb_id`)
             ]);
             const viJson = await viRes.json();
             const origJson = await origRes.json();
-            const viData = viJson.movie_results?. || viJson.tv_results?.;
-            const origData = origJson.movie_results?. || origJson.tv_results?.;
+            const viData = viJson.movie_results?.at(0) || viJson.tv_results?.at(0);
+            const origData = origJson.movie_results?.at(0) || origJson.tv_results?.at(0);
             if (!viData && !origData) return null;
 
             const releaseDate = viData?.release_date || viData?.first_air_date || origData?.release_date || origData?.first_air_date || "";
@@ -89,7 +89,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 
         if (rawId.includes(":")) {
             const parts = rawId.split(":");
-            if (parts.length >= 3 && !isNaN(parseInt(parts, 10))) epTarget = parseInt(parts, 10);
+            if (parts.length >= 3 && !isNaN(parseInt(parts.at(2), 10))) epTarget = parseInt(parts.at(2), 10);
         }
 
         let detailJson = null;
@@ -98,7 +98,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             const detailRes = await fetch(`${KK_API}/phim/${rawId.replace(/^kk_/, "")}`, { headers: API_HEADERS });
             detailJson = await detailRes.json();
         } else {
-            const baseId = rawId.split(":");
+            const baseId = rawId.split(":").at(0);
             const isImdb = /^tt\d+/i.test(baseId);
 
             if (!isImdb) {
@@ -127,10 +127,10 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 if (!detailJson || !detailJson.episodes) {
                     let items = await searchKkphim(info.viTitle, info.year);
                     if (items.length === 0 && info.origTitle) items = await searchKkphim(info.origTitle, info.year);
-                    if (items.length === 0 && info.origTitle.includes(":")) items = await searchKkphim(info.origTitle.split(":"), info.year);
+                    if (items.length === 0 && info.origTitle.includes(":")) items = await searchKkphim(info.origTitle.split(":").at(0), info.year);
                     if (items.length === 0) return [];
 
-                    const detailRes = await fetch(`${KK_API}/phim/${items.slug}`, { headers: API_HEADERS });
+                    const detailRes = await fetch(`${KK_API}/phim/${items.at(0).slug}`, { headers: API_HEADERS });
                     detailJson = await detailRes.json();
                 }
             }
@@ -178,6 +178,10 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     }
 }
 
-if (typeof module !== "undefined" && module.exports) {
-    module.exports = { getStreams, searchKkphim };
-}
+module.exports = {
+    name: "KKPhim",
+    getStreams,
+    searchKkphim,
+    getCatalog,
+    getMeta
+};
