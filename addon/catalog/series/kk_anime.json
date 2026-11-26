@@ -1,6 +1,102 @@
 {
   "metas": [
     {
+      "id": "tmdb:297924",
+      "type": "series",
+      "name": "Người Giữ Mộ Đại Hạ (Guardian of Xia Mausoleum / The Guardian Of Daxia)",
+      "poster": "https://phimimg.com/uploads/movies/20260930/nguoi-giu-mo-dai-ha-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260930/nguoi-giu-mo-dai-ha-thumb.webp",
+      "description": "Tập 20 • FHD • Vietsub"
+    },
+    {
+      "id": "tmdb:297923",
+      "type": "series",
+      "name": "Linh Cảnh Hành Giả (Spiritual Realm Walker)",
+      "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-thumb.webp",
+      "description": "Tập 14 • FHD • Vietsub"
+    },
+    {
+      "id": "tmdb:247568",
+      "type": "series",
+      "name": "Cuồng Vương (Phần 2) (Asura (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261014/cuong-vuong-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261014/cuong-vuong-phan-2-thumb.webp",
+      "description": "Tập 12 • FHD • Vietsub"
+    },
+    {
+      "id": "tt43339903",
+      "type": "series",
+      "name": "Thú Vương Chiến Thần Dandevain (Dandivine)",
+      "poster": "https://phimimg.com/uploads/movies/20261009/thu-vuong-chien-than-dandevain-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/thu-vuong-chien-than-dandevain-thumb.webp",
+      "description": "Tập 8 • FHD • Vietsub"
+    },
+    {
+      "id": "tt43691408",
+      "type": "series",
+      "name": "Bắt Đầu Làm Ma Nữ Mạnh Nhất Thế Giới (The World's Strongest Witch)",
+      "poster": "https://phimimg.com/uploads/movies/20261009/bat-dau-lam-ma-nu-manh-nhat-the-gioi-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/bat-dau-lam-ma-nu-manh-nhat-the-gioi-thumb.webp",
+      "description": "Tập 8 • FHD • Vietsub"
+    },
+    {
+      "id": "tt15660128",
+      "type": "series",
+      "name": "Tân Hoàng Tử Tennis U-17 World Cup: Trận Tuyển Chọn Thành Viên Cuối Cùng (The Prince Of Tennis II U-17 WORLD CUP: Final Member Selection Match)",
+      "poster": "https://phimimg.com/uploads/movies/20261011/tan-hoang-tu-tennis-u-17-world-cup-tran-tuyen-chon-thanh-vien-cuoi-cung-poster-2.webp",
+      "background": "https://phimimg.com/uploads/movies/20261011/tan-hoang-tu-tennis-u-17-world-cup-tran-tuyen-chon-thanh-vien-cuoi-cung-thumb.webp",
+      "description": "Tập 9 • FHD • Vietsub"
+    },
+    {
+      "id": "tt13884052",
+      "type": "series",
+      "name": "Thám Tử Đã Chết (Phần 2) (The Detective Is Already Dead (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/tham-tu-da-chet-phan-2-thumb.webp",
+      "description": "Tập 8 • FHD • Vietsub"
+    },
+    {
+      "id": "tt27524116",
+      "type": "series",
+      "name": "Sasaki Và P-chan (Phần 2) (Sasaki and Peeps (Season 1))",
+      "poster": "https://phimimg.com/uploads/movies/20261009/sasaki-va-p-chan-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/sasaki-va-p-chan-phan-2-thumb.webp",
+      "description": "Tập 8 • FHD • Vietsub"
+    },
+    {
+      "id": "tt27517921",
+      "type": "series",
+      "name": "Nghịch Thiên Tà Thần (Against The Gods)",
+      "poster": "https://phimimg.com/upload/vod/20260420-1/0a4c1589001cf10c879d5b8c4f7e75d6.jpg",
+      "background": "https://phimimg.com/upload/vod/20260420-1/a00de874909fb1bfb7f7749f926081a3.jpg",
+      "description": "Tập 65 • FHD • Vietsub"
+    },
+    {
+      "id": "tt32813343",
+      "type": "series",
+      "name": "Hiệp Sĩ Phép Thuật Rayearth (Magic Knight Rayearth)",
+      "poster": "https://phimimg.com/uploads/movies/20261009/hiep-si-phep-thuat-rayearth-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/hiep-si-phep-thuat-rayearth-thumb.webp",
+      "description": "Tập 8 • FHD • Vietsub"
+    },
+    {
+      "id": "tt15483602",
+      "type": "series",
+      "name": "Chuyển Sinh Thành Kiếm (Phần 2) (Reincarnated As A Sword (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261002/chuyen-sinh-thanh-kiem-phan-2-thumb.webp",
+      "description": "Tập 9 • FHD • Vietsub"
+    },
+    {
+      "id": "tt28313387",
+      "type": "series",
+      "name": "Ma Thuật Đặc Biệt Của Phù Thủy Quay Ngược Thời Gian (Phần 2) (A Returner's Magic Should Be Special (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/ma-thuat-dac-biet-cua-phu-thuy-quay-nguoc-thoi-gian-phan-2-thumb.webp",
+      "description": "Tập 8 • FHD • Vietsub"
+    },
+    {
       "id": "tt27834263",
       "type": "series",
       "name": "Sư Huynh À Sư Huynh (My Senior Brother is Too Steady)",
@@ -15,14 +111,6 @@
       "poster": "https://phimimg.com/uploads/movies/20260726/huyen-huyen-ta-thien-menh-trum-phan-dien-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20260726/huyen-huyen-ta-thien-menh-trum-phan-dien-thumb.webp",
       "description": "Tập 41 • FHD • Vietsub"
-    },
-    {
-      "id": "tmdb:297924",
-      "type": "series",
-      "name": "Người Giữ Mộ Đại Hạ (Guardian of Xia Mausoleum / The Guardian Of Daxia)",
-      "poster": "https://phimimg.com/uploads/movies/20260930/nguoi-giu-mo-dai-ha-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20260930/nguoi-giu-mo-dai-ha-thumb.webp",
-      "description": "Tập 19 • FHD • Vietsub"
     },
     {
       "id": "tmdb:341537",
@@ -151,94 +239,6 @@
       "poster": "https://phimimg.com/uploads/movies/20261008/du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261008/du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai-thumb.webp",
       "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt27432264",
-      "type": "series",
-      "name": "Tiên Nghịch (Renegade Immortal)",
-      "poster": "https://phimimg.com/uploads/movies/20260720/tien-nghich-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-      "description": "Tập 168 • FHD • Vietsub + Thuyết Minh"
-    },
-    {
-      "id": "tt17050076",
-      "type": "series",
-      "name": "Thôn Phệ Tinh Không (Swallowed Star)",
-      "poster": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
-      "background": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
-      "description": "Tập 251 • FHD • Vietsub"
-    },
-    {
-      "id": "tt43691383",
-      "type": "series",
-      "name": "Vậy Thì Việc Được Tái Sinh Thành Yêu Tinh Có Gì Sai? / Sao Nào, Tái Sinh Thành Goblins Thì Có Gì Sai? (So What's Wrong With Getting Reborn As A Goblin?)",
-      "poster": "https://phimimg.com/uploads/movies/20261006/vay-thi-viec-duoc-tai-sinh-thanh-yeu-tinh-co-gi-sai-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261006/vay-thi-viec-duoc-tai-sinh-thanh-yeu-tinh-co-gi-sai-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt15816496",
-      "type": "series",
-      "name": "Nghịch Thiên Chí Tôn (Against The Sky Supreme / Ni Tian Zhi Zun)",
-      "poster": "https://phimimg.com/upload/vod/20250903-1/fe12e74047daf65d58b996a82987f6aa.jpg",
-      "background": "https://phimimg.com/upload/vod/20250903-1/cc1e9fd59cf70b050455ceb0bf183bf3.jpg",
-      "description": "Tập 569 • FHD • Vietsub"
-    },
-    {
-      "id": "tt43691315",
-      "type": "series",
-      "name": "Vùng Đất Xa Xăm (From Far Away)",
-      "poster": "https://phimimg.com/uploads/movies/20261008/vung-dat-xa-xam-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261008/vung-dat-xa-xam-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt43691343",
-      "type": "series",
-      "name": "Nỗi Ám Ảnh Của Ông Chú Với Những Thứ Dễ Thương (Uncle's Obsession With Cute Things)",
-      "poster": "https://phimimg.com/uploads/movies/20261005/noi-am-anh-cua-ong-chu-voi-nhung-thu-de-thuong-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261005/noi-am-anh-cua-ong-chu-voi-nhung-thu-de-thuong-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt43650419",
-      "type": "series",
-      "name": "Thu Hồi Cưỡng Chế Ma Lực Đã Cho Mượn Bằng Hình Thức Trả Góp (Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!)",
-      "poster": "https://phimimg.com/uploads/movies/20261007/thu-hoi-cuong-che-ma-luc-da-cho-muon-bang-hinh-thuc-tra-gop-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261007/thu-hoi-cuong-che-ma-luc-da-cho-muon-bang-hinh-thuc-tra-gop-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt43691353",
-      "type": "series",
-      "name": "Thợ Rèn Huyền Thoại (Overgeared)",
-      "poster": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261004/tho-ren-huyen-thoai-thumb.webp",
-      "description": "Tập 9 • FHD • Vietsub"
-    },
-    {
-      "id": "tt38572778",
-      "type": "series",
-      "name": "Monster Strike: Deadverse Reloaded (Strike World: Deadverse Reloaded the Anime)",
-      "poster": "https://phimimg.com/uploads/movies/20261115/monster-strike-deadverse-reloaded-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261115/monster-strike-deadverse-reloaded-thumb.webp",
-      "description": "Tập 10 • FHD • Vietsub"
-    },
-    {
-      "id": "tt35995459",
-      "type": "series",
-      "name": "Khách Sạn Sát Thủ (Phần 2) (Hotel Inhumans (Season 2))",
-      "poster": "https://phimimg.com/uploads/movies/20261006/khach-san-sat-thu-phan-2-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261006/khach-san-sat-thu-phan-2-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "tt43650265",
-      "type": "series",
-      "name": "Phá Đảo Dị Giới Cùng Nữ Thần Không Tín Đồ (Full Clearing Another World Under A Goddess With Zero Believers)",
-      "poster": "https://phimimg.com/uploads/movies/20261012/pha-dao-di-gioi-cung-nu-than-khong-tin-do-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261012/pha-dao-di-gioi-cung-nu-than-khong-tin-do-thumb.webp",
-      "description": "Tập 7 • FHD • Vietsub"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "metas": [
     {
+      "id": "tt0182647",
+      "type": "series",
+      "name": "Siêu Nhân Tiga (Ultraman Tiga)",
+      "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
+      "description": "Tập 22 • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
       "id": "tmdb:299276",
       "type": "series",
       "name": "Cuộc Chiến Hoa Hồng (War Of Thorns)",
       "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
       "description": "Tập 20 • FHD • Lồng Tiếng"
-    },
-    {
-      "id": "tt0182647",
-      "type": "series",
-      "name": "Siêu Nhân Tiga (Ultraman Tiga)",
-      "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-      "description": "Tập 21 • FHD • Vietsub + Lồng Tiếng"
     },
     {
       "id": "tmdb:319938",
