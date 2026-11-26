@@ -165,7 +165,5 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         return [];
     }
 }
+ module.exports = { getStreams, getCatalog, getMeta };
 
-if (typeof module !== "undefined" && module.exports) {
-    module.exports = { getStreams, getCatalog, getMeta };
-}
