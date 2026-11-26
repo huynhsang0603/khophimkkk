@@ -3,11 +3,8 @@ const path = require("path");
 
 const KK_API = "https://phimapi.com";
 const KK_IMG = "https://phimimg.com";
-
-const API_HEADERS = {
-    "accept": "application/json",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-};
+const TMDB_KEY = "439c478a771f35c05022d9feabcca01c";
+const API_HEADERS = { "accept": "application/json", "User-Agent": "Mozilla/5.0" };
 
 const CATALOGS = [
     { type: "series", id: "kk_home", name: "KKPhim - Hôm Nay Xem Gì", url: `${KK_API}/v1/api/home` },
@@ -24,34 +21,59 @@ function fixImg(url) {
     return url.startsWith("http") ? url : `${KK_IMG}/${url.replace(/^\/+/, "")}`;
 }
 
+async function resolveImdbId(movieObj, mediaType) {
+    if (movieObj?.imdb?.id && /^tt\d+/i.test(String(movieObj.imdb.id))) {
+        return String(movieObj.imdb.id).toLowerCase();
+    }
+    const tmdbType = (movieObj?.tmdb?.type === "movie" || mediaType === "movie") ? "movie" : "tv";
+    if (movieObj?.tmdb?.id) {
+        try {
+            const res = await fetch(`https://themoviedb.org{tmdbType}/${movieObj.tmdb.id}/external_ids?api_key=${TMDB_KEY}`);
+            const json = await res.json();
+            if (json?.imdb_id && /^tt\d+/i.test(json.imdb_id)) return json.imdb_id.toLowerCase();
+        } catch (e) {}
+    }
+    const query = movieObj?.origin_name || movieObj?.name;
+    if (query) {
+        try {
+            const yearParam = movieObj?.year ? `&year=${movieObj.year}&first_air_date_year=${movieObj.year}` : "";
+            const sRes = await fetch(`https://themoviedb.org{TMDB_KEY}&query=${encodeURIComponent(query)}${yearParam}`);
+            const sJson = await sRes.json();
+            const best = sJson?.results?.[0];
+            if (best && (best.media_type === "movie" || best.media_type === "tv")) {
+                const eRes = await fetch(`https://themoviedb.org{best.media_type}/${best.id}/external_ids?api_key=${TMDB_KEY}`);
+                const eJson = await eRes.json();
+                if (eJson?.imdb_id && /^tt\d+/i.test(eJson.imdb_id)) return eJson.imdb_id.toLowerCase();
+            }
+        } catch (e) {}
+    }
+    return null;
+}
+
 async function run() {
-    // 1. Xuất file manifest.json ở thư mục gốc cho Nuvio Provider (Nguồn phát)
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
-        version: "1.0.3",
+        version: "1.0.4",
         description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
         author: "huynhsang0603",
-        scrapers: [
-            {
-                id: "kkphim_vn",
-                name: "KKPhim (Thuyết Minh & Vietsub)",
-                description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
-                version: "1.0.3",
-                type: "all",
-                filename: "provider.js",
-                supportedTypes: ["movie", "tv"],
-                idPrefixes: ["kk_", "tmdb:", "tt"]
-            }
-        ]
+        scrapers: [{
+            id: "kkphim_vn",
+            name: "KKPhim (Thuyết Minh & Vietsub)",
+            description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
+            version: "1.0.4",
+            type: "all",
+            filename: "provider.js",
+            supportedTypes: ["movie", "tv"],
+            idPrefixes: ["kk_", "tmdb:", "tt"]
+        }]
     };
     fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
 
-    // 2. Xuất file manifest.json chuẩn Stremio vào thư mục con "addon/"
     fs.mkdirSync("addon", { recursive: true });
     const addonManifest = {
         id: "org.github.kkphim.static7",
-        version: "1.0.5",
+        version: "1.0.6",
         name: "KKPhim 7 Danh Mục (GitHub Serverless)",
         description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
         resources: ["catalog", "meta"],
@@ -63,14 +85,11 @@ async function run() {
 
     fs.mkdirSync(path.join("addon", "meta", "series"), { recursive: true });
     fs.mkdirSync(path.join("addon", "meta", "movie"), { recursive: true });
+    const slugToStandardId = new Map();
 
-    const processedSlugs = new Set();
-
-    // 3. Lấy chi tiết phim, chuẩn hóa ID cho OpenSubtitles Pro và xuất dữ liệu
     for (const cat of CATALOGS) {
         const dir = path.join("addon", "catalog", cat.type);
         fs.mkdirSync(dir, { recursive: true });
-
         try {
             const res = await fetch(cat.url, { headers: API_HEADERS });
             const data = await res.json();
@@ -78,31 +97,27 @@ async function run() {
 
             for (const item of items) {
                 const itemMediaType = item.type === "single" ? "movie" : cat.type;
-                const fallbackId = item.imdb?.id ? item.imdb.id : (item.tmdb?.id ? `tmdb:${item.tmdb.id}` : `kk_${item.slug}`);
-                item._standardId = fallbackId;
-
-                if (processedSlugs.has(item.slug)) continue;
-                processedSlugs.add(item.slug);
-
+                if (slugToStandardId.has(item.slug)) {
+                    item._standardId = slugToStandardId.get(item.slug);
+                    continue;
+                }
                 const targetMetaDir = path.join("addon", "meta", itemMediaType);
-
                 try {
-                    const detailRes = await fetch(`${KK_API}/phim/${item.slug}`, { headers: API_HEADERS });
-                    const detailJson = await detailRes.json();
-                    const movie = detailJson?.movie;
-                    const episodes = detailJson?.episodes || [];
+                    const dRes = await fetch(`${KK_API}/phim/${item.slug}`, { headers: API_HEADERS });
+                    const dJson = await dRes.json();
+                    const movie = dJson?.movie;
+                    const episodes = dJson?.episodes || [];
 
                     if (movie) {
-                        const imdbId = movie.imdb?.id;
+                        const resolvedImdb = await resolveImdbId(movie, itemMediaType);
                         const tmdbId = movie.tmdb?.id;
-                        const standardId = imdbId ? imdbId : (tmdbId ? `tmdb:${tmdbId}` : `kk_${item.slug}`);
+                        const standardId = resolvedImdb ? resolvedImdb : (tmdbId ? `tmdb:${tmdbId}` : `kk_${item.slug}`);
                         item._standardId = standardId;
+                        slugToStandardId.set(item.slug, standardId);
 
                         const videos = [];
                         const epThumb = fixImg(movie.thumb_url || movie.poster_url);
-                        const mainServer = episodes.reduce((prev, curr) => 
-                            (curr.server_data?.length || 0) > (prev.server_data?.length || 0) ? curr : prev
-                        , { server_data: [] });
+                        const mainServer = episodes.reduce((p, c) => (c.server_data?.length || 0) > (p.server_data?.length || 0) ? c : p, { server_data: [] });
 
                         (mainServer.server_data || []).forEach((ep, idx) => {
                             const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
@@ -117,10 +132,10 @@ async function run() {
                             });
                         });
 
-                        // Lưu file meta chi tiết (ưu tiên cho phim kk_ hoặc phim không có trên TMDB)
                         const metaObj = {
                             meta: {
                                 id: standardId,
+                                imdb_id: resolvedImdb || undefined,
                                 type: itemMediaType,
                                 name: movie.name,
                                 poster: fixImg(movie.poster_url || movie.thumb_url),
@@ -130,19 +145,21 @@ async function run() {
                                 videos: itemMediaType === "series" ? videos : undefined
                             }
                         };
-
-                        const safeFileName = standardId.replace(/:/g, "_");
-                        fs.writeFileSync(path.join(targetMetaDir, `${safeFileName}.json`), JSON.stringify(metaObj, null, 2));
+                        fs.writeFileSync(path.join(targetMetaDir, `${standardId.replace(/:/g, "_")}.json`), JSON.stringify(metaObj, null, 2));
                     }
                 } catch (err) {
-                    console.error(`Lỗi lấy chi tiết phim ${item.slug}:`, err.message);
+                    const fallback = `kk_${item.slug}`;
+                    item._standardId = fallback;
+                    slugToStandardId.set(item.slug, fallback);
                 }
             }
 
             const metas = items.map(item => {
                 const itemMediaType = item.type === "single" ? "movie" : cat.type;
+                const stdId = item._standardId || `kk_${item.slug}`;
                 return {
-                    id: item._standardId,
+                    id: stdId,
+                    imdb_id: stdId.startsWith("tt") ? stdId : undefined,
                     type: itemMediaType,
                     name: item.origin_name ? `${item.name} (${item.origin_name})` : item.name,
                     poster: fixImg(item.poster_url || item.thumb_url),
@@ -152,10 +169,8 @@ async function run() {
             });
 
             fs.writeFileSync(path.join(dir, `${cat.id}.json`), JSON.stringify({ metas }, null, 2));
-            console.log(`Đã cập nhật danh mục: ${cat.name} (${metas.length} phim)`);
-        } catch (e) {
-            console.error(`Lỗi danh mục ${cat.id}:`, e.message);
-        }
+            console.log(`Xong: ${cat.name} (${metas.length} phim)`);
+        } catch (e) {}
     }
 }
 
