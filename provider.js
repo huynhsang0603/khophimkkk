@@ -1,28 +1,24 @@
 const KK_API = "https://phimapi.com";
 const TMDB_KEY = "439c478a771f35c05022d9feabcca01c";
 
+const IMDB_API_KEY = "439c478a771f35c05022d9feabcca01c"; // Thay thế bằng API key của bạn từ IMDb
+
 const API_HEADERS = {
-    "accept": "application/json",
+    accept: "application/json",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 };
 
 async function getMovieTitleFromTmdb(tmdbId, mediaType) {
-    if (!tmdbId) return null;
-    if (typeof tmdbId === "object") {
-        return {
-            viTitle: tmdbId.title || tmdbId.name || "",
-            origTitle: tmdbId.original_title || tmdbId.original_name || "",
-            year: (tmdbId.release_date || tmdbId.first_air_date || "").slice(0, 4)
-        };
-    }
+    if (!tmdbId || typeof tmdbId === "object") return null;
+
     const cleanId = String(tmdbId).replace(/\D/g, "");
     if (!cleanId) return null;
 
     const typePath = (mediaType === "movie") ? "movie" : "tv";
     try {
         const [viRes, origRes] = await Promise.all([
-            fetch(`https://themoviedb.org{typePath}/${cleanId}?api_key=${TMDB_KEY}&language=vi-VN`),
-            fetch(`https://themoviedb.org{typePath}/${cleanId}?api_key=${TMDB_KEY}`)
+            fetch(`https://api.themoviedb.org/3/${typePath}/${cleanId}?api_key=${TMDB_KEY}&language=vi-VN`),
+            fetch(`https://api.themoviedb.org/3/${typePath}/${cleanId}?api_key=${TMDB_KEY}`)
         ]);
         const viJson = await viRes.json();
         const origJson = await origRes.json();
@@ -33,6 +29,7 @@ async function getMovieTitleFromTmdb(tmdbId, mediaType) {
             year: releaseDate.slice(0, 4)
         };
     } catch (e) {
+        console.error("Error fetching movie title from TMDB:", e);
         return null;
     }
 }
@@ -45,14 +42,14 @@ async function searchKkphim(keyword, targetYear) {
         });
         const json = await res.json();
         const items = json?.data?.items || [];
-        
-        // Nếu có năm phát hành, ưu tiên phim khớp đúng năm lên đầu
+
         if (targetYear && items.length > 1) {
             const exactYear = items.filter(i => String(i.year) === String(targetYear));
-            if (exactYear.length > 0) return exactYear;
+            return exactYear;
         }
         return items;
     } catch (e) {
+        console.error("Error searching KKPhim:", e);
         return [];
     }
 }
@@ -69,30 +66,23 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             epTarget = parseInt(String(tmdbId.episode || episodeNum || "1").replace(/\D/g, ""), 10) || 1;
         }
 
-        // Tách số tập từ ID dạng kk_slug:1:5
         if (rawId.includes(":")) {
             const parts = rawId.split(":");
-            if (parts.length >= 3) {
-                const parsedEp = parseInt(parts, 10);
-                if (!isNaN(parsedEp)) epTarget = parsedEp;
-            }
+            if (parts.length >= 3 && !isNaN(parseInt(parts[2], 10))) epTarget = parseInt(parts[2], 10);
         }
 
         let detailJson = null;
 
-        // Trường hợp 1: Phim lấy trực tiếp từ 7 danh mục KKPhim (ID bắt đầu bằng kk_)
         if (rawId.startsWith("kk_")) {
-            const baseId = rawId.split(":");
-            const slug = baseId.replace(/^kk_/, "");
+            const slug = rawId.replace(/^kk_/, "");
             const detailRes = await fetch(`${KK_API}/phim/${slug}`, { headers: API_HEADERS });
             detailJson = await detailRes.json();
         } else {
-            // Trường hợp 2: Tra cứu trực tiếp qua API TMDB của KKPhim
             const baseId = rawId.split(":");
-            const cleanId = baseId.replace(/\D/g, "");
-            const kkType = (type === "movie") ? "movie" : "tv";
+            const cleanId = baseId[0].replace(/\D/g, "");
             if (cleanId) {
                 try {
+                    const kkType = type === "movie" ? "movie" : "tv";
                     const directRes = await fetch(`${KK_API}/tmdb/${kkType}/${cleanId}`, { headers: API_HEADERS });
                     const directData = await directRes.json();
                     if (directData && directData.status && directData.episodes) {
@@ -101,7 +91,6 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 } catch (e) {}
             }
 
-            // Trường hợp 3: Tìm kiếm qua /v1/api/tim-kiem bằng tên phim từ TMDB
             if (!detailJson || !detailJson.episodes) {
                 const info = await getMovieTitleFromTmdb(baseId, type);
                 if (!info || (!info.viTitle && !info.origTitle)) return [];
@@ -110,13 +99,12 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                 if (items.length === 0 && info.origTitle) {
                     items = await searchKkphim(info.origTitle, info.year);
                 }
-                // Thử tìm rút gọn trước dấu ":" nếu tên quá dài
-                if (items.length === 0 && info.origTitle && info.origTitle.includes(":")) {
+                if (items.length === 0 && info.origTitle.includes(":")) {
                     items = await searchKkphim(info.origTitle.split(":"), info.year);
                 }
                 if (items.length === 0) return [];
 
-                const matched = items;
+                const matched = items[0];
                 const detailRes = await fetch(`${KK_API}/phim/${matched.slug}`, { headers: API_HEADERS });
                 detailJson = await detailRes.json();
             }
@@ -162,8 +150,56 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 
         return [...dubStreams, ...subStreams];
     } catch (err) {
+        console.error("Error fetching streams:", err);
         return [];
     }
 }
- module.exports = { getStreams, getCatalog, getMeta };
+
+async function getCatalog() {
+    try {
+        const res = await fetch(`${KK_API}/v1/api/danh-muc`, { headers: API_HEADERS });
+        const json = await res.json();
+        return json?.data || [];
+    } catch (e) {
+        console.error("Error fetching catalog:", e);
+        return [];
+    }
+}
+
+async function getMeta(id, mediaType) {
+    try {
+        const typePath = (mediaType === "movie") ? "movie" : "tv";
+        const res = await fetch(`${KK_API}/phim/${id}`, { headers: API_HEADERS });
+        const json = await res.json();
+        return json?.data || {};
+    } catch (e) {
+        console.error("Error fetching meta:", e);
+        return {};
+    }
+}
+
+async function getImdbMeta(imdbId) {
+    try {
+        const res = await fetch(`https://imdb-api.com/en/API/Title/${IMDB_API_KEY}/${imdbId}`, { headers: API_HEADERS });
+        const json = await res.json();
+        if (json?.title && json?.year) {
+            return {
+                title: json.title,
+                year: json.year,
+                plot: json.plot,
+                rating: json.imDbRating
+            };
+        }
+        throw new Error("Invalid IMDb response");
+    } catch (e) {
+        console.error("Error fetching IMDb meta:", e);
+        return {};
+    }
+}
+
+module.exports = { getStreams, searchKkphim, getCatalog, getMeta, getImdbMeta };
+
+
+
+  
 
