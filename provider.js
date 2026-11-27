@@ -1,79 +1,21 @@
-const KK_API = "https://" + ["phimapi", "com"].join(".");
-const CINEMETA_API = "https://" + ["v3-cinemeta", "strem", "io"].join(".");
-
-const API_HEADERS = {
-    accept: "application/json",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-};
-
-async function getMovieTitleFromId(id, mediaType) {
-    if (!id || typeof id === "object") return null;
-    const rawId = String(id).trim();
-    const match = rawId.match(/(tt\d+)/i);
-    if (!match) return null;
-
-    const cleanImdbId = match.shift().toLowerCase();
-    const typePath = (mediaType === "movie") ? "movie" : "series";
-
-    try {
-        const res = await fetch(`${CINEMETA_API}/meta/${typePath}/${cleanImdbId}.json`);
-        const json = await res.json();
-        const meta = json && json.meta;
-        if (!meta || !meta.name) return null;
-
-        const yearStr = String(meta.releaseInfo || meta.year || "").slice(0, 4);
-        return {
-            imdbId: cleanImdbId,
-            enTitle: meta.name,
-            year: yearStr
-        };
-    } catch (e) {
-        return null;
-    }
-}
-
-async function searchKkphim(keyword, targetImdbId, targetYear) {
-    if (!keyword) return [];
-    try {
-        const res = await fetch(`${KK_API}/v1/api/tim-kiem?keyword=${encodeURIComponent(keyword.trim())}&limit=15`, {
-            headers: API_HEADERS
-        });
-        const json = await res.json();
-        const items = (json && json.data && json.data.items) || [];
-
-        if (targetImdbId) {
-            const exactImdb = items.filter(i => i.imdb && i.imdb.id && String(i.imdb.id).toLowerCase() === targetImdbId);
-            if (exactImdb.length > 0) return exactImdb;
-        }
-        if (targetYear && items.length > 1) {
-            const exactYear = items.filter(i => String(i.year) === String(targetYear));
-            if (exactYear.length > 0) return exactYear;
-        }
-        return items;
-    } catch (e) {
-        return [];
-    }
-}
 async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
         let rawId = String(tmdbId || "");
         let type = mediaType;
-        let seasonTarget = parseInt(String(seasonNum || "1").replace(/\D/g, ""), 10) || 1;
         let epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
 
         if (tmdbId && typeof tmdbId === "object" && tmdbId.id) {
             rawId = String(tmdbId.id);
             type = tmdbId.type || mediaType;
-            seasonTarget = parseInt(String(tmdbId.season || seasonNum || "1").replace(/\D/g, ""), 10) || 1;
             epTarget = parseInt(String(tmdbId.episode || episodeNum || "1").replace(/\D/g, ""), 10) || 1;
         }
 
         if (rawId.includes(":")) {
             const parts = rawId.split(":");
-            const sPart = parts.slice(1, 2).join("");
             const epPart = parts.slice(2, 3).join("");
-            if (sPart && !isNaN(parseInt(sPart, 10))) seasonTarget = parseInt(sPart, 10);
-            if (epPart && !isNaN(parseInt(epPart, 10))) epTarget = parseInt(epPart, 10);
+            if (epPart && !isNaN(parseInt(epPart, 10))) {
+                epTarget = parseInt(epPart, 10);
+            }
         }
 
         let detailJson = null;
@@ -127,7 +69,6 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 
         if (!detailJson || !detailJson.episodes) return [];
 
-        const movieSlug = (detailJson.movie && detailJson.movie.slug) || "kkphim";
         const movieName = (detailJson.movie && detailJson.movie.name) || "KKPhim";
         const qualityLabel = (detailJson.movie && detailJson.movie.quality) || "1080p";
         const episodes = detailJson.episodes || [];
@@ -151,21 +92,12 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             });
 
             if (targetEp && targetEp.link_m3u8) {
-                const modeTag = isDub ? "dub" : "sub";
-                const groupTag = `kkphim-${movieSlug}-${modeTag}`;
-                const nextIdPrefix = isDub ? `kk_tm_${movieSlug}` : `kk_vs_${movieSlug}`;
-
                 const streamObj = {
-                    name: isDub ? `🎙️ KKPhim (${serverName})` : `💬 KKPhim (${serverName})`,
-                    title: `${movieName} - Tập ${targetEp.name} [${serverName}] (${qualityLabel})`,
+                    name: isDub ? `KKPhim (${serverName})` : "KKPhim Vietsub",
+                    title: `${movieName} - ${serverName} (${targetEp.name}) [${qualityLabel}]`,
                     url: targetEp.link_m3u8,
                     quality: qualityLabel,
                     provider: "KKPhim",
-                    bingeGroup: groupTag,
-                    behaviorHints: {
-                        bingeGroup: groupTag,
-                        defaultVideoId: `${nextIdPrefix}:${seasonTarget}:${epTarget + 1}`
-                    },
                     headers: {
                         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
                         "Referer": "https://phimapi.com"
@@ -181,6 +113,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         return [];
     }
 }
+
 
 
 
