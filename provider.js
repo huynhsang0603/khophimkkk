@@ -56,7 +56,6 @@ async function searchKkphim(keyword, targetImdbId, targetYear) {
 
 async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
-        const scraperId = (typeof this !== "undefined" && this && this.id) ? String(this.id) : "";
         let rawId = String(tmdbId || "");
         let type = mediaType;
         let epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
@@ -114,17 +113,17 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         const movieName = (detailJson.movie && detailJson.movie.name) || "KKPhim";
         const qualityLabel = (detailJson.movie && detailJson.movie.quality) || "FHD";
         const episodes = detailJson.episodes || [];
-        const dubStreams = [];
-        const subStreams = [];
+        let dubStream = null;
+        let subStream = null;
 
-        episodes.forEach((server, serverIdx) => {
+        for (const server of episodes) {
             const serverName = server.server_name || "Vietsub";
             const isTM = /thuyết minh|thuyet minh/i.test(serverName);
             const isLT = /lồng tiếng|long tieng/i.test(serverName);
             const isDub = isTM || isLT;
 
-            const audioLabel = isTM ? "Thuyết Minh" : (isLT ? "Lồng Tiếng" : "Vietsub");
-            const groupKey = isTM ? `kkphim-tm-${serverIdx}` : (isLT ? `kkphim-lt-${serverIdx}` : `kkphim-vs-${serverIdx}`);
+            if (isDub && dubStream) continue;
+            if (!isDub && subStream) continue;
 
             const serverData = server.server_data || [];
             const targetEp = serverData.find(e => {
@@ -136,25 +135,26 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             });
 
             if (targetEp && targetEp.link_m3u8) {
+                const audioLabel = isDub ? "Thuyết Minh" : "Vietsub";
                 const streamObj = {
                     name: `KKPhim - ${audioLabel}`,
-                    title: `${movieName} - ${serverName} (${targetEp.name}) [${qualityLabel}]`,
+                    title: `${movieName} - ${targetEp.name} (${serverName}) [${qualityLabel}]`,
                     url: targetEp.link_m3u8,
                     quality: `${qualityLabel} • ${audioLabel}`,
-                    provider: isDub ? "KKPhim Thuyết Minh" : "KKPhim Vietsub",
+                    provider: "KKPhim",
                     behaviorHints: {
-                        bingeGroup: groupKey
+                        bingeGroup: isDub ? "kkphim-tm" : "kkphim-vs"
                     }
                 };
-                if (isDub) dubStreams.push(streamObj);
-                else subStreams.push(streamObj);
+                if (isDub) dubStream = streamObj;
+                else subStream = streamObj;
             }
-        });
+        }
 
-        if (scraperId === "kkphim_tm") return dubStreams;
-        if (scraperId === "kkphim_vs") return subStreams;
-
-        return [...dubStreams, ...subStreams];
+        const result = [];
+        if (dubStream) result.push(dubStream);
+        if (subStream) result.push(subStream);
+        return result;
     } catch (err) {
         return [];
     }
