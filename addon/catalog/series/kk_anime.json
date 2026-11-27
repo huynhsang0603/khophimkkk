@@ -1,6 +1,62 @@
 {
   "metas": [
     {
+      "id": "kk_dau-la-dai-luc-2-tuyet-the-duong-mon",
+      "type": "series",
+      "name": "Đấu La Đại Lục 2 (Tuyệt Thế Đường Môn) (Soul Land 2 (The Peerless Tang Clan))",
+      "poster": "https://phimimg.com/upload/vod/20240103-1/af2ae10bcb72617994f00dce440205dc.jpg",
+      "background": "https://phimimg.com/upload/vod/20240103-1/bbe888d771d0e6ff0f9935f8f6194c79.jpg",
+      "description": "Tập 181 • FDH • Vietsub"
+    },
+    {
+      "id": "kk_hoc-vien-cao-vo-dong-dai",
+      "type": "series",
+      "name": "Học Viện Cao Võ Đông Đại (Oriental Martial Academy)",
+      "poster": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-thumb.webp",
+      "description": "Tập 20 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_thuong-nguyen-do",
+      "type": "series",
+      "name": "Thương Nguyên Đồ (The Demon Hunter)",
+      "poster": "https://phimimg.com/upload/vod/20250530-1/435941e1bbd5462ab142b2d1d03b608e.jpg",
+      "background": "https://phimimg.com/upload/vod/20250530-1/9c37d265d1409b9652a7a7afeb35fd6f.jpg",
+      "description": "Tập 105 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_phi-vu-nghin-can",
+      "type": "series",
+      "name": "Phi Vụ Nghìn Cân (Hitpig!)",
+      "poster": "https://phimimg.com/upload/vod/20250420-1/7db950599256bf4dc80233da04d24a6b.jpg",
+      "background": "https://phimimg.com/upload/vod/20250420-1/6b59d5939a806506f9af30f4d5028230.jpg",
+      "description": "Full • FHD • Vietsub + Lồng Tiếng"
+    },
+    {
+      "id": "kk_phap-su-tu-linh-ta-chinh-la-thien-tai",
+      "type": "series",
+      "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai (Necromancer: King of the Scourge)",
+      "poster": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-thumb.webp",
+      "description": "Tập 39 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_linh-canh-hanh-gia-ngoai-truyen",
+      "type": "series",
+      "name": "Linh Cảnh Hành Giả: Ngoại Truyện (Spiritual Realm Walker: Side Story)",
+      "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-thumb.webp",
+      "description": "Tập 20 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_lan-lon-ngay-tan-the-mot-minh-thanh-tien",
+      "type": "series",
+      "name": "Lăn Lộn Ngày Tận Thế, Một Mình Thành Tiên (A New Way For Sanctification)",
+      "poster": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-thumb.webp",
+      "description": "Tập 6 • FHD • Vietsub"
+    },
+    {
       "id": "kk_dem-ngay-tho",
       "type": "series",
       "name": "Đêm Ngây Thơ (Fool Night)",
@@ -169,14 +225,6 @@
       "description": "Tập 41 • FHD • Vietsub"
     },
     {
-      "id": "kk_lan-lon-ngay-tan-the-mot-minh-thanh-tien",
-      "type": "series",
-      "name": "Lăn Lộn Ngày Tận Thế, Một Mình Thành Tiên (A New Way For Sanctification)",
-      "poster": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-thumb.webp",
-      "description": "Tập 5 • FHD • Vietsub"
-    },
-    {
       "id": "kk_than-y-co-dai-o-do-thi-do-thi-co-tien-y",
       "type": "series",
       "name": "Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y) (Urban Miracle Doctor)",
@@ -190,54 +238,6 @@
       "name": "Pháp Sư Gian Lận Bị Sa Thải Tận Hưởng Cuộc Sống Thứ Hai (The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life)",
       "poster": "https://phimimg.com/uploads/movies/20261008/phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261008/phap-su-gian-lan-bi-sa-thai-tan-huong-cuoc-song-thu-hai-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_sato-san-lanh-lung-chi-diu-dang-voi-toi",
-      "type": "series",
-      "name": "Sato-san Lạnh Lùng Chỉ Dịu Dàng Với Tôi (The Cold Sato-san Is Only Sweet to Me)",
-      "poster": "https://phimimg.com/uploads/movies/20261008/sato-san-lanh-lung-chi-diu-dang-voi-toi-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261008/sato-san-lanh-lung-chi-diu-dang-voi-toi-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_chitose-trong-chai-ramune",
-      "type": "series",
-      "name": "Chitose Trong Chai Ramune (Chitose Is In The Ramune Bottle)",
-      "poster": "https://phimimg.com/upload/vod/20251008-1/20bb877d15cccb1784990a3e5033d1b1.jpg",
-      "background": "https://phimimg.com/upload/vod/20251008-1/8f77258dbfcdfbc106793331faabb124.jpg",
-      "description": "Tập 20 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_co-may-bong-toi",
-      "type": "series",
-      "name": "Cỗ Máy Bóng Tối (DARK MACHINE THE ANIMATION)",
-      "poster": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-      "description": "Tập 7 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_sieu-canh-sat-tam-linh-chojo",
-      "type": "series",
-      "name": "Siêu Cảnh Sát Tâm Linh Chojo (Super Psychic Policeman Chojo)",
-      "poster": "https://phimimg.com/uploads/movies/20261008/sieu-canh-sat-tam-linh-chojo-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261008/sieu-canh-sat-tam-linh-chojo-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_suikoden-the-anime",
-      "type": "series",
-      "name": "Suikoden: The Anime (Suikoden: The Anime)",
-      "poster": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261004/suikoden-the-anime-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_battle-spirits-re-tuyet-gioi-thien-khong",
-      "type": "series",
-      "name": "Battle Spirits [Re]: Tuyệt Giới Thiên Không (Battle Spirits [Re] ZEKKAI NO KU)",
-      "poster": "https://phimimg.com/uploads/movies/20261007/battle-spirits-re-tuyet-gioi-thien-khong-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261007/battle-spirits-re-tuyet-gioi-thien-khong-thumb.webp",
       "description": "Tập 8 • FHD • Vietsub"
     }
   ]

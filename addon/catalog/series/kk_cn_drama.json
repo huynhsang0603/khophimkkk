@@ -1,6 +1,94 @@
 {
   "metas": [
     {
+      "id": "kk_dau-la-dai-luc-2-tuyet-the-duong-mon",
+      "type": "series",
+      "name": "Đấu La Đại Lục 2 (Tuyệt Thế Đường Môn) (Soul Land 2 (The Peerless Tang Clan))",
+      "poster": "https://phimimg.com/upload/vod/20240103-1/af2ae10bcb72617994f00dce440205dc.jpg",
+      "background": "https://phimimg.com/upload/vod/20240103-1/bbe888d771d0e6ff0f9935f8f6194c79.jpg",
+      "description": "Tập 181 • FDH • Vietsub"
+    },
+    {
+      "id": "kk_hoc-vien-cao-vo-dong-dai",
+      "type": "series",
+      "name": "Học Viện Cao Võ Đông Đại (Oriental Martial Academy)",
+      "poster": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260718/hoc-vien-cao-vo-dong-dai-phan-1-thumb.webp",
+      "description": "Tập 20 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_thuong-nguyen-do",
+      "type": "series",
+      "name": "Thương Nguyên Đồ (The Demon Hunter)",
+      "poster": "https://phimimg.com/upload/vod/20250530-1/435941e1bbd5462ab142b2d1d03b608e.jpg",
+      "background": "https://phimimg.com/upload/vod/20250530-1/9c37d265d1409b9652a7a7afeb35fd6f.jpg",
+      "description": "Tập 105 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_thu-nu",
+      "type": "series",
+      "name": "Thứ Nữ (Daughter Of A Concubine)",
+      "poster": "https://phimimg.com/uploads/movies/20261125/thu-nu-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261125/thu-nu-thumb.webp",
+      "description": "Tập 10 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_thap-van-cuong-hoa-nhap-mong-lai",
+      "type": "series",
+      "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai (Blossom in Darkness)",
+      "poster": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+      "description": "Tập 23 • FHD • Vietsub + Thuyết Minh"
+    },
+    {
+      "id": "kk_phuong-khoi-vi-nguyet",
+      "type": "series",
+      "name": "Phượng Khởi Vi Nguyệt (Phoenix Rising From The Faint Moon)",
+      "poster": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
+      "description": "Tập 22 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_phon-hoa-lui-tan-phan-2",
+      "type": "series",
+      "name": "Phồn Hoa Lụi Tàn (Phần 2) (The Glory Fades (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261120/phon-hoa-lui-tan-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261120/phon-hoa-lui-tan-phan-2-thumb.webp",
+      "description": "Tập 18 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_phap-su-tu-linh-ta-chinh-la-thien-tai",
+      "type": "series",
+      "name": "Pháp Sư Tử Linh: Ta Chính Là Thiên Tai (Necromancer: King of the Scourge)",
+      "poster": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260807/phap-su-tu-linh-ta-chinh-la-thien-tai-thumb.webp",
+      "description": "Tập 39 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_linh-canh-hanh-gia-ngoai-truyen",
+      "type": "series",
+      "name": "Linh Cảnh Hành Giả: Ngoại Truyện (Spiritual Realm Walker: Side Story)",
+      "poster": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20260904/linh-canh-hanh-gia-ngoai-truyen-thumb.webp",
+      "description": "Tập 20 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_lan-lon-ngay-tan-the-mot-minh-thanh-tien",
+      "type": "series",
+      "name": "Lăn Lộn Ngày Tận Thế, Một Mình Thành Tiên (A New Way For Sanctification)",
+      "poster": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-thumb.webp",
+      "description": "Tập 6 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_cau-chuyen-khong-ai-biet",
+      "type": "series",
+      "name": "Câu Chuyện Không Ai Biết (The Story Untold)",
+      "poster": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-thumb.webp",
+      "description": "Tập 5 • FHD • Vietsub + Thuyết Minh"
+    },
+    {
       "id": "kk_yeu-mot-ke-ngoc",
       "type": "series",
       "name": "Yêu Một Kẻ Ngốc (Fool in Love)",
@@ -33,52 +121,12 @@
       "description": "Hoàn Tất (30/30) • FHD • Vietsub + Thuyết Minh"
     },
     {
-      "id": "kk_cau-chuyen-khong-ai-biet",
-      "type": "series",
-      "name": "Câu Chuyện Không Ai Biết (The Story Untold)",
-      "poster": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261126/cau-chuyen-khong-ai-biet-thumb.webp",
-      "description": "Tập 3 • FHD • Vietsub + Thuyết Minh"
-    },
-    {
-      "id": "kk_thu-nu",
-      "type": "series",
-      "name": "Thứ Nữ (Daughter Of A Concubine)",
-      "poster": "https://phimimg.com/uploads/movies/20261125/thu-nu-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261125/thu-nu-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_thap-van-cuong-hoa-nhap-mong-lai",
-      "type": "series",
-      "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai (Blossom in Darkness)",
-      "poster": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-      "description": "Tập 22 • FHD • Vietsub + Thuyết Minh"
-    },
-    {
       "id": "kk_tien-phong-dan-dau",
       "type": "series",
       "name": "Tiên Phong Dẫn Đầu (Rise Of The Underdog)",
       "poster": "https://phimimg.com/uploads/movies/20261115/tien-phong-dan-dau-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261115/tien-phong-dan-dau-thumb.webp",
       "description": "Tập 23 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_phuong-khoi-vi-nguyet",
-      "type": "series",
-      "name": "Phượng Khởi Vi Nguyệt (Phoenix Rising From The Faint Moon)",
-      "poster": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261118/phuong-khoi-vi-nguyet-thumb.webp",
-      "description": "Tập 21 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_phon-hoa-lui-tan-phan-2",
-      "type": "series",
-      "name": "Phồn Hoa Lụi Tàn (Phần 2) (The Glory Fades (Season 2))",
-      "poster": "https://phimimg.com/uploads/movies/20261120/phon-hoa-lui-tan-phan-2-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261120/phon-hoa-lui-tan-phan-2-thumb.webp",
-      "description": "Tập 17 • FHD • Vietsub"
     },
     {
       "id": "kk_nguoi-giu-mo-dai-ha",
@@ -145,14 +193,6 @@
       "description": "Tập 41 • FHD • Vietsub"
     },
     {
-      "id": "kk_lan-lon-ngay-tan-the-mot-minh-thanh-tien",
-      "type": "series",
-      "name": "Lăn Lộn Ngày Tận Thế, Một Mình Thành Tiên (A New Way For Sanctification)",
-      "poster": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261118/lan-lon-ngay-tan-the-mot-minh-thanh-tien-thumb.webp",
-      "description": "Tập 5 • FHD • Vietsub"
-    },
-    {
       "id": "kk_than-y-co-dai-o-do-thi-do-thi-co-tien-y",
       "type": "series",
       "name": "Thần Y Cổ Đại Ở Đô Thị (Đô Thị Cổ Tiên Y) (Urban Miracle Doctor)",
@@ -199,46 +239,6 @@
       "poster": "https://phimimg.com/upload/vod/20240411-1/0a4084fdfad19ecab9f1f53d629bf422.jpg",
       "background": "https://phimimg.com/upload/vod/20240411-1/bbf5847cc8ae2ce6528d5b51ef6f877a.jpg",
       "description": "Tập 191 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_cuoc-chien-hoa-hong-2026",
-      "type": "series",
-      "name": "Cuộc Chiến Hoa Hồng (War Of Thorns)",
-      "poster": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261111/cuoc-chien-hoa-hong-2026-thumb.webp",
-      "description": "Tập 20 • FHD • Lồng Tiếng"
-    },
-    {
-      "id": "kk_tien-nghich",
-      "type": "series",
-      "name": "Tiên Nghịch (Renegade Immortal)",
-      "poster": "https://phimimg.com/uploads/movies/20260720/tien-nghich-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-      "description": "Tập 168 • FHD • Vietsub + Thuyết Minh"
-    },
-    {
-      "id": "kk_thon-phe-tinh-khong",
-      "type": "series",
-      "name": "Thôn Phệ Tinh Không (Swallowed Star)",
-      "poster": "https://phimimg.com/upload/vod/20240821-1/a651652396e9f53c09cd88d28700d5c4.jpg",
-      "background": "https://phimimg.com/upload/vod/20240821-1/22c49ba9590b0e5f3d126696c0bfbecf.jpg",
-      "description": "Tập 251 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_tinh-gui-cuoi-thu",
-      "type": "series",
-      "name": "Tình Gửi Cuối Thu (Vow Of Autumn)",
-      "poster": "https://phimimg.com/uploads/movies/20261113/tinh-gui-cuoi-thu-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261113/tinh-gui-cuoi-thu-thumb.webp",
-      "description": "Hoàn Tất (22/22) • FHD • Vietsub"
-    },
-    {
-      "id": "kk_nghich-thien-chi-ton",
-      "type": "series",
-      "name": "Nghịch Thiên Chí Tôn (Against The Sky Supreme / Ni Tian Zhi Zun)",
-      "poster": "https://phimimg.com/upload/vod/20250903-1/fe12e74047daf65d58b996a82987f6aa.jpg",
-      "background": "https://phimimg.com/upload/vod/20250903-1/cc1e9fd59cf70b050455ceb0bf183bf3.jpg",
-      "description": "Tập 569 • FHD • Vietsub"
     }
   ]
 }
