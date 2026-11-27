@@ -1,19 +1,29 @@
 {
   "id": "com.huynhsang0603.kkphim",
   "name": "KKPhim Việt Nam",
-  "version": "1.8.0",
-  "description": "KKPhim Tiếng Việt gọn gàng - 1 luồng Thuyết Minh & 1 luồng Vietsub (Tối ưu TV 32-bit)",
+  "version": "2.0.0",
+  "description": "KKPhim Tiếng Việt gọn gàng - 1 luồng Thuyết Minh & 1 luồng Vietsub",
   "author": "huynhsang0603",
   "homepage": "https://github.com",
   "repository": "https://github.com",
+  "idPrefixes": [
+    "kk_",
+    "tt",
+    "tmdb:"
+  ],
   "scrapers": [
     {
       "id": "kkphim_vn",
       "name": "KKPhim",
       "description": "Giao diện tiếng Việt, gọn 1 luồng Thuyết Minh & 1 luồng Vietsub",
-      "version": "1.8.0",
+      "version": "2.0.0",
       "type": "all",
       "filename": "provider.js",
+      "idPrefixes": [
+        "kk_",
+        "tt",
+        "tmdb:"
+      ],
       "supportedTypes": [
         "movie",
         "series",

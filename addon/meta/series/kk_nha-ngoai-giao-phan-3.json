@@ -1,84 +1,117 @@
 {
   "meta": {
     "id": "kk_nha-ngoai-giao-phan-3",
+    "imdb_id": "tt17491088",
     "type": "series",
     "name": "Nhà Ngoại Giao (Phần 3) (The Diplomat (Season 3))",
     "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
     "background": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
     "description": "Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
     "releaseInfo": "2025",
+    "runtime": "51 phút/tập",
+    "genres": [
+      "Chính Kịch",
+      "Tâm Lý"
+    ],
+    "cast": [
+      "Keri Russell",
+      "Rufus Sewell",
+      "David Gyasi",
+      "Ali Ahn",
+      "Rory Kinnear",
+      "Ato Essandoh"
+    ],
+    "director": [
+      "Debora Cahn"
+    ],
     "videos": [
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:1",
-        "title": "Tập 01",
+        "id": "tt17491088:1:1",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 01. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-19T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 01 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 01 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-19T16:37:49.699Z"
       },
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:2",
-        "title": "Tập 02",
+        "id": "tt17491088:1:2",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 02. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-20T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 02 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 02 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-20T16:37:49.699Z"
       },
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:3",
-        "title": "Tập 03",
+        "id": "tt17491088:1:3",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 03. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-21T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 03 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 03 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-21T16:37:49.699Z"
       },
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:4",
-        "title": "Tập 04",
+        "id": "tt17491088:1:4",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 04. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-22T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 04 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 04 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-22T16:37:49.699Z"
       },
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:5",
-        "title": "Tập 05",
+        "id": "tt17491088:1:5",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 05. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-23T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 05 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 05 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-23T16:37:49.699Z"
       },
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:6",
-        "title": "Tập 06",
+        "id": "tt17491088:1:6",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 06. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-24T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 06 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 06 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-24T16:37:49.699Z"
       },
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:7",
-        "title": "Tập 07",
+        "id": "tt17491088:1:7",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 07. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-25T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 07 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 07 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-25T16:37:49.699Z"
       },
       {
-        "id": "kk_nha-ngoai-giao-phan-3:1:8",
-        "title": "Tập 08",
+        "id": "tt17491088:1:8",
+        "title": "Nhà Ngoại Giao (Phần 3) - Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/upload/vod/20251017-1/6709a82cb7d44d33e47414a2c51dfc80.jpg",
-        "overview": "Nhà Ngoại Giao (Phần 3) - Tập 08. Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng",
-        "released": "2026-11-26T14:28:23.178Z"
+        "poster": "https://phimimg.com/upload/vod/20251017-1/7f2f8272d95d1a6e43dfaf0aba10f46a.jpg",
+        "overview": "[Tập 08 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "description": "[Tập 08 - FHD • Vietsub | Lồng Tiếng • IMDb: tt17491088] Giữa khủng hoảng quốc tế, một nhà ngoại giao Hoa Kỳ vật lộn với công việc gây chú ý là đại sứ tại Vương quốc Anh và cuộc hôn nhân căng thẳng với một chính trị gia nổi tiếng.",
+        "released": "2026-11-26T16:37:49.699Z"
       }
     ]
   }
