@@ -95,9 +95,9 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             }
 
             if (!detailJson || !detailJson.episodes) {
-                const info = await getMovieTitleFromId(baseId, type);
-                if (!info) return [];
-                let items = await searchKkphim(info.enTitle, info.imdbId, info.year);
+                const fallbackTitle = (tmdbId && typeof tmdbId === "object") ? (tmdbId.title || tmdbId.name || "") : "";
+                if (!info && !fallbackTitle) return [];
+                let items = await searchKkphim(info ? info.enTitle : fallbackTitle, info && info.imdbId, info && info.year);
                 if (items.length === 0 && info.enTitle.includes(":")) {
                     items = await searchKkphim(info.enTitle.split(":").shift(), info.imdbId, info.year);
                 }
@@ -140,7 +140,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                     name: `KKPhim - ${audioLabel}`,
                     title: `${movieName} - ${targetEp.name} (${serverName}) [${qualityLabel}]`,
                     url: targetEp.link_m3u8,
-                    quality:  qualityLabel - { audioLabel},
+                    quality:  qualityLabel,
 
                     provider: "KKPhim",
                     behaviorHints: {
