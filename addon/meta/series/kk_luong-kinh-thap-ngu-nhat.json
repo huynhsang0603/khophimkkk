@@ -1,156 +1,205 @@
 {
   "meta": {
     "id": "kk_luong-kinh-thap-ngu-nhat",
+    "imdb_id": "tt38734657",
     "type": "series",
     "name": "Lưỡng Kinh Thập Ngũ Nhật (River Of No Return)",
     "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
     "description": "Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
     "releaseInfo": "2026",
+    "runtime": "45 phút/tập",
+    "genres": [
+      "Chính Kịch",
+      "Cổ Trang",
+      "Tâm Lý"
+    ],
+    "cast": [
+      "Cheng Yi",
+      "Lin Gengxin",
+      "Jiang Peiyao",
+      "Wu Xingjian",
+      "Wang He"
+    ],
+    "director": [
+      "Ma Boyong"
+    ],
     "videos": [
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:1",
-        "title": "Tập 01",
+        "id": "tt38734657:1:1",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 01. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-11T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 01 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 01 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-11T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:2",
-        "title": "Tập 02",
+        "id": "tt38734657:1:2",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 02. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-12T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 02 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 02 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-12T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:3",
-        "title": "Tập 03",
+        "id": "tt38734657:1:3",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 03. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-13T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 03 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 03 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-13T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:4",
-        "title": "Tập 04",
+        "id": "tt38734657:1:4",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 04. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-14T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 04 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 04 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-14T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:5",
-        "title": "Tập 05",
+        "id": "tt38734657:1:5",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 05. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-15T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 05 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 05 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-15T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:6",
-        "title": "Tập 06",
+        "id": "tt38734657:1:6",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 06. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-16T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 06 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 06 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-16T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:7",
-        "title": "Tập 07",
+        "id": "tt38734657:1:7",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 07. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-17T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 07 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 07 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-17T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:8",
-        "title": "Tập 08",
+        "id": "tt38734657:1:8",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 08. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-18T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 08 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 08 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-18T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:9",
-        "title": "Tập 09",
+        "id": "tt38734657:1:9",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 09. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-19T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 09 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 09 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-19T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:10",
-        "title": "Tập 10",
+        "id": "tt38734657:1:10",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 10. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-20T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 10 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 10 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-20T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:11",
-        "title": "Tập 11",
+        "id": "tt38734657:1:11",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 11. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-21T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 11 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 11 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-21T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:12",
-        "title": "Tập 12",
+        "id": "tt38734657:1:12",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 12. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-22T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 12 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 12 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-22T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:13",
-        "title": "Tập 13",
+        "id": "tt38734657:1:13",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 13",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 13. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-23T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 13 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 13 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-23T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:14",
-        "title": "Tập 14",
+        "id": "tt38734657:1:14",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 14",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 14. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-24T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 14 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 14 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-24T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:15",
-        "title": "Tập 15",
+        "id": "tt38734657:1:15",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 15",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 15. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-25T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 15 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 15 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-25T16:15:43.920Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:1:16",
-        "title": "Tập 16",
+        "id": "tt38734657:1:16",
+        "title": "Lưỡng Kinh Thập Ngũ Nhật - Tập 16",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 16. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-26T14:25:19.964Z"
+        "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+        "overview": "[Tập 16 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "description": "[Tập 16 - FHD • Vietsub | Thuyết Minh • IMDb: tt38734657] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+        "released": "2026-11-26T16:15:43.920Z"
       }
     ]
   }

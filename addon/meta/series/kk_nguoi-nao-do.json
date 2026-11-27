@@ -1,84 +1,119 @@
 {
   "meta": {
     "id": "kk_nguoi-nao-do",
+    "imdb_id": "tt22479848",
     "type": "series",
     "name": "Người Nào Đó (Somebody)",
     "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
     "description": "Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
     "releaseInfo": "2022",
+    "runtime": "55 phút/tập",
+    "genres": [
+      "Chính Kịch",
+      "Hình Sự",
+      "Bí Ẩn",
+      "Tâm Lý"
+    ],
+    "cast": [
+      "Kim Young-kwang",
+      "Kang Hae-lim",
+      "Kim Yong-ji",
+      "Kim Su-yeon",
+      "Kim Byung-nam",
+      "Song Yeon-ji"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
     "videos": [
       {
-        "id": "kk_nguoi-nao-do:1:1",
-        "title": "Tập 01",
+        "id": "tt22479848:1:1",
+        "title": "Người Nào Đó - Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 01. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-19T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 01 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 01 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-19T16:15:50.031Z"
       },
       {
-        "id": "kk_nguoi-nao-do:1:2",
-        "title": "Tập 02",
+        "id": "tt22479848:1:2",
+        "title": "Người Nào Đó - Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 02. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-20T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 02 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 02 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-20T16:15:50.031Z"
       },
       {
-        "id": "kk_nguoi-nao-do:1:3",
-        "title": "Tập 03",
+        "id": "tt22479848:1:3",
+        "title": "Người Nào Đó - Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 03. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-21T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 03 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 03 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-21T16:15:50.031Z"
       },
       {
-        "id": "kk_nguoi-nao-do:1:4",
-        "title": "Tập 04",
+        "id": "tt22479848:1:4",
+        "title": "Người Nào Đó - Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 04. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-22T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 04 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 04 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-22T16:15:50.031Z"
       },
       {
-        "id": "kk_nguoi-nao-do:1:5",
-        "title": "Tập 05",
+        "id": "tt22479848:1:5",
+        "title": "Người Nào Đó - Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 05. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-23T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 05 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 05 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-23T16:15:50.031Z"
       },
       {
-        "id": "kk_nguoi-nao-do:1:6",
-        "title": "Tập 06",
+        "id": "tt22479848:1:6",
+        "title": "Người Nào Đó - Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 06. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-24T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 06 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 06 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-24T16:15:50.031Z"
       },
       {
-        "id": "kk_nguoi-nao-do:1:7",
-        "title": "Tập 07",
+        "id": "tt22479848:1:7",
+        "title": "Người Nào Đó - Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 07. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-25T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 07 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 07 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-25T16:15:50.031Z"
       },
       {
-        "id": "kk_nguoi-nao-do:1:8",
-        "title": "Tập 08",
+        "id": "tt22479848:1:8",
+        "title": "Người Nào Đó - Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-thumb.webp",
-        "overview": "Người Nào Đó - Tập 08. Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người",
-        "released": "2026-11-26T14:28:21.058Z"
+        "poster": "https://phimimg.com/uploads/movies/20261117/nguoi-nao-do-poster.webp",
+        "overview": "[Tập 08 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "description": "[Tập 08 - FHD • Vietsub | Lồng Tiếng • IMDb: tt22479848] Một nhà phát triển phần mềm và bạn bè vướng vào mạng lưới sát nhân và tội ác liên quan đến ứng dụng hẹn hò mà cô phát triển, và cả một người đàn ông bí ẩn đang lẩn khuất gần đó.",
+        "released": "2026-11-26T16:15:50.031Z"
       }
     ]
   }

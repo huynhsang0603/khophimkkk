@@ -1,462 +1,587 @@
 {
   "meta": {
     "id": "kk_ngu-y-cua-hoang-de",
+    "imdb_id": "tt3364792",
     "type": "series",
     "name": "Ngự Y Của Hoàng Đế (The King's Doctor)",
     "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
     "description": "Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
     "releaseInfo": "2012",
+    "runtime": "60 phút/tập",
+    "genres": [
+      "Lịch Sử",
+      "Tình Cảm",
+      "Chính Kịch"
+    ],
+    "cast": [
+      "Cho Seung-woo",
+      "Lee Yo-won",
+      "Lee Sang-woo",
+      "Kim So-eun",
+      "Sunwoo Jae-duk",
+      "Seo Beom-sik",
+      "Nam Da-reum",
+      "Lee Doo-seok",
+      "Cho Bo-ah",
+      "Han Sang-jin",
+      "Lee Soon-jae",
+      "Yu Seon",
+      "In Gyo-jin"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
     "videos": [
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:1",
-        "title": "Tập 01",
+        "id": "tt3364792:1:1",
+        "title": "Ngự Y Của Hoàng Đế - Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 01. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-08T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 01 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 01 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-08T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:2",
-        "title": "Tập 02",
+        "id": "tt3364792:1:2",
+        "title": "Ngự Y Của Hoàng Đế - Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 02. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-09T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 02 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 02 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-09T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:3",
-        "title": "Tập 03",
+        "id": "tt3364792:1:3",
+        "title": "Ngự Y Của Hoàng Đế - Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 03. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-10T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 03 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 03 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-10T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:4",
-        "title": "Tập 04",
+        "id": "tt3364792:1:4",
+        "title": "Ngự Y Của Hoàng Đế - Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 04. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-11T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 04 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 04 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-11T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:5",
-        "title": "Tập 05",
+        "id": "tt3364792:1:5",
+        "title": "Ngự Y Của Hoàng Đế - Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 05. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-12T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 05 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 05 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-12T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:6",
-        "title": "Tập 06",
+        "id": "tt3364792:1:6",
+        "title": "Ngự Y Của Hoàng Đế - Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 06. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-13T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 06 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 06 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-13T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:7",
-        "title": "Tập 07",
+        "id": "tt3364792:1:7",
+        "title": "Ngự Y Của Hoàng Đế - Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 07. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-14T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 07 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 07 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-14T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:8",
-        "title": "Tập 08",
+        "id": "tt3364792:1:8",
+        "title": "Ngự Y Của Hoàng Đế - Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 08. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-15T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 08 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 08 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-15T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:9",
-        "title": "Tập 09",
+        "id": "tt3364792:1:9",
+        "title": "Ngự Y Của Hoàng Đế - Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 09. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-16T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 09 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 09 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-16T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:10",
-        "title": "Tập 10",
+        "id": "tt3364792:1:10",
+        "title": "Ngự Y Của Hoàng Đế - Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 10. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-17T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 10 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 10 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-17T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:11",
-        "title": "Tập 11",
+        "id": "tt3364792:1:11",
+        "title": "Ngự Y Của Hoàng Đế - Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 11. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-18T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 11 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 11 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-18T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:12",
-        "title": "Tập 12",
+        "id": "tt3364792:1:12",
+        "title": "Ngự Y Của Hoàng Đế - Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 12. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-19T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 12 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 12 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-19T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:13",
-        "title": "Tập 13",
+        "id": "tt3364792:1:13",
+        "title": "Ngự Y Của Hoàng Đế - Tập 13",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 13. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-20T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 13 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 13 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-20T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:14",
-        "title": "Tập 14",
+        "id": "tt3364792:1:14",
+        "title": "Ngự Y Của Hoàng Đế - Tập 14",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 14. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-21T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 14 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 14 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-21T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:15",
-        "title": "Tập 15",
+        "id": "tt3364792:1:15",
+        "title": "Ngự Y Của Hoàng Đế - Tập 15",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 15. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-22T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 15 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 15 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-22T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:16",
-        "title": "Tập 16",
+        "id": "tt3364792:1:16",
+        "title": "Ngự Y Của Hoàng Đế - Tập 16",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 16. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-23T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 16 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 16 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-23T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:17",
-        "title": "Tập 17",
+        "id": "tt3364792:1:17",
+        "title": "Ngự Y Của Hoàng Đế - Tập 17",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 17. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-24T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 17 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 17 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-24T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:18",
-        "title": "Tập 18",
+        "id": "tt3364792:1:18",
+        "title": "Ngự Y Của Hoàng Đế - Tập 18",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 18. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-25T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 18 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 18 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-25T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:19",
-        "title": "Tập 19",
+        "id": "tt3364792:1:19",
+        "title": "Ngự Y Của Hoàng Đế - Tập 19",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 19. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-26T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 19 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 19 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-26T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:20",
-        "title": "Tập 20",
+        "id": "tt3364792:1:20",
+        "title": "Ngự Y Của Hoàng Đế - Tập 20",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 20. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-27T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 20 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 20 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-27T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:21",
-        "title": "Tập 21",
+        "id": "tt3364792:1:21",
+        "title": "Ngự Y Của Hoàng Đế - Tập 21",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 21. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-28T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 21 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 21 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-28T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:22",
-        "title": "Tập 22",
+        "id": "tt3364792:1:22",
+        "title": "Ngự Y Của Hoàng Đế - Tập 22",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 22. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-29T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 22 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 22 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-29T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:23",
-        "title": "Tập 23",
+        "id": "tt3364792:1:23",
+        "title": "Ngự Y Của Hoàng Đế - Tập 23",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 23. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-30T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 23 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 23 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-30T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:24",
-        "title": "Tập 24",
+        "id": "tt3364792:1:24",
+        "title": "Ngự Y Của Hoàng Đế - Tập 24",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 24. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-10-31T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 24 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 24 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-10-31T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:25",
-        "title": "Tập 25",
+        "id": "tt3364792:1:25",
+        "title": "Ngự Y Của Hoàng Đế - Tập 25",
         "season": 1,
         "episode": 25,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 25. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-01T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 25 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 25 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-01T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:26",
-        "title": "Tập 26",
+        "id": "tt3364792:1:26",
+        "title": "Ngự Y Của Hoàng Đế - Tập 26",
         "season": 1,
         "episode": 26,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 26. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-02T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 26 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 26 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-02T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:27",
-        "title": "Tập 27",
+        "id": "tt3364792:1:27",
+        "title": "Ngự Y Của Hoàng Đế - Tập 27",
         "season": 1,
         "episode": 27,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 27. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-03T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 27 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 27 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-03T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:28",
-        "title": "Tập 28",
+        "id": "tt3364792:1:28",
+        "title": "Ngự Y Của Hoàng Đế - Tập 28",
         "season": 1,
         "episode": 28,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 28. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-04T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 28 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 28 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-04T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:29",
-        "title": "Tập 29",
+        "id": "tt3364792:1:29",
+        "title": "Ngự Y Của Hoàng Đế - Tập 29",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 29. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-05T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 29 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 29 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-05T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:30",
-        "title": "Tập 30",
+        "id": "tt3364792:1:30",
+        "title": "Ngự Y Của Hoàng Đế - Tập 30",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 30. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-06T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 30 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 30 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-06T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:31",
-        "title": "Tập 31",
+        "id": "tt3364792:1:31",
+        "title": "Ngự Y Của Hoàng Đế - Tập 31",
         "season": 1,
         "episode": 31,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 31. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-07T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 31 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 31 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-07T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:32",
-        "title": "Tập 32",
+        "id": "tt3364792:1:32",
+        "title": "Ngự Y Của Hoàng Đế - Tập 32",
         "season": 1,
         "episode": 32,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 32. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-08T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 32 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 32 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-08T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:33",
-        "title": "Tập 33",
+        "id": "tt3364792:1:33",
+        "title": "Ngự Y Của Hoàng Đế - Tập 33",
         "season": 1,
         "episode": 33,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 33. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-09T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 33 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 33 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-09T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:34",
-        "title": "Tập 34",
+        "id": "tt3364792:1:34",
+        "title": "Ngự Y Của Hoàng Đế - Tập 34",
         "season": 1,
         "episode": 34,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 34. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-10T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 34 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 34 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-10T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:35",
-        "title": "Tập 35",
+        "id": "tt3364792:1:35",
+        "title": "Ngự Y Của Hoàng Đế - Tập 35",
         "season": 1,
         "episode": 35,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 35. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-11T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 35 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 35 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-11T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:36",
-        "title": "Tập 36",
+        "id": "tt3364792:1:36",
+        "title": "Ngự Y Của Hoàng Đế - Tập 36",
         "season": 1,
         "episode": 36,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 36. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-12T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 36 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 36 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-12T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:37",
-        "title": "Tập 37",
+        "id": "tt3364792:1:37",
+        "title": "Ngự Y Của Hoàng Đế - Tập 37",
         "season": 1,
         "episode": 37,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 37. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-13T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 37 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 37 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-13T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:38",
-        "title": "Tập 38",
+        "id": "tt3364792:1:38",
+        "title": "Ngự Y Của Hoàng Đế - Tập 38",
         "season": 1,
         "episode": 38,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 38. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-14T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 38 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 38 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-14T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:39",
-        "title": "Tập 39",
+        "id": "tt3364792:1:39",
+        "title": "Ngự Y Của Hoàng Đế - Tập 39",
         "season": 1,
         "episode": 39,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 39. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-15T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 39 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 39 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-15T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:40",
-        "title": "Tập 40",
+        "id": "tt3364792:1:40",
+        "title": "Ngự Y Của Hoàng Đế - Tập 40",
         "season": 1,
         "episode": 40,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 40. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-16T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 40 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 40 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-16T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:41",
-        "title": "Tập 41",
+        "id": "tt3364792:1:41",
+        "title": "Ngự Y Của Hoàng Đế - Tập 41",
         "season": 1,
         "episode": 41,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 41. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-17T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 41 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 41 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-17T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:42",
-        "title": "Tập 42",
+        "id": "tt3364792:1:42",
+        "title": "Ngự Y Của Hoàng Đế - Tập 42",
         "season": 1,
         "episode": 42,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 42. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-18T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 42 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 42 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-18T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:43",
-        "title": "Tập 43",
+        "id": "tt3364792:1:43",
+        "title": "Ngự Y Của Hoàng Đế - Tập 43",
         "season": 1,
         "episode": 43,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 43. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-19T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 43 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 43 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-19T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:44",
-        "title": "Tập 44",
+        "id": "tt3364792:1:44",
+        "title": "Ngự Y Của Hoàng Đế - Tập 44",
         "season": 1,
         "episode": 44,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 44. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-20T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 44 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 44 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-20T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:45",
-        "title": "Tập 45",
+        "id": "tt3364792:1:45",
+        "title": "Ngự Y Của Hoàng Đế - Tập 45",
         "season": 1,
         "episode": 45,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 45. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-21T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 45 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 45 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-21T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:46",
-        "title": "Tập 46",
+        "id": "tt3364792:1:46",
+        "title": "Ngự Y Của Hoàng Đế - Tập 46",
         "season": 1,
         "episode": 46,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 46. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-22T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 46 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 46 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-22T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:47",
-        "title": "Tập 47",
+        "id": "tt3364792:1:47",
+        "title": "Ngự Y Của Hoàng Đế - Tập 47",
         "season": 1,
         "episode": 47,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 47. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-23T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 47 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 47 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-23T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:48",
-        "title": "Tập 48",
+        "id": "tt3364792:1:48",
+        "title": "Ngự Y Của Hoàng Đế - Tập 48",
         "season": 1,
         "episode": 48,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 48. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-24T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 48 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 48 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-24T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:49",
-        "title": "Tập 49",
+        "id": "tt3364792:1:49",
+        "title": "Ngự Y Của Hoàng Đế - Tập 49",
         "season": 1,
         "episode": 49,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 49. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-25T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 49 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 49 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-25T16:15:48.508Z"
       },
       {
-        "id": "kk_ngu-y-cua-hoang-de:1:50",
-        "title": "Tập 50",
+        "id": "tt3364792:1:50",
+        "title": "Ngự Y Của Hoàng Đế - Tập 50",
         "season": 1,
         "episode": 50,
         "thumbnail": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-thumb.webp",
-        "overview": "Ngự Y Của Hoàng Đế - Tập 50. Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài nă",
-        "released": "2026-11-26T14:28:13.198Z"
+        "poster": "https://phimimg.com/uploads/movies/20261031/ngu-y-cua-hoang-de-poster.webp",
+        "overview": "[Tập 50 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "description": "[Tập 50 - FHD • Thuyết Minh • IMDb: tt3364792] Xuất thân khiêm tốn, Baek Gwang Hyun khởi đầu sự nghiệp bằng nghề chữa bệnh cho ngựa, rồi từng bước trở thành thầy thuốc tài giỏi nhờ tài năng và lòng nhân ái. Trên hành trình ấy, Gwang Hyun phải đối mặt với những âm mưu chính trị, sự ganh ghét của các thế lực quyền quý và những thử thách khắc nghiệt trong nghề y. Anh cũng dần khám phá ra những bí ẩn liên quan đến thân thế của mình, trong đó có sự thật về một vụ tráo đổi thân phận đã làm thay đổi số phận của nhiều người.",
+        "released": "2026-11-26T16:15:48.508Z"
       }
     ]
   }

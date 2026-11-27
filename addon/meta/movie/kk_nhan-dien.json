@@ -1,11 +1,42 @@
 {
   "meta": {
     "id": "kk_nhan-dien",
+    "imdb_id": "tt33514451",
     "type": "movie",
     "name": "Nhân Diện (The Ugly)",
     "poster": "https://phimimg.com/upload/vod/20251030-1/8054fab9c57958ab8911519d740650aa.jpg",
     "background": "https://phimimg.com/upload/vod/20251030-1/d356f12e06f1977d3eba2ef8811f5491.jpg",
     "description": "Im Dong-hwan, chàng trai chưa từng biết mặt mẹ mình, bàng hoàng khi cảnh sát thông báo đã tìm thấy hài cốt của bà – người mất tích suốt 40 năm – với nghi ngờ bị sát hại. Anh quyết tâm đi tìm sự thật cùng nữ đạo diễn Kim Soo-jin, người đang thực hiện phim tài liệu về cha anh – nghệ nhân làm dấu mù lòa từ khi sinh ra. Họ lần theo ký ức của những người từng làm việc với bà tại xưởng may năm xưa, để dần vén màn bí mật được chôn giấu suốt bốn thập kỷ.",
-    "releaseInfo": "2025"
+    "releaseInfo": "2025",
+    "runtime": "102 phút",
+    "genres": [
+      "Bí Ẩn",
+      "Chính Kịch",
+      "Tâm Lý"
+    ],
+    "cast": [
+      "Park Jeong-min",
+      "Kwon Hae-hyo",
+      "Shin Hyun-been",
+      "Han Ji-hyeon",
+      "Im Sung-jae",
+      "Kim Jae-rok",
+      "Cha Mi-kyeong",
+      "Joo Hae-eun",
+      "Won Mi-won",
+      "Park Myung-shin",
+      "Lee Hyun-kyun",
+      "Go Seo-hee",
+      "Go Dong-eop",
+      "Hong Seok-bin",
+      "Kim Hye-jung",
+      "Lee Han-sol",
+      "Seo Suk-kyu",
+      "Ha Si-yeon",
+      "Han S"
+    ],
+    "director": [
+      "Yeon Sang-ho"
+    ]
   }
 }

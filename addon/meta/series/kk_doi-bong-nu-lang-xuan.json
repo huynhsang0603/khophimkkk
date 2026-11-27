@@ -7,222 +7,281 @@
     "background": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
     "description": "Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
     "releaseInfo": "2026",
+    "runtime": "47 phút/tập",
+    "genres": [
+      "Chính Kịch",
+      "Tâm Lý"
+    ],
+    "cast": [
+      "Đang cập nhật"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
     "videos": [
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:1",
-        "title": "Tập 01",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 01. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-03T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 01 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 01 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-03T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:2",
-        "title": "Tập 02",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 02. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-04T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 02 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 02 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-04T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:3",
-        "title": "Tập 03",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 03. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-05T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 03 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 03 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-05T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:4",
-        "title": "Tập 04",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 04. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-06T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 04 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 04 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-06T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:5",
-        "title": "Tập 05",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 05. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-07T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 05 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 05 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-07T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:6",
-        "title": "Tập 06",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 06. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-08T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 06 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 06 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-08T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:7",
-        "title": "Tập 07",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 07. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-09T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 07 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 07 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-09T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:8",
-        "title": "Tập 08",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 08. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-10T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 08 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 08 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-10T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:9",
-        "title": "Tập 09",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 09. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-11T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 09 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 09 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-11T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:10",
-        "title": "Tập 10",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 10. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-12T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 10 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 10 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-12T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:11",
-        "title": "Tập 11",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 11. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-13T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 11 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 11 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-13T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:12",
-        "title": "Tập 12",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 12. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-14T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 12 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 12 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-14T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:13",
-        "title": "Tập 13",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 13",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 13. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-15T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 13 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 13 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-15T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:14",
-        "title": "Tập 14",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 14",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 14. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-16T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 14 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 14 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-16T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:15",
-        "title": "Tập 15",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 15",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 15. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-17T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 15 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 15 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-17T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:16",
-        "title": "Tập 16",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 16",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 16. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-18T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 16 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 16 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-18T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:17",
-        "title": "Tập 17",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 17",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 17. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-19T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 17 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 17 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-19T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:18",
-        "title": "Tập 18",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 18",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 18. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-20T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 18 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 18 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-20T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:19",
-        "title": "Tập 19",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 19",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 19. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-21T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 19 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 19 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-21T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:20",
-        "title": "Tập 20",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 20",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 20. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-22T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 20 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 20 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-22T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:21",
-        "title": "Tập 21",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 21",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 21. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-23T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 21 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 21 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-23T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:22",
-        "title": "Tập 22",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 22",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 22. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-24T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 22 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 22 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-24T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:23",
-        "title": "Tập 23",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 23",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 23. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-25T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 23 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 23 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-25T16:15:44.603Z"
       },
       {
         "id": "kk_doi-bong-nu-lang-xuan:1:24",
-        "title": "Tập 24",
+        "title": "Đội Bóng Nữ Làng Xuân - Tập 24",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-thumb.webp",
-        "overview": "Đội Bóng Nữ Làng Xuân - Tập 24. Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với t",
-        "released": "2026-11-26T14:26:24.474Z"
+        "poster": "https://phimimg.com/uploads/movies/20260905/doi-bong-nu-lang-xuan-poster.webp",
+        "overview": "[Tập 24 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "description": "[Tập 24 - FHD • Vietsub] Bộ phim truyền tải thông điệp về hành trình vượt qua giới hạn bản thân, thay đổi cuộc đời của những người phụ nữ thông qua niềm đam mê với trái bóng tròn.",
+        "released": "2026-11-26T16:15:44.603Z"
       }
     ]
   }

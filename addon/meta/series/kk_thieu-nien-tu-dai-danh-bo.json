@@ -1,237 +1,315 @@
 {
   "meta": {
     "id": "kk_thieu-nien-tu-dai-danh-bo",
+    "imdb_id": "tt10686744",
     "type": "series",
     "name": "Thiếu Niên Tứ Đại Danh Bổ (The Four)",
     "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
     "description": "Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
     "releaseInfo": "2008",
+    "runtime": "45 phút/tập",
+    "genres": [
+      "Hình Sự",
+      "Chính Kịch",
+      "Bí Ẩn",
+      "Tâm Lý"
+    ],
+    "cast": [
+      "Raymond Lam Fung",
+      "Kate Tsui Tsz-Shan",
+      "Kenneth Ma Kwok-Ming",
+      "Selena Lee",
+      "Sammul Chan",
+      "Vivi Lee",
+      "Ron Ng Cheuk-Hai",
+      "Cilla Kung",
+      "Dominic Lam Ka-Wah",
+      "Halina Tam Siu-Wan",
+      "Kristal Tin Yui-Nei",
+      "Gordon Liu",
+      "Felix Lok Ying-Kwan",
+      "Joel Chan",
+      "Lau Kong"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
     "videos": [
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:1",
-        "title": "Tập 01",
+        "id": "tt10686744:1:1",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 01. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-02T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 01 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 01 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-02T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:2",
-        "title": "Tập 02",
+        "id": "tt10686744:1:2",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 02. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-03T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 02 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 02 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-03T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:3",
-        "title": "Tập 03",
+        "id": "tt10686744:1:3",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 03. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-04T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 03 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 03 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-04T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:4",
-        "title": "Tập 04",
+        "id": "tt10686744:1:4",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 04. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-05T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 04 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 04 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-05T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:5",
-        "title": "Tập 05",
+        "id": "tt10686744:1:5",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 05. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-06T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 05 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 05 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-06T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:6",
-        "title": "Tập 06",
+        "id": "tt10686744:1:6",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 06. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-07T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 06 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 06 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-07T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:7",
-        "title": "Tập 07",
+        "id": "tt10686744:1:7",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 07. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-08T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 07 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 07 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-08T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:8",
-        "title": "Tập 08",
+        "id": "tt10686744:1:8",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 08. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-09T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 08 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 08 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-09T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:9",
-        "title": "Tập 09",
+        "id": "tt10686744:1:9",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 09. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-10T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 09 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 09 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-10T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:10",
-        "title": "Tập 10",
+        "id": "tt10686744:1:10",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 10. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-11T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 10 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 10 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-11T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:11",
-        "title": "Tập 11",
+        "id": "tt10686744:1:11",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 11. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-12T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 11 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 11 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-12T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:12",
-        "title": "Tập 12",
+        "id": "tt10686744:1:12",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 12. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-13T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 12 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 12 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-13T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:13",
-        "title": "Tập 13",
+        "id": "tt10686744:1:13",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 13",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 13. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-14T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 13 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 13 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-14T16:15:41.215Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:14",
-        "title": "Tập 14",
+        "id": "tt10686744:1:14",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 14",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 14. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-15T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 14 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 14 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-15T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:15",
-        "title": "Tập 15",
+        "id": "tt10686744:1:15",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 15",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 15. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-16T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 15 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 15 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-16T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:16",
-        "title": "Tập 16",
+        "id": "tt10686744:1:16",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 16",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 16. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-17T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 16 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 16 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-17T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:17",
-        "title": "Tập 17",
+        "id": "tt10686744:1:17",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 17",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 17. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-18T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 17 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 17 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-18T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:18",
-        "title": "Tập 18",
+        "id": "tt10686744:1:18",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 18",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 18. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-19T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 18 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 18 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-19T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:19",
-        "title": "Tập 19",
+        "id": "tt10686744:1:19",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 19",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 19. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-20T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 19 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 19 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-20T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:20",
-        "title": "Tập 20",
+        "id": "tt10686744:1:20",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 20",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 20. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-21T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 20 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 20 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-21T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:21",
-        "title": "Tập 21",
+        "id": "tt10686744:1:21",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 21",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 21. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-22T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 21 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 21 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-22T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:22",
-        "title": "Tập 22",
+        "id": "tt10686744:1:22",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 22",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 22. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-23T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 22 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 22 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-23T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:23",
-        "title": "Tập 23",
+        "id": "tt10686744:1:23",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 23",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 23. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-24T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 23 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 23 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-24T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:24",
-        "title": "Tập 24",
+        "id": "tt10686744:1:24",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 24",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 24. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-25T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 24 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 24 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-25T16:15:41.216Z"
       },
       {
-        "id": "kk_thieu-nien-tu-dai-danh-bo:1:25",
-        "title": "Tập 25",
+        "id": "tt10686744:1:25",
+        "title": "Thiếu Niên Tứ Đại Danh Bổ - Tập 25",
         "season": 1,
         "episode": 25,
         "thumbnail": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-thumb.webp",
-        "overview": "Thiếu Niên Tứ Đại Danh Bổ - Tập 25. Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
-        "released": "2026-11-26T14:24:37.520Z"
+        "poster": "https://phimimg.com/uploads/movies/20260915/thieu-nien-tu-dai-danh-bo-poster.webp",
+        "overview": "[Tập 25 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "description": "[Tập 25 - FHD • Lồng Tiếng • IMDb: tt10686744] Lấy sự suy tàn chính trị của triều đại Bắc Tống làm bối cảnh, đây là câu chuyện về Tứ đại bổ đầu duy trì công lý đồng thời trừng phạt kẻ ác.",
+        "released": "2026-11-26T16:15:41.216Z"
       }
     ]
   }

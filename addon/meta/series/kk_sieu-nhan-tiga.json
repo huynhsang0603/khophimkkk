@@ -1,210 +1,276 @@
 {
   "meta": {
     "id": "kk_sieu-nhan-tiga",
+    "imdb_id": "tt0182647",
     "type": "series",
     "name": "Siêu Nhân Tiga (Ultraman Tiga)",
     "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
     "description": "Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
     "releaseInfo": "1996",
+    "runtime": "25 phút/tập",
+    "genres": [
+      "Khoa Học",
+      "Viễn Tưởng",
+      "Hành Động",
+      "Phiêu Lưu",
+      "Chính Kịch",
+      "Tâm Lý"
+    ],
+    "cast": [
+      "Hiroshi Nagano",
+      "Takami Yoshimoto",
+      "Mio Takaki",
+      "Akitoshi Ohtaki",
+      "Masuda Yukio",
+      "Shigeki Kagemaru",
+      "Yoichi Furuya"
+    ],
+    "director": [
+      "Đang cập nhật"
+    ],
     "videos": [
       {
-        "id": "kk_sieu-nhan-tiga:1:1",
-        "title": "Tập 01",
+        "id": "tt0182647:1:1",
+        "title": "Siêu Nhân Tiga - Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 01. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-05T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 01 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 01 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-05T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:2",
-        "title": "Tập 02",
+        "id": "tt0182647:1:2",
+        "title": "Siêu Nhân Tiga - Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 02. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-06T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 02 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 02 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-06T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:3",
-        "title": "Tập 03",
+        "id": "tt0182647:1:3",
+        "title": "Siêu Nhân Tiga - Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 03. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-07T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 03 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 03 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-07T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:4",
-        "title": "Tập 04",
+        "id": "tt0182647:1:4",
+        "title": "Siêu Nhân Tiga - Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 04. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-08T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 04 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 04 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-08T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:5",
-        "title": "Tập 05",
+        "id": "tt0182647:1:5",
+        "title": "Siêu Nhân Tiga - Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 05. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-09T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 05 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 05 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-09T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:6",
-        "title": "Tập 06",
+        "id": "tt0182647:1:6",
+        "title": "Siêu Nhân Tiga - Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 06. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-10T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 06 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 06 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-10T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:7",
-        "title": "Tập 07",
+        "id": "tt0182647:1:7",
+        "title": "Siêu Nhân Tiga - Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 07. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-11T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 07 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 07 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-11T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:8",
-        "title": "Tập 08",
+        "id": "tt0182647:1:8",
+        "title": "Siêu Nhân Tiga - Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 08. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-12T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 08 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 08 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-12T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:9",
-        "title": "Tập 09",
+        "id": "tt0182647:1:9",
+        "title": "Siêu Nhân Tiga - Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 09. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-13T14:28:19.668Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 09 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 09 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-13T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:10",
-        "title": "Tập 10",
+        "id": "tt0182647:1:10",
+        "title": "Siêu Nhân Tiga - Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 10. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-14T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 10 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 10 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-14T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:11",
-        "title": "Tập 11",
+        "id": "tt0182647:1:11",
+        "title": "Siêu Nhân Tiga - Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 11. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-15T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 11 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 11 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-15T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:12",
-        "title": "Tập 12",
+        "id": "tt0182647:1:12",
+        "title": "Siêu Nhân Tiga - Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 12. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-16T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 12 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 12 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-16T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:13",
-        "title": "Tập 13",
+        "id": "tt0182647:1:13",
+        "title": "Siêu Nhân Tiga - Tập 13",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 13. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-17T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 13 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 13 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-17T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:14",
-        "title": "Tập 14",
+        "id": "tt0182647:1:14",
+        "title": "Siêu Nhân Tiga - Tập 14",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 14. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-18T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 14 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 14 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-18T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:15",
-        "title": "Tập 15",
+        "id": "tt0182647:1:15",
+        "title": "Siêu Nhân Tiga - Tập 15",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 15. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-19T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 15 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 15 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-19T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:16",
-        "title": "Tập 16",
+        "id": "tt0182647:1:16",
+        "title": "Siêu Nhân Tiga - Tập 16",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 16. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-20T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 16 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 16 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-20T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:17",
-        "title": "Tập 17",
+        "id": "tt0182647:1:17",
+        "title": "Siêu Nhân Tiga - Tập 17",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 17. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-21T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 17 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 17 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-21T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:18",
-        "title": "Tập 18",
+        "id": "tt0182647:1:18",
+        "title": "Siêu Nhân Tiga - Tập 18",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 18. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-22T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 18 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 18 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-22T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:19",
-        "title": "Tập 19",
+        "id": "tt0182647:1:19",
+        "title": "Siêu Nhân Tiga - Tập 19",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 19. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-23T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 19 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 19 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-23T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:20",
-        "title": "Tập 20",
+        "id": "tt0182647:1:20",
+        "title": "Siêu Nhân Tiga - Tập 20",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 20. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-24T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 20 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 20 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-24T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:21",
-        "title": "Tập 21",
+        "id": "tt0182647:1:21",
+        "title": "Siêu Nhân Tiga - Tập 21",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 21. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-25T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 21 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 21 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-25T16:15:49.603Z"
       },
       {
-        "id": "kk_sieu-nhan-tiga:1:22",
-        "title": "Tập 22",
+        "id": "tt0182647:1:22",
+        "title": "Siêu Nhân Tiga - Tập 22",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-thumb.webp",
-        "overview": "Siêu Nhân Tiga - Tập 22. Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Á",
-        "released": "2026-11-26T14:28:19.669Z"
+        "poster": "https://phimimg.com/uploads/movies/20261009/ultraman-tiga-poster.webp",
+        "overview": "[Tập 22 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "description": "[Tập 22 - FHD • Vietsub | Lồng Tiếng • IMDb: tt0182647] Khi những quái thú khổng lồ từ thời cổ đại bất ngờ thức tỉnh và gieo rắc hỗn loạn, Daigo tình cờ hợp nhất với pho tượng của một chiến binh Ánh sáng cổ đại và trở thành Ultraman Tiga. Từ đó, anh vừa cùng GUTS điều tra những hiện tượng kỳ bí, vừa biến thân thành Tiga để chiến đấu với quái thú và các thế lực ngoài hành tinh đe dọa nhân loại.",
+        "released": "2026-11-26T16:15:49.604Z"
       }
     ]
   }
