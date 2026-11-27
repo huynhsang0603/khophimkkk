@@ -9,17 +9,16 @@ var API_HEADERS = {
 
 function fixImg(url) {
   if (!url) return "";
-  return url.indexOf("http") === 0 ? url : KK_IMG + "/" + String(url).replace(/^\/+/, "");
+  return String(url).indexOf("http") === 0 ? url : KK_IMG + "/" + String(url).replace(/^\/+/, "");
 }
 
-// Hàm fetch giới hạn thời gian 7 giây để chống treo trên TV 32-bit TCL T66
-function fetchWithTimeout(url, options) {
+function fetchWithTimeout(url) {
   return new Promise(function (resolve, reject) {
     var timer = setTimeout(function () {
       reject(new Error("Timeout"));
-    }, 7000);
+    }, 8000);
 
-    fetch(url, options || { headers: API_HEADERS })
+    fetch(url, { headers: API_HEADERS })
       .then(function (res) {
         clearTimeout(timer);
         resolve(res);
@@ -83,7 +82,6 @@ function searchKkphim(keyword, targetImdbId, targetYear) {
     .catch(function () { return []; });
 }
 
-// Hàm hiển thị danh sách phim ngoài trang chủ Nuvio
 async function getCatalog(type, page) {
   try {
     var listType = type || "phim-moi-cap-nhat";
@@ -120,7 +118,6 @@ async function getCatalog(type, page) {
   }
 }
 
-// Hàm lấy chi tiết phim và danh sách tập có ảnh kèm tóm tắt
 async function getMeta(id, mediaType) {
   try {
     var rawId = String(id || "").trim();
@@ -213,9 +210,9 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
       rawId = String(tmdbId || "");
     }
 
-    var baseId = rawId;
-    if (rawId.indexOf(":") !== -1) {
-      var parts = rawId.split(":");
+    var baseId = rawId.trim();
+    if (baseId.indexOf(":") !== -1) {
+      var parts = baseId.split(":");
       var firstPart = String(parts.shift() || "").toLowerCase();
 
       if (firstPart === "tmdb") {
@@ -319,11 +316,10 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
           targetEp = epItem;
           break;
         }
+      }
 
-        if (epTarget === 1 && (label === "full" || label === "hd" || label === "fhd" || label === "tap-full")) {
-          targetEp = epItem;
-          break;
-        }
+      if (!targetEp && serverData.length > 0 && (epTarget === 1 || serverData.length === 1)) {
+        targetEp = serverData.slice(0, 1).shift();
       }
 
       if (targetEp && targetEp.link_m3u8) {
