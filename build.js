@@ -4,7 +4,7 @@ const path = require("path");
 const KK_API = "https://phimapi.com";
 const KK_IMG = "https://phimimg.com";
 const CINEMETA_API = "https://strem.io";
-const VERSION = "1.8.0";
+const VERSION = "2.0.0";
 
 const API_HEADERS = {
   accept: "application/json",
@@ -40,7 +40,6 @@ async function fetchJson(url, timeoutMs = 10000) {
   }
 }
 
-// Tự động tìm mã IMDb (tt...) từ dữ liệu KKPhim hoặc tra cứu qua Cinemeta
 async function resolveImdbId(movie, mediaType) {
   const directImdb = movie && movie.imdb && movie.imdb.id;
   if (directImdb && /^tt\d+/i.test(String(directImdb).trim())) {
@@ -99,7 +98,6 @@ async function processMovieMeta(item, defaultType, processedSlugs) {
     { server_data: [] }
   );
 
-  // Gắn prefix IMDb nếu có để Stremio/Nuvio tự nhận phụ đề rời (Vietsub)
   const videoPrefix = imdbId || customId;
   const videos = [];
 
@@ -150,15 +148,16 @@ async function processMovieMeta(item, defaultType, processedSlugs) {
 }
 
 async function run() {
-  // 1. Cập nhật Manifest cho Nuvio (v1.8.0)
+  // Khai báo đầy đủ idPrefixes: ["kk_", "tt", "tmdb:"] để Nuvio nhận diện mọi loại ID tập phim
   const providerManifest = {
     id: "com.huynhsang0603.kkphim",
     name: "KKPhim Việt Nam",
     version: VERSION,
-    description: "KKPhim Tiếng Việt gọn gàng - 1 luồng Thuyết Minh & 1 luồng Vietsub (Tối ưu TV 32-bit)",
+    description: "KKPhim Tiếng Việt gọn gàng - 1 luồng Thuyết Minh & 1 luồng Vietsub",
     author: "huynhsang0603",
     homepage: "https://github.com",
     repository: "https://github.com",
+    idPrefixes: ["kk_", "tt", "tmdb:"],
     scrapers: [
       {
         id: "kkphim_vn",
@@ -167,6 +166,7 @@ async function run() {
         version: VERSION,
         type: "all",
         filename: "provider.js",
+        idPrefixes: ["kk_", "tt", "tmdb:"],
         supportedTypes: ["movie", "series", "tv"]
       }
     ]
@@ -174,7 +174,6 @@ async function run() {
   fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
   fs.writeFileSync("provider-manifest.json", JSON.stringify(providerManifest, null, 2));
 
-  // 2. Cập nhật Manifest cho Stremio Addon
   fs.mkdirSync("addon", { recursive: true });
   const addonManifest = {
     id: "org.github.kkphim.static7",
@@ -197,7 +196,6 @@ async function run() {
   fs.mkdirSync(path.join("addon", "meta", "movie"), { recursive: true });
   const processedSlugs = new Set();
 
-  // 3. Quét danh mục và tạo dữ liệu chi tiết theo lô (5 phim/lượt để chạy nhanh & không bị chặn API)
   for (const cat of CATALOGS) {
     const dir = path.join("addon", "catalog", cat.type);
     fs.mkdirSync(dir, { recursive: true });
