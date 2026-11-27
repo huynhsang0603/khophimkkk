@@ -52,8 +52,8 @@ async function run() {
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
-        version: "1.3.0",
-        description: "KKPhim tách riêng nguồn Thuyết Minh & Vietsub, đầy đủ mô tả & thumbnail từng tập",
+        version: "1.4.0",
+        description: "KKPhim tách riêng Thuyết Minh (Phần 1) & Vietsub (Phần 2) kèm Poster từng tập",
         author: "huynhsang0603",
         homepage: "https://github.com",
         repository: "https://github.com",
@@ -61,7 +61,7 @@ async function run() {
             id: "kkphim_vn",
             name: "KKPhim (Thuyết Minh & Vietsub)",
             description: "Phân tách riêng Thuyết Minh / Vietsub, tự động chuyển tập 5s",
-            version: "1.3.0",
+            version: "1.4.0",
             type: "all",
             filename: "provider.js",
             supportedTypes: ["movie", "tv"]
@@ -72,17 +72,16 @@ async function run() {
     fs.mkdirSync("addon", { recursive: true });
     const addonManifest = {
         id: "org.github.kkphim.static7",
-        version: "1.3.0",
+        version: "1.4.0",
         name: "KKPhim 7 Danh Mục (Tiếng Việt)",
         description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
         resources: ["catalog", "meta"],
         types: ["series", "movie"],
         idPrefixes: ["kk_"],
-        catalogs: CATALOGS.map((c, i) => ({
+        catalogs: CATALOGS.map(c => ({
             type: c.type,
             id: c.id,
-            name: c.name,
-            extra: i === 0 ? [{ name: "search", isRequired: false }] : undefined
+            name: c.name
         }))
     };
     fs.writeFileSync(path.join("addon", "manifest.json"), JSON.stringify(addonManifest, null, 2));
@@ -100,9 +99,7 @@ async function run() {
 
             for (const item of items) {
                 const itemMediaType = item.type === "single" ? "movie" : cat.type;
-                const isDubCat = (cat.id === "kk_tm" || cat.id === "kk_lt");
-                const modePrefix = isDubCat ? "tm" : "vs";
-                const customId = `kk_${modePrefix}_${item.slug}`;
+                const customId = `kk_${item.slug}`;
 
                 if (processedSlugs.has(customId)) continue;
                 processedSlugs.add(customId);
@@ -120,39 +117,57 @@ async function run() {
                         const verticalPoster = fixImg(movie.poster_url || movie.thumb_url);
                         const horizontalThumb = fixImg(movie.thumb_url || movie.poster_url);
 
-                        let targetServer = isDubCat
-                            ? episodes.find(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""))
-                            : episodes.find(s => !/thuyết minh|lồng tiếng/i.test(s.server_name || ""));
-                        if (!targetServer) targetServer = episodes.shift();
-
-                        const serverLabel = (targetServer && targetServer.server_name) || (isDubCat ? "Thuyết Minh" : "Vietsub");
+                        const dubServer = episodes.find(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""));
+                        const subServer = episodes.find(s => !/thuyết minh|lồng tiếng/i.test(s.server_name || ""));
                         const videos = [];
 
-                        if (targetServer && Array.isArray(targetServer.server_data)) {
-                            targetServer.server_data.forEach((ep, idx) => {
+                        // Phần 1 (Season 1): Danh sách toàn bộ tập Thuyết Minh / Lồng Tiếng (nếu có)
+                        if (dubServer && Array.isArray(dubServer.server_data)) {
+                            const dubLabel = dubServer.server_name || "Thuyết Minh";
+                            dubServer.server_data.forEach((ep, idx) => {
                                 const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
                                 const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
                                 videos.push({
                                     id: `${customId}:1:${epNum}`,
-                                    title: `${epTitleClean} [${serverLabel}]`,
+                                    title: `${epTitleClean} (${dubLabel})`,
                                     season: 1,
                                     episode: epNum,
                                     thumbnail: horizontalThumb,
-                                    overview: `[${serverLabel}] ${movie.name} - ${epTitleClean}: ${cleanPlot.slice(0, 140)}`,
-                                    released: new Date(Date.now() - (targetServer.server_data.length - idx) * 86400000).toISOString()
+                                    overview: `[${dubLabel}] ${movie.name} - ${epTitleClean}. ${cleanPlot.slice(0, 140)}`,
+                                    released: new Date(Date.now() - (dubServer.server_data.length - idx) * 86400000).toISOString()
                                 });
                             });
                         }
 
+                        // Phần 2 (Season 2) [hoặc Phần 1 nếu chỉ có Vietsub]: Danh sách toàn bộ tập Vietsub
+                        if (subServer && Array.isArray(subServer.server_data)) {
+                            const subSeason = dubServer ? 2 : 1;
+                            const subLabel = subServer.server_name || "Vietsub";
+                            subServer.server_data.forEach((ep, idx) => {
+                                const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
+                                const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
+                                videos.push({
+                                    id: `${customId}:${subSeason}:${epNum}`,
+                                    title: `${epTitleClean} (${subLabel})`,
+                                    season: subSeason,
+                                    episode: epNum,
+                                    thumbnail: horizontalThumb,
+                                    overview: `[${subLabel}] ${movie.name} - ${epTitleClean}. ${cleanPlot.slice(0, 140)}`,
+                                    released: new Date(Date.now() - (subServer.server_data.length - idx) * 86400000).toISOString()
+                                });
+                            });
+                        }
+
+                        const availableLangs = episodes.map(s => s.server_name).filter(Boolean).join(" | ");
                         const metaObj = {
                             meta: {
                                 id: customId,
                                 imdb_id: resolvedImdb || undefined,
                                 type: itemMediaType,
-                                name: `[${serverLabel}] ${movie.name} (${movie.origin_name})`,
+                                name: `${movie.name} (${movie.origin_name})`,
                                 poster: verticalPoster,
                                 background: horizontalThumb,
-                                description: cleanPlot,
+                                description: `[${availableLangs}] ${cleanPlot}`,
                                 releaseInfo: String(movie.year || ""),
                                 videos: itemMediaType === "series" ? videos : undefined
                             }
@@ -164,10 +179,8 @@ async function run() {
 
             const metas = items.map(item => {
                 const itemMediaType = item.type === "single" ? "movie" : cat.type;
-                const isDubCat = (cat.id === "kk_tm" || cat.id === "kk_lt");
-                const modePrefix = isDubCat ? "tm" : "vs";
                 return {
-                    id: `kk_${modePrefix}_${item.slug}`,
+                    id: `kk_${item.slug}`,
                     type: itemMediaType,
                     name: item.origin_name ? `${item.name} (${item.origin_name})` : item.name,
                     poster: fixImg(item.poster_url || item.thumb_url),
