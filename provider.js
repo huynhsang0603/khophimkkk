@@ -3,7 +3,7 @@ const CINEMETA_API = "https://" + ["v3-cinemeta", "strem", "io"].join(".");
 
 const API_HEADERS = {
     accept: "application/json",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 };
 
 async function getMovieTitleFromId(id, mediaType) {
@@ -21,11 +21,10 @@ async function getMovieTitleFromId(id, mediaType) {
         const meta = json && json.meta;
         if (!meta || !meta.name) return null;
 
-        const yearStr = String(meta.releaseInfo || meta.year || "").slice(0, 4);
         return {
             imdbId: cleanImdbId,
             enTitle: meta.name,
-            year: yearStr
+            year: String(meta.releaseInfo || meta.year || "").slice(0, 4)
         };
     } catch (e) {
         return null;
@@ -58,21 +57,17 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
         let rawId = String(tmdbId || "");
         let type = mediaType;
-        let seasonTarget = parseInt(String(seasonNum || "1").replace(/\D/g, ""), 10) || 1;
         let epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
 
-        if (tmdbId && typeof tmdbId === "object" && tmdbId.id) {
-            rawId = String(tmdbId.id);
+        if (tmdbId && typeof tmdbId === "object") {
+            rawId = String(tmdbId.id || tmdbId.imdbId || tmdbId.tmdbId || "");
             type = tmdbId.type || mediaType;
-            seasonTarget = parseInt(String(tmdbId.season || seasonNum || "1").replace(/\D/g, ""), 10) || 1;
-            epTarget = parseInt(String(tmdbId.episode || episodeNum || "1").replace(/\D/g, ""), 10) || 1;
+            if (tmdbId.episode) epTarget = parseInt(String(tmdbId.episode).replace(/\D/g, ""), 10) || epTarget;
         }
 
         if (rawId.includes(":")) {
             const parts = rawId.split(":");
-            const sPart = parts.slice(1, 2).join("");
             const epPart = parts.slice(2, 3).join("");
-            if (sPart && !isNaN(parseInt(sPart, 10))) seasonTarget = parseInt(sPart, 10);
             if (epPart && !isNaN(parseInt(epPart, 10))) epTarget = parseInt(epPart, 10);
         }
 
@@ -117,22 +112,14 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         const movieName = (detailJson.movie && detailJson.movie.name) || "KKPhim";
         const qualityLabel = (detailJson.movie && detailJson.movie.quality) || "FHD";
         const episodes = detailJson.episodes || [];
-        const hasDubServer = episodes.some(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""));
-
         const dubStreams = [];
         const subStreams = [];
 
         for (const server of episodes) {
             const serverName = server.server_name || "Vietsub";
             const isDub = /thuyết minh|lồng tiếng/i.test(serverName);
-
-            // Nếu phim có cả 2 bản: Phần 1 (Season 1) chỉ lấy Thuyết Minh, Phần 2 (Season 2) chỉ lấy Vietsub
-            if (type !== "movie" && hasDubServer) {
-                if (seasonTarget === 1 && !isDub) continue;
-                if (seasonTarget === 2 && isDub) continue;
-            }
-
             const serverData = server.server_data || [];
+
             const targetEp = serverData.find(e => {
                 const label = String(e.name || "").trim().toLowerCase();
                 const cleanNum = parseInt(label.replace(/\D/g, ""), 10);
@@ -147,9 +134,7 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                     title: `${movieName} - ${serverName} (${targetEp.name}) [${qualityLabel}]`,
                     url: targetEp.link_m3u8,
                     quality: qualityLabel,
-                    provider: "KKPhim",
-                    skipIntro: { start: 0, end: 85 },
-                    skipOutro: { start: -95, end: 0 }
+                    provider: "KKPhim"
                 };
                 if (isDub) dubStreams.push(streamObj);
                 else subStreams.push(streamObj);
@@ -161,7 +146,6 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         return [];
     }
 }
-
 
 async function getCatalog(type, page) {
     try {
@@ -225,56 +209,31 @@ async function getMeta(id, mediaType) {
             : verticalPoster;
         const cleanPlot = (movie.content || "").replace(/<[^>]*>?/gm, "").trim();
 
-        const dubServer = episodes.find(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""));
-        const subServer = episodes.find(s => !/thuyết minh|lồng tiếng/i.test(s.server_name || ""));
+        const mainServer = episodes.reduce((p, c) => ((c.server_data && c.server_data.length) || 0) > ((p.server_data && p.server_data.length) || 0) ? c : p, { server_data: [] });
         const finalId = `kk_${slug}`;
         const videos = [];
 
-        // Phần 1 (Season 1): Toàn bộ danh sách tập Thuyết Minh / Lồng Tiếng (nếu có)
-        if (dubServer && Array.isArray(dubServer.server_data)) {
-            const dubLabel = dubServer.server_name || "Thuyết Minh";
-            dubServer.server_data.forEach((ep, idx) => {
-                const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
-                const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
-                videos.push({
-                    id: `${finalId}:1:${epNum}`,
-                    title: `${epTitleClean} (${dubLabel})`,
-                    season: 1,
-                    episode: epNum,
-                    thumbnail: horizontalThumb,
-                    overview: `[${dubLabel}] ${movie.name} - ${epTitleClean}. ${cleanPlot.slice(0, 140)}`,
-                    released: new Date(Date.now() - (dubServer.server_data.length - idx) * 86400000).toISOString()
-                });
+        (mainServer.server_data || []).forEach((ep, idx) => {
+            const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
+            const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
+            videos.push({
+                id: `${finalId}:1:${epNum}`,
+                title: epTitleClean,
+                season: 1,
+                episode: epNum,
+                thumbnail: horizontalThumb,
+                overview: `${movie.name} - ${epTitleClean}. ${cleanPlot.slice(0, 140)}`,
+                released: new Date(Date.now() - (mainServer.server_data.length - idx) * 86400000).toISOString()
             });
-        }
+        });
 
-        // Phần 2 (Season 2) [hoặc Phần 1 nếu chỉ có Vietsub]: Toàn bộ danh sách tập Vietsub
-        if (subServer && Array.isArray(subServer.server_data)) {
-            const subSeason = dubServer ? 2 : 1;
-            const subLabel = subServer.server_name || "Vietsub";
-            subServer.server_data.forEach((ep, idx) => {
-                const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
-                const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
-                videos.push({
-                    id: `${finalId}:${subSeason}:${epNum}`,
-                    title: `${epTitleClean} (${subLabel})`,
-                    season: subSeason,
-                    episode: epNum,
-                    thumbnail: horizontalThumb,
-                    overview: `[${subLabel}] ${movie.name} - ${epTitleClean}. ${cleanPlot.slice(0, 140)}`,
-                    released: new Date(Date.now() - (subServer.server_data.length - idx) * 86400000).toISOString()
-                });
-            });
-        }
-
-        const availableLangs = episodes.map(s => s.server_name).filter(Boolean).join(" | ");
         return {
             id: finalId,
             type: movie.type === "single" ? "movie" : "series",
             name: `${movie.name} (${movie.origin_name})`,
             poster: verticalPoster,
             background: horizontalThumb,
-            description: `[${availableLangs}] ${cleanPlot}`,
+            description: cleanPlot,
             releaseInfo: String(movie.year || ""),
             videos: movie.type === "single" ? undefined : videos
         };
@@ -282,7 +241,6 @@ async function getMeta(id, mediaType) {
         return null;
     }
 }
-
 
 if (typeof module !== "undefined" && module.exports) {
     module.exports = {
