@@ -9,20 +9,23 @@ const API_HEADERS = {
 async function getMovieTitleFromId(id, mediaType) {
     if (!id || typeof id === "object") return null;
     const rawId = String(id).trim();
-    const match = rawId.match(/(tt\d+)/i);
-    if (!match) return null;
-
-    const cleanImdbId = match.shift().toLowerCase();
     const typePath = (mediaType === "movie") ? "movie" : "series";
+    const match = rawId.match(/(tt\d+)/i);
+    const cleanNum = rawId.replace(/\D/g, "");
+    if (!match && !cleanNum) return null;
+
+    const apiUrl = match
+        ? `${CINEMETA_API}/meta/${typePath}/${match[0].toLowerCase()}.json`
+        : `https://baby-beamup.club{typePath}/tmdb:${cleanNum}.json`;
 
     try {
-        const res = await fetch(`${CINEMETA_API}/meta/${typePath}/${cleanImdbId}.json`);
+        const res = await fetch(apiUrl);
         const json = await res.json();
         const meta = json && json.meta;
         if (!meta || !meta.name) return null;
 
         return {
-            imdbId: cleanImdbId,
+            imdbId: match ? match[0].toLowerCase() : (meta.imdb_id || ""),
             enTitle: meta.name,
             year: String(meta.releaseInfo || meta.year || "").slice(0, 4)
         };
@@ -30,6 +33,7 @@ async function getMovieTitleFromId(id, mediaType) {
         return null;
     }
 }
+
 
 async function searchKkphim(keyword, targetImdbId, targetYear) {
     if (!keyword) return [];
