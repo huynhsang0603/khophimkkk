@@ -37,7 +37,7 @@ async function run() {
                 version: "1.7.0",
                 type: "all",
                 filename: "provider.js",
-                supportedTypes: ["movie", "tv"]
+                supportedTypes: ["movie", "series", "tv"]
             }
         ]
     };
