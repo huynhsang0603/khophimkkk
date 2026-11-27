@@ -1,93 +1,175 @@
 {
   "meta": {
     "id": "kk_tan-thuoc",
+    "imdb_id": "tt44302417",
     "type": "series",
-    "name": "Tàn Thuốc",
+    "name": "Tàn Thuốc (Ash)",
     "poster": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-    "description": "Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương.",
+    "description": "[Vietsub | Thuyết Minh] Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần được hé lộ, cả hai cùng bị kéo vào một vụ án làm tiền giả xuyên quốc gia và cuộc tranh giành quyền lực giữa các thế lực địa phương.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_tan-thuoc:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 01",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 01. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-18T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 02",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 02. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-19T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 03",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 03. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-20T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 04",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 04. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-21T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 05",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 05. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-22T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 06",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 06. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-23T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 07",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 07. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-24T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 08",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 08. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-25T04:20:39.425Z"
       },
       {
         "id": "kk_tan-thuoc:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
-        "overview": "Tàn Thuốc - Tập 09",
-        "released": "2026-11-26T00:11:34.519Z"
+        "overview": "[Thuyết Minh] Tàn Thuốc - Tập 09. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-26T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 01. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-18T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 02. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-19T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 03. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-20T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 04. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-21T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 05. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-22T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 06. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-23T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 07. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-24T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 08. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-25T04:20:39.425Z"
+      },
+      {
+        "id": "kk_tan-thuoc:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260817/tan-thuoc-thumb.webp",
+        "overview": "[Vietsub] Tàn Thuốc - Tập 09. Một cảnh sát chìm và CEO của một tập đoàn lớn bị cuốn vào mối quan hệ đầy bí mật và những thân phận được che giấu. Khi danh tính thật sự dần",
+        "released": "2026-11-26T04:20:39.425Z"
       }
     ]
   }

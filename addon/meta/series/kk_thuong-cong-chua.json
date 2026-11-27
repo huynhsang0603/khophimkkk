@@ -1,372 +1,733 @@
 {
   "meta": {
     "id": "kk_thuong-cong-chua",
+    "imdb_id": "tt35324004",
     "type": "series",
-    "name": "Thượng Công Chúa",
+    "name": "Thượng Công Chúa (Tigers Sniff the Rose)",
     "poster": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-    "description": "Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp.",
+    "description": "[Vietsub | Thuyết Minh | Lồng Tiếng] Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai người nảy sinh tình cảm trong lúc giúp đỡ lẫn nhau, mở ra một mối nhân duyên đẹp đẽ. Sau đó, nhờ sự trợ giúp của công chúa, Ngôn Thượng vào Trường An, nơi mà khát vọng và lòng yêu nước của chàng cuối cùng cũng có đất dụng võ. Thượng Công Chúa theo chân Mộ Vãn Dao và Ngôn Thượng trong hành trình trưởng thành, theo đuổi lý tưởng giữa chốn triều đình đầy mưu mô và viết nên chuyện tình vượt qua rào cản giai cấp.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_thuong-cong-chua:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 01",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 01. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-18T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 02",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 02. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-19T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 03",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 03. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-20T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 04",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 04. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-21T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 05",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 05. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-22T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 06",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 06. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-23T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 07",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 07. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-24T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 08",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 08. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-25T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 09",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 09. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-26T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 10",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 10. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-27T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:11",
-        "title": "Tập 11",
+        "title": "Tập 11 (Thuyết Minh)",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 11",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 11. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-28T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:12",
-        "title": "Tập 12",
+        "title": "Tập 12 (Thuyết Minh)",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 12",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 12. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-29T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:13",
-        "title": "Tập 13",
+        "title": "Tập 13 (Thuyết Minh)",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 13",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 13. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-30T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:14",
-        "title": "Tập 14",
+        "title": "Tập 14 (Thuyết Minh)",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 14",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 14. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-31T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:15",
-        "title": "Tập 15",
+        "title": "Tập 15 (Thuyết Minh)",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 15",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 15. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-01T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:16",
-        "title": "Tập 16",
+        "title": "Tập 16 (Thuyết Minh)",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 16",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 16. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-02T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:17",
-        "title": "Tập 17",
+        "title": "Tập 17 (Thuyết Minh)",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 17",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 17. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-03T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:18",
-        "title": "Tập 18",
+        "title": "Tập 18 (Thuyết Minh)",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 18",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 18. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-04T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:19",
-        "title": "Tập 19",
+        "title": "Tập 19 (Thuyết Minh)",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 19",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 19. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-05T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:20",
-        "title": "Tập 20",
+        "title": "Tập 20 (Thuyết Minh)",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 20",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 20. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-06T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:21",
-        "title": "Tập 21",
+        "title": "Tập 21 (Thuyết Minh)",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 21",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 21. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-07T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:22",
-        "title": "Tập 22",
+        "title": "Tập 22 (Thuyết Minh)",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 22",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 22. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-08T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:23",
-        "title": "Tập 23",
+        "title": "Tập 23 (Thuyết Minh)",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 23",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 23. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-09T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:24",
-        "title": "Tập 24",
+        "title": "Tập 24 (Thuyết Minh)",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 24",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 24. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-10T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:25",
-        "title": "Tập 25",
+        "title": "Tập 25 (Thuyết Minh)",
         "season": 1,
         "episode": 25,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 25",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 25. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-11T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:26",
-        "title": "Tập 26",
+        "title": "Tập 26 (Thuyết Minh)",
         "season": 1,
         "episode": 26,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 26",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 26. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-12T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:27",
-        "title": "Tập 27",
+        "title": "Tập 27 (Thuyết Minh)",
         "season": 1,
         "episode": 27,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 27",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 27. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-13T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:28",
-        "title": "Tập 28",
+        "title": "Tập 28 (Thuyết Minh)",
         "season": 1,
         "episode": 28,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 28",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 28. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-14T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:29",
-        "title": "Tập 29",
+        "title": "Tập 29 (Thuyết Minh)",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 29",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 29. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-15T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:30",
-        "title": "Tập 30",
+        "title": "Tập 30 (Thuyết Minh)",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 30",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 30. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-16T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:31",
-        "title": "Tập 31",
+        "title": "Tập 31 (Thuyết Minh)",
         "season": 1,
         "episode": 31,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 31",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 31. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-17T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:32",
-        "title": "Tập 32",
+        "title": "Tập 32 (Thuyết Minh)",
         "season": 1,
         "episode": 32,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 32",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 32. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-18T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:33",
-        "title": "Tập 33",
+        "title": "Tập 33 (Thuyết Minh)",
         "season": 1,
         "episode": 33,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 33",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 33. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-19T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:34",
-        "title": "Tập 34",
+        "title": "Tập 34 (Thuyết Minh)",
         "season": 1,
         "episode": 34,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 34",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 34. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-20T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:35",
-        "title": "Tập 35",
+        "title": "Tập 35 (Thuyết Minh)",
         "season": 1,
         "episode": 35,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 35",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 35. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-21T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:36",
-        "title": "Tập 36",
+        "title": "Tập 36 (Thuyết Minh)",
         "season": 1,
         "episode": 36,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 36",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 36. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-22T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:37",
-        "title": "Tập 37",
+        "title": "Tập 37 (Thuyết Minh)",
         "season": 1,
         "episode": 37,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 37",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 37. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-23T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:38",
-        "title": "Tập 38",
+        "title": "Tập 38 (Thuyết Minh)",
         "season": 1,
         "episode": 38,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 38",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 38. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-24T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:39",
-        "title": "Tập 39",
+        "title": "Tập 39 (Thuyết Minh)",
         "season": 1,
         "episode": 39,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 39",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 39. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-25T04:20:54.095Z"
       },
       {
         "id": "kk_thuong-cong-chua:1:40",
-        "title": "Tập 40",
+        "title": "Tập 40 (Thuyết Minh)",
         "season": 1,
         "episode": 40,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
-        "overview": "Thượng Công Chúa - Tập 40",
-        "released": "2026-11-26T00:11:29.113Z"
+        "overview": "[Thuyết Minh] Thượng Công Chúa - Tập 40. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-26T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 01. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-18T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 02. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-19T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 03. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-20T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 04. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-21T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 05. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-22T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 06. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-23T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 07. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-24T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 08. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-25T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 09. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-26T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 10. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-27T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:11",
+        "title": "Tập 11 (Vietsub)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 11. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-28T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:12",
+        "title": "Tập 12 (Vietsub)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 12. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-29T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:13",
+        "title": "Tập 13 (Vietsub)",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 13. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-30T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:14",
+        "title": "Tập 14 (Vietsub)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 14. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-10-31T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:15",
+        "title": "Tập 15 (Vietsub)",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 15. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-01T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:16",
+        "title": "Tập 16 (Vietsub)",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 16. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-02T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:17",
+        "title": "Tập 17 (Vietsub)",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 17. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-03T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:18",
+        "title": "Tập 18 (Vietsub)",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 18. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-04T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:19",
+        "title": "Tập 19 (Vietsub)",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 19. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-05T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:20",
+        "title": "Tập 20 (Vietsub)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 20. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-06T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:21",
+        "title": "Tập 21 (Vietsub)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 21. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-07T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:22",
+        "title": "Tập 22 (Vietsub)",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 22. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-08T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:23",
+        "title": "Tập 23 (Vietsub)",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 23. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-09T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:24",
+        "title": "Tập 24 (Vietsub)",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 24. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-10T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:25",
+        "title": "Tập 25 (Vietsub)",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 25. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-11T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:26",
+        "title": "Tập 26 (Vietsub)",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 26. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-12T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:27",
+        "title": "Tập 27 (Vietsub)",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 27. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-13T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:28",
+        "title": "Tập 28 (Vietsub)",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 28. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-14T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:29",
+        "title": "Tập 29 (Vietsub)",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 29. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-15T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:30",
+        "title": "Tập 30 (Vietsub)",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 30. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-16T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:31",
+        "title": "Tập 31 (Vietsub)",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 31. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-17T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:32",
+        "title": "Tập 32 (Vietsub)",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 32. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-18T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:33",
+        "title": "Tập 33 (Vietsub)",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 33. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-19T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:34",
+        "title": "Tập 34 (Vietsub)",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 34. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-20T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:35",
+        "title": "Tập 35 (Vietsub)",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 35. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-21T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:36",
+        "title": "Tập 36 (Vietsub)",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 36. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-22T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:37",
+        "title": "Tập 37 (Vietsub)",
+        "season": 2,
+        "episode": 37,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 37. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-23T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:38",
+        "title": "Tập 38 (Vietsub)",
+        "season": 2,
+        "episode": 38,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 38. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-24T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:39",
+        "title": "Tập 39 (Vietsub)",
+        "season": 2,
+        "episode": 39,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 39. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-25T04:20:54.095Z"
+      },
+      {
+        "id": "kk_thuong-cong-chua:2:40",
+        "title": "Tập 40 (Vietsub)",
+        "season": 2,
+        "episode": 40,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261024/thuong-cong-chua-thumb.webp",
+        "overview": "[Vietsub] Thượng Công Chúa - Tập 40. Trong chuyến đi cầu phúc cho người mẹ đã khuất, Công chúa Mộ Vãn Dao tình cờ gặp thư sinh Ngôn Thượng. Giữa vùng núi sương khói mờ ảo, hai n",
+        "released": "2026-11-26T04:20:54.095Z"
       }
     ]
   }

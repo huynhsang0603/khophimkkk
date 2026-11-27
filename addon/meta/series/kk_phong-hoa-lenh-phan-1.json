@@ -1,228 +1,445 @@
 {
   "meta": {
     "id": "kk_phong-hoa-lenh-phan-1",
+    "imdb_id": "tt11809790",
     "type": "series",
-    "name": "Phong Hoa Lệnh (Phần 1)",
+    "name": "Phong Hoa Lệnh (Phần 1) (Love Legend (Season 1))",
     "poster": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-    "description": "Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng Bùi Chiêu — chỉ huy của Phượng Nghi Vệ — đã kết hạ mối ràng buộc định mệnh nhờ Tử Mẫu Cổ. Để điều tra làm rõ sự bất thường tại mỏ huyết ngọc cùng nguyên nhân cái chết thảm khốc của Vân Hương, Vân Thiều gia nhập Phượng Nghi Vệ, cùng Bùi Chiêu hợp lực điều tra chuỗi vụ án tế máu liên tiếp xảy ra, để rồi từng bước bị cuốn vào những bí mật giấu kín của hoàng thất cùng cuộc tranh quyền đoạt vị chốn triều đình.",
+    "description": "[Vietsub | Thuyết Minh] Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng Bùi Chiêu — chỉ huy của Phượng Nghi Vệ — đã kết hạ mối ràng buộc định mệnh nhờ Tử Mẫu Cổ. Để điều tra làm rõ sự bất thường tại mỏ huyết ngọc cùng nguyên nhân cái chết thảm khốc của Vân Hương, Vân Thiều gia nhập Phượng Nghi Vệ, cùng Bùi Chiêu hợp lực điều tra chuỗi vụ án tế máu liên tiếp xảy ra, để rồi từng bước bị cuốn vào những bí mật giấu kín của hoàng thất cùng cuộc tranh quyền đoạt vị chốn triều đình.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 01",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 01. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-03T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 02",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 02. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-04T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 03",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 03. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-05T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 04",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 04. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-06T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 05",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 05. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-07T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 06",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 06. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-08T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 07",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 07. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-09T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 08",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 08. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-10T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 09",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 09. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-11T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 10",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 10. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-12T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:11",
-        "title": "Tập 11",
+        "title": "Tập 11 (Thuyết Minh)",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 11",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 11. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-13T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:12",
-        "title": "Tập 12",
+        "title": "Tập 12 (Thuyết Minh)",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 12",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 12. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-14T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:13",
-        "title": "Tập 13",
+        "title": "Tập 13 (Thuyết Minh)",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 13",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 13. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-15T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:14",
-        "title": "Tập 14",
+        "title": "Tập 14 (Thuyết Minh)",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 14",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 14. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-16T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:15",
-        "title": "Tập 15",
+        "title": "Tập 15 (Thuyết Minh)",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 15",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 15. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-17T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:16",
-        "title": "Tập 16",
+        "title": "Tập 16 (Thuyết Minh)",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 16",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 16. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-18T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:17",
-        "title": "Tập 17",
+        "title": "Tập 17 (Thuyết Minh)",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 17",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 17. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-19T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:18",
-        "title": "Tập 18",
+        "title": "Tập 18 (Thuyết Minh)",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 18",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 18. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-20T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:19",
-        "title": "Tập 19",
+        "title": "Tập 19 (Thuyết Minh)",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 19",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 19. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-21T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:20",
-        "title": "Tập 20",
+        "title": "Tập 20 (Thuyết Minh)",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 20",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 20. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-22T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:21",
-        "title": "Tập 21",
+        "title": "Tập 21 (Thuyết Minh)",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 21",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 21. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-23T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:22",
-        "title": "Tập 22",
+        "title": "Tập 22 (Thuyết Minh)",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 22",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 22. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-24T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:23",
-        "title": "Tập 23",
+        "title": "Tập 23 (Thuyết Minh)",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 23",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 23. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-25T04:20:58.542Z"
       },
       {
         "id": "kk_phong-hoa-lenh-phan-1:1:24",
-        "title": "Tập 24",
+        "title": "Tập 24 (Thuyết Minh)",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
-        "overview": "Phong Hoa Lệnh (Phần 1) - Tập 24",
-        "released": "2026-11-26T00:11:33.746Z"
+        "overview": "[Thuyết Minh] Phong Hoa Lệnh (Phần 1) - Tập 24. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-26T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 01. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-03T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 02. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-04T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 03. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-05T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 04. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-06T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 05. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-07T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 06. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-08T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 07. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-09T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 08. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-10T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 09. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-11T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 10. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-12T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:11",
+        "title": "Tập 11 (Vietsub)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 11. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-13T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:12",
+        "title": "Tập 12 (Vietsub)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 12. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-14T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:13",
+        "title": "Tập 13 (Vietsub)",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 13. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-15T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:14",
+        "title": "Tập 14 (Vietsub)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 14. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-16T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:15",
+        "title": "Tập 15 (Vietsub)",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 15. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-17T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:16",
+        "title": "Tập 16 (Vietsub)",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 16. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-18T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:17",
+        "title": "Tập 17 (Vietsub)",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 17. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-19T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:18",
+        "title": "Tập 18 (Vietsub)",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 18. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-20T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:19",
+        "title": "Tập 19 (Vietsub)",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 19. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-21T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:20",
+        "title": "Tập 20 (Vietsub)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 20. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-22T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:21",
+        "title": "Tập 21 (Vietsub)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 21. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-23T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:22",
+        "title": "Tập 22 (Vietsub)",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 22. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-24T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:23",
+        "title": "Tập 23 (Vietsub)",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 23. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-25T04:20:58.542Z"
+      },
+      {
+        "id": "kk_phong-hoa-lenh-phan-1:2:24",
+        "title": "Tập 24 (Vietsub)",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260930/phong-hoa-lenh-poster.webp",
+        "overview": "[Vietsub] Phong Hoa Lệnh (Phần 1) - Tập 24. Vân Thiều — nữ tử xuất thân từ thế gia cao quý — bị chính gia tộc đem làm vật tế cho huyết ngọc. Sau khi thoát chết trong gang tấc, cô cùng ",
+        "released": "2026-11-26T04:20:58.542Z"
       }
     ]
   }

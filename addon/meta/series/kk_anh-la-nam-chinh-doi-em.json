@@ -1,102 +1,193 @@
 {
   "meta": {
     "id": "kk_anh-la-nam-chinh-doi-em",
+    "imdb_id": "tt49931644",
     "type": "series",
-    "name": "Anh Là Nam Chính Đời Em",
+    "name": "Anh Là Nam Chính Đời Em (Oh! My Guard)",
     "poster": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-    "description": "Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự nghiệp. Mọi chuyện đảo lộn khi anh gặp Oh Hae Ra, một cô gái luôn tin rằng mình là nhân vật chính trong phim truyền hình. Anh Là Nam Chính Đời Em (Oh! My Guard) theo chân Tae Bong và Hae Ra trong hành trình tình yêu oái oăm, đầy những tình huống dở khóc dở cười, làm lu mờ ranh giới giữa đời thực và thế giới lãng mạn trên màn ảnh.",
+    "description": "[Vietsub | Thuyết Minh] Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự nghiệp. Mọi chuyện đảo lộn khi anh gặp Oh Hae Ra, một cô gái luôn tin rằng mình là nhân vật chính trong phim truyền hình. Anh Là Nam Chính Đời Em (Oh! My Guard) theo chân Tae Bong và Hae Ra trong hành trình tình yêu oái oăm, đầy những tình huống dở khóc dở cười, làm lu mờ ranh giới giữa đời thực và thế giới lãng mạn trên màn ảnh.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 01",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 01. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-17T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 02",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 02. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-18T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 03",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 03. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-19T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 04",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 04. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-20T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 05",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 05. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-21T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 06",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 06. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-22T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 07",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 07. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-23T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 08",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 08. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-24T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 09",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 09. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-25T04:20:53.393Z"
       },
       {
         "id": "kk_anh-la-nam-chinh-doi-em:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
-        "overview": "Anh Là Nam Chính Đời Em - Tập 10",
-        "released": "2026-11-26T00:11:28.339Z"
+        "overview": "[Thuyết Minh] Anh Là Nam Chính Đời Em - Tập 10. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-26T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 01. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-17T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 02. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-18T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 03. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-19T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 04. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-20T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 05. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-21T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 06. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-22T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 07. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-23T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 08. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-24T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 09. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-25T04:20:53.393Z"
+      },
+      {
+        "id": "kk_anh-la-nam-chinh-doi-em:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261027/anh-la-nam-chinh-doi-em-thumb.webp",
+        "overview": "[Vietsub] Anh Là Nam Chính Đời Em - Tập 10. Uhm Tae Bong chuyên đóng các vai tình cảm ngọt ngào, nhưng sau hình ảnh hoàn hảo ấy là một khuyết điểm có thể ảnh hưởng nghiêm trọng đến sự ",
+        "released": "2026-11-26T04:20:53.393Z"
       }
     ]
   }

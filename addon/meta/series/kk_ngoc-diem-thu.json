@@ -1,372 +1,733 @@
 {
   "meta": {
     "id": "kk_ngoc-diem-thu",
+    "imdb_id": "tt37109705",
     "type": "series",
-    "name": "Ngọc Điệm Thu",
+    "name": "Ngọc Điệm Thu (The Lament Of Autumn)",
     "poster": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-    "description": "Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ.",
+    "description": "[Vietsub | Thuyết Minh] Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp gỡ Ngu Sưởng Hiên, ngũ thiếu gia nhà họ Ngu. Sau giai đoạn đầu đầy toan tính và nghi kỵ, cả hai dần nảy sinh tình cảm sâu đậm. Nhưng rồi hàng loạt biến cố và bi kịch đẩy Bình Quân đến bờ vực tuyệt vọng, khiến cô phải rời xa Sưởng Hiên. Trải qua nhiều năm đau khổ và dằn vặt, họ gặp lại nhau, từng bước hóa giải hiểu lầm và đối mặt với những bí mật trong quá khứ.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_ngoc-diem-thu:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 01",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 01. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-18T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 02",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 02. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-19T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 03",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 03. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-20T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 04",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 04. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-21T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 05",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 05. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-22T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 06",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 06. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-23T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 07",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 07. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-24T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 08",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 08. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-25T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 09",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 09. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-26T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 10",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 10. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-27T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:11",
-        "title": "Tập 11",
+        "title": "Tập 11 (Thuyết Minh)",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 11",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 11. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-28T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:12",
-        "title": "Tập 12",
+        "title": "Tập 12 (Thuyết Minh)",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 12",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 12. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-29T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:13",
-        "title": "Tập 13",
+        "title": "Tập 13 (Thuyết Minh)",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 13",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 13. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-30T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:14",
-        "title": "Tập 14",
+        "title": "Tập 14 (Thuyết Minh)",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 14",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 14. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-31T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:15",
-        "title": "Tập 15",
+        "title": "Tập 15 (Thuyết Minh)",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 15",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 15. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-01T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:16",
-        "title": "Tập 16",
+        "title": "Tập 16 (Thuyết Minh)",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 16",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 16. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-02T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:17",
-        "title": "Tập 17",
+        "title": "Tập 17 (Thuyết Minh)",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 17",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 17. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-03T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:18",
-        "title": "Tập 18",
+        "title": "Tập 18 (Thuyết Minh)",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 18",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 18. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-04T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:19",
-        "title": "Tập 19",
+        "title": "Tập 19 (Thuyết Minh)",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 19",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 19. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-05T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:20",
-        "title": "Tập 20",
+        "title": "Tập 20 (Thuyết Minh)",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 20",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 20. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-06T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:21",
-        "title": "Tập 21",
+        "title": "Tập 21 (Thuyết Minh)",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 21",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 21. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-07T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:22",
-        "title": "Tập 22",
+        "title": "Tập 22 (Thuyết Minh)",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 22",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 22. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-08T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:23",
-        "title": "Tập 23",
+        "title": "Tập 23 (Thuyết Minh)",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 23",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 23. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-09T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:24",
-        "title": "Tập 24",
+        "title": "Tập 24 (Thuyết Minh)",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 24",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 24. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-10T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:25",
-        "title": "Tập 25",
+        "title": "Tập 25 (Thuyết Minh)",
         "season": 1,
         "episode": 25,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 25",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 25. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-11T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:26",
-        "title": "Tập 26",
+        "title": "Tập 26 (Thuyết Minh)",
         "season": 1,
         "episode": 26,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 26",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 26. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-12T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:27",
-        "title": "Tập 27",
+        "title": "Tập 27 (Thuyết Minh)",
         "season": 1,
         "episode": 27,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 27",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 27. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-13T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:28",
-        "title": "Tập 28",
+        "title": "Tập 28 (Thuyết Minh)",
         "season": 1,
         "episode": 28,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 28",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 28. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-14T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:29",
-        "title": "Tập 29",
+        "title": "Tập 29 (Thuyết Minh)",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 29",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 29. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-15T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:30",
-        "title": "Tập 30",
+        "title": "Tập 30 (Thuyết Minh)",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 30",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 30. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-16T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:31",
-        "title": "Tập 31",
+        "title": "Tập 31 (Thuyết Minh)",
         "season": 1,
         "episode": 31,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 31",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 31. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-17T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:32",
-        "title": "Tập 32",
+        "title": "Tập 32 (Thuyết Minh)",
         "season": 1,
         "episode": 32,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 32",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 32. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-18T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:33",
-        "title": "Tập 33",
+        "title": "Tập 33 (Thuyết Minh)",
         "season": 1,
         "episode": 33,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 33",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 33. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-19T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:34",
-        "title": "Tập 34",
+        "title": "Tập 34 (Thuyết Minh)",
         "season": 1,
         "episode": 34,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 34",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 34. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-20T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:35",
-        "title": "Tập 35",
+        "title": "Tập 35 (Thuyết Minh)",
         "season": 1,
         "episode": 35,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 35",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 35. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-21T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:36",
-        "title": "Tập 36",
+        "title": "Tập 36 (Thuyết Minh)",
         "season": 1,
         "episode": 36,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 36",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 36. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-22T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:37",
-        "title": "Tập 37",
+        "title": "Tập 37 (Thuyết Minh)",
         "season": 1,
         "episode": 37,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 37",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 37. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-23T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:38",
-        "title": "Tập 38",
+        "title": "Tập 38 (Thuyết Minh)",
         "season": 1,
         "episode": 38,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 38",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 38. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-24T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:39",
-        "title": "Tập 39",
+        "title": "Tập 39 (Thuyết Minh)",
         "season": 1,
         "episode": 39,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 39",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 39. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-25T04:20:55.310Z"
       },
       {
         "id": "kk_ngoc-diem-thu:1:40",
-        "title": "Tập 40",
+        "title": "Tập 40 (Thuyết Minh)",
         "season": 1,
         "episode": 40,
         "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
-        "overview": "Ngọc Điệm Thu - Tập 40",
-        "released": "2026-11-26T00:11:30.402Z"
+        "overview": "[Thuyết Minh] Ngọc Điệm Thu - Tập 40. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-26T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 01. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-18T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 02. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-19T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 03. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-20T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 04. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-21T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 05. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-22T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 06. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-23T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 07. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-24T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 08. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-25T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 09. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-26T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 10. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-27T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:11",
+        "title": "Tập 11 (Vietsub)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 11. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-28T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:12",
+        "title": "Tập 12 (Vietsub)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 12. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-29T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:13",
+        "title": "Tập 13 (Vietsub)",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 13. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-30T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:14",
+        "title": "Tập 14 (Vietsub)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 14. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-10-31T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:15",
+        "title": "Tập 15 (Vietsub)",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 15. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-01T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:16",
+        "title": "Tập 16 (Vietsub)",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 16. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-02T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:17",
+        "title": "Tập 17 (Vietsub)",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 17. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-03T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:18",
+        "title": "Tập 18 (Vietsub)",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 18. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-04T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:19",
+        "title": "Tập 19 (Vietsub)",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 19. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-05T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:20",
+        "title": "Tập 20 (Vietsub)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 20. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-06T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:21",
+        "title": "Tập 21 (Vietsub)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 21. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-07T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:22",
+        "title": "Tập 22 (Vietsub)",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 22. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-08T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:23",
+        "title": "Tập 23 (Vietsub)",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 23. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-09T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:24",
+        "title": "Tập 24 (Vietsub)",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 24. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-10T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:25",
+        "title": "Tập 25 (Vietsub)",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 25. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-11T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:26",
+        "title": "Tập 26 (Vietsub)",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 26. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-12T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:27",
+        "title": "Tập 27 (Vietsub)",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 27. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-13T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:28",
+        "title": "Tập 28 (Vietsub)",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 28. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-14T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:29",
+        "title": "Tập 29 (Vietsub)",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 29. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-15T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:30",
+        "title": "Tập 30 (Vietsub)",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 30. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-16T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:31",
+        "title": "Tập 31 (Vietsub)",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 31. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-17T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:32",
+        "title": "Tập 32 (Vietsub)",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 32. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-18T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:33",
+        "title": "Tập 33 (Vietsub)",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 33. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-19T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:34",
+        "title": "Tập 34 (Vietsub)",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 34. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-20T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:35",
+        "title": "Tập 35 (Vietsub)",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 35. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-21T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:36",
+        "title": "Tập 36 (Vietsub)",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 36. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-22T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:37",
+        "title": "Tập 37 (Vietsub)",
+        "season": 2,
+        "episode": 37,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 37. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-23T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:38",
+        "title": "Tập 38 (Vietsub)",
+        "season": 2,
+        "episode": 38,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 38. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-24T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:39",
+        "title": "Tập 39 (Vietsub)",
+        "season": 2,
+        "episode": 39,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 39. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-25T04:20:55.310Z"
+      },
+      {
+        "id": "kk_ngoc-diem-thu:2:40",
+        "title": "Tập 40 (Vietsub)",
+        "season": 2,
+        "episode": 40,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261012/ngoc-diem-thu-thumb.webp",
+        "overview": "[Vietsub] Ngọc Điệm Thu - Tập 40. Ngọc Điệm Thu lấy bối cảnh đầu thế kỷ 20, giữa thời loạn lạc ở Nam Hoài. Nữ sinh nghèo Diệp Bình Quân vô tình vướng vào một vụ ám sát và gặp",
+        "released": "2026-11-26T04:20:55.310Z"
       }
     ]
   }

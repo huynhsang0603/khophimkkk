@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "id": "kk_tam-co",
+    "imdb_id": "tt51199819",
+    "type": "series",
+    "name": "Tâm Cơ (Shinji: Double Shuffle)",
+    "poster": "https://phimimg.com/uploads/movies/20261126/tam-co-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261126/tam-co-thumb.webp",
+    "description": "[Vietsub] Là người thừa kế của một gia tộc quyền thế, Phạm Khương Duệ Thần từ nhỏ đã bị cuốn vào vòng xoáy tranh giành quyền lực, sớm biết dùng mưu kế để tự bảo vệ mình. Thế nhưng, tình yêu cố chấp dành cho chú bảy Phạm Duy Hạ, nhỏ hơn mình một tuổi, lại là nước cờ sai lầm duy nhất của anh.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_tam-co:1:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261126/tam-co-thumb.webp",
+        "overview": "[Vietsub] Tâm Cơ - Tập 01. Là người thừa kế của một gia tộc quyền thế, Phạm Khương Duệ Thần từ nhỏ đã bị cuốn vào vòng xoáy tranh giành quyền lực, sớm biết dùng mưu kế",
+        "released": "2026-11-25T04:20:31.335Z"
+      },
+      {
+        "id": "kk_tam-co:1:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261126/tam-co-thumb.webp",
+        "overview": "[Vietsub] Tâm Cơ - Tập 02. Là người thừa kế của một gia tộc quyền thế, Phạm Khương Duệ Thần từ nhỏ đã bị cuốn vào vòng xoáy tranh giành quyền lực, sớm biết dùng mưu kế",
+        "released": "2026-11-26T04:20:31.335Z"
+      }
+    ]
+  }
+}

@@ -1,75 +1,76 @@
 {
   "meta": {
     "id": "kk_co-may-bong-toi",
+    "imdb_id": "tt39390769",
     "type": "series",
-    "name": "Cỗ Máy Bóng Tối",
+    "name": "Cỗ Máy Bóng Tối (DARK MACHINE THE ANIMATION)",
     "poster": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-    "description": "Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt mang tên “Golden Valley”. Ajima là “Senki” thứ bảy — danh hiệu dành cho người chơi mạnh nhất của trò chơi — và thực chất kiểm soát cả khu vực thông qua DARK MACHINE. Nhân vật chính Kairi đến Golden Valley với lời trăn trối của người ông quá cố: “Hãy tìm Senki.” Cậu tình cờ gặp một cô bé tên Rudora đang bị thuộc hạ của Ajima truy đuổi. Kairi trở thành người chơi DARK MACHINE sau khi kết nối với Rudora, và tài năng của cậu bừng nở qua từng trận chiến khốc liệt. Liệu Kairi có thể đối đầu với Senki và tự tạo nên định mệnh của riêng mình?",
+    "description": "[Vietsub] Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt mang tên “Golden Valley”. Ajima là “Senki” thứ bảy — danh hiệu dành cho người chơi mạnh nhất của trò chơi — và thực chất kiểm soát cả khu vực thông qua DARK MACHINE. Nhân vật chính Kairi đến Golden Valley với lời trăn trối của người ông quá cố: “Hãy tìm Senki.” Cậu tình cờ gặp một cô bé tên Rudora đang bị thuộc hạ của Ajima truy đuổi. Kairi trở thành người chơi DARK MACHINE sau khi kết nối với Rudora, và tài năng của cậu bừng nở qua từng trận chiến khốc liệt. Liệu Kairi có thể đối đầu với Senki và tự tạo nên định mệnh của riêng mình?",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_co-may-bong-toi:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Vietsub)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-        "overview": "Cỗ Máy Bóng Tối - Tập 01",
-        "released": "2026-11-26T00:11:18.664Z"
+        "overview": "[Vietsub] Cỗ Máy Bóng Tối - Tập 01. Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt ",
+        "released": "2026-11-20T04:21:06.299Z"
       },
       {
         "id": "kk_co-may-bong-toi:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Vietsub)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-        "overview": "Cỗ Máy Bóng Tối - Tập 02",
-        "released": "2026-11-26T00:11:18.664Z"
+        "overview": "[Vietsub] Cỗ Máy Bóng Tối - Tập 02. Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt ",
+        "released": "2026-11-21T04:21:06.299Z"
       },
       {
         "id": "kk_co-may-bong-toi:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Vietsub)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-        "overview": "Cỗ Máy Bóng Tối - Tập 03",
-        "released": "2026-11-26T00:11:18.664Z"
+        "overview": "[Vietsub] Cỗ Máy Bóng Tối - Tập 03. Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt ",
+        "released": "2026-11-22T04:21:06.299Z"
       },
       {
         "id": "kk_co-may-bong-toi:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Vietsub)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-        "overview": "Cỗ Máy Bóng Tối - Tập 04",
-        "released": "2026-11-26T00:11:18.664Z"
+        "overview": "[Vietsub] Cỗ Máy Bóng Tối - Tập 04. Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt ",
+        "released": "2026-11-23T04:21:06.299Z"
       },
       {
         "id": "kk_co-may-bong-toi:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Vietsub)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-        "overview": "Cỗ Máy Bóng Tối - Tập 05",
-        "released": "2026-11-26T00:11:18.664Z"
+        "overview": "[Vietsub] Cỗ Máy Bóng Tối - Tập 05. Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt ",
+        "released": "2026-11-24T04:21:06.299Z"
       },
       {
         "id": "kk_co-may-bong-toi:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Vietsub)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-        "overview": "Cỗ Máy Bóng Tối - Tập 06",
-        "released": "2026-11-26T00:11:18.664Z"
+        "overview": "[Vietsub] Cỗ Máy Bóng Tối - Tập 06. Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt ",
+        "released": "2026-11-25T04:21:06.299Z"
       },
       {
         "id": "kk_co-may-bong-toi:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Vietsub)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261015/co-may-bong-toi-thumb.webp",
-        "overview": "Cỗ Máy Bóng Tối - Tập 07",
-        "released": "2026-11-26T00:11:18.664Z"
+        "overview": "[Vietsub] Cỗ Máy Bóng Tối - Tập 07. Esport nổi tiếng DARK MACHINE mê hoặc mọi người trên khắp thế giới và đã làm thay đổi nền kinh tế Nhật Bản, nơi có một khu kinh tế đặc biệt ",
+        "released": "2026-11-26T04:21:06.299Z"
       }
     ]
   }

@@ -1,228 +1,445 @@
 {
   "meta": {
     "id": "kk_hien-truong-san-an",
+    "imdb_id": "tt45660731",
     "type": "series",
-    "name": "Hiện Trường Săn Án",
+    "name": "Hiện Trường Săn Án (Fragments Of Truth)",
     "poster": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-    "description": "Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người.",
+    "description": "[Vietsub | Thuyết Minh] Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ chui. Một vụ án cũ bị lãng quên suốt 7 năm bất ngờ được lật lại. Trong quá trình dấn thân truy tìm sự thật, nhóm cảnh sát điều tra không chỉ bóc gỡ từng lớp âm mưu đen tối mà còn liên tục trăn trở, thảo luận sâu sắc về vinh quang của người chiến sĩ công an cùng sự kính úy đối với giá trị thiêng liêng của sinh mạng con người.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_hien-truong-san-an:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 01",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 01. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-03T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 02",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 02. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-04T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 03",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 03. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-05T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 04",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 04. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-06T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 05",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 05. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-07T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 06",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 06. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-08T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 07",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 07. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-09T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 08",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 08. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-10T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 09",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 09. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-11T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 10",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 10. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-12T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:11",
-        "title": "Tập 11",
+        "title": "Tập 11 (Thuyết Minh)",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 11",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 11. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-13T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:12",
-        "title": "Tập 12",
+        "title": "Tập 12 (Thuyết Minh)",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 12",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 12. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-14T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:13",
-        "title": "Tập 13",
+        "title": "Tập 13 (Thuyết Minh)",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 13",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 13. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-15T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:14",
-        "title": "Tập 14",
+        "title": "Tập 14 (Thuyết Minh)",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 14",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 14. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-16T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:15",
-        "title": "Tập 15",
+        "title": "Tập 15 (Thuyết Minh)",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 15",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 15. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-17T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:16",
-        "title": "Tập 16",
+        "title": "Tập 16 (Thuyết Minh)",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 16",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 16. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-18T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:17",
-        "title": "Tập 17",
+        "title": "Tập 17 (Thuyết Minh)",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 17",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 17. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-19T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:18",
-        "title": "Tập 18",
+        "title": "Tập 18 (Thuyết Minh)",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 18",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 18. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-20T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:19",
-        "title": "Tập 19",
+        "title": "Tập 19 (Thuyết Minh)",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 19",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 19. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-21T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:20",
-        "title": "Tập 20",
+        "title": "Tập 20 (Thuyết Minh)",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 20",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 20. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-22T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:21",
-        "title": "Tập 21",
+        "title": "Tập 21 (Thuyết Minh)",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 21",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 21. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-23T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:22",
-        "title": "Tập 22",
+        "title": "Tập 22 (Thuyết Minh)",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 22",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 22. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-24T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:23",
-        "title": "Tập 23",
+        "title": "Tập 23 (Thuyết Minh)",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 23",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 23. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-25T04:20:58.292Z"
       },
       {
         "id": "kk_hien-truong-san-an:1:24",
-        "title": "Tập 24",
+        "title": "Tập 24 (Thuyết Minh)",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
-        "overview": "Hiện Trường Săn Án - Tập 24",
-        "released": "2026-11-26T00:11:33.499Z"
+        "overview": "[Thuyết Minh] Hiện Trường Săn Án - Tập 24. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-26T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 01. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-03T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 02. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-04T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 03. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-05T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 04. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-06T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 05. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-07T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 06. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-08T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 07. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-09T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 08. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-10T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 09. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-11T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 10. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-12T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:11",
+        "title": "Tập 11 (Vietsub)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 11. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-13T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:12",
+        "title": "Tập 12 (Vietsub)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 12. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-14T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:13",
+        "title": "Tập 13 (Vietsub)",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 13. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-15T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:14",
+        "title": "Tập 14 (Vietsub)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 14. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-16T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:15",
+        "title": "Tập 15 (Vietsub)",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 15. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-17T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:16",
+        "title": "Tập 16 (Vietsub)",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 16. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-18T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:17",
+        "title": "Tập 17 (Vietsub)",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 17. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-19T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:18",
+        "title": "Tập 18 (Vietsub)",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 18. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-20T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:19",
+        "title": "Tập 19 (Vietsub)",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 19. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-21T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:20",
+        "title": "Tập 20 (Vietsub)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 20. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-22T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:21",
+        "title": "Tập 21 (Vietsub)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 21. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-23T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:22",
+        "title": "Tập 22 (Vietsub)",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 22. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-24T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:23",
+        "title": "Tập 23 (Vietsub)",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 23. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-25T04:20:58.292Z"
+      },
+      {
+        "id": "kk_hien-truong-san-an:2:24",
+        "title": "Tập 24 (Vietsub)",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260909/hien-truong-san-an-thumb.webp",
+        "overview": "[Vietsub] Hiện Trường Săn Án - Tập 24. Mạch truyện chính xoay quanh một chuỗi vụ án hình sự liên hoàn bắt nguồn từ đường dây sinh lợi bất chính của ngành công nghiệp mang thai hộ ",
+        "released": "2026-11-26T04:20:58.292Z"
       }
     ]
   }

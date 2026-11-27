@@ -1,201 +1,400 @@
 {
   "meta": {
     "id": "kk_thap-van-cuong-hoa-nhap-mong-lai",
+    "imdb_id": "tt37148648",
     "type": "series",
-    "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai",
+    "name": "Thập Vạn Cuồng Hoa Nhập Mộng Lai (Blossom in Darkness)",
     "poster": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-    "description": "Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc này vừa chán ghét nhau mà cũng cứu rỗi lẫn nhau. Trải qua sáu vụ án kì quái: bộ xương khô tóc dài, sáng làm người tối làm yêu, thuồng luồng hóa rồng, bể máu trả hồn, hồng nhan moi tim và pháo hoa cá vàng, họ phá giải các âm mưu phía sau, cuối cùng giúp nhau rửa sạch tiếng xấu, trả lại tự do cho thế gian, giúp những người có tình được về bên nhau.",
+    "description": "[Vietsub | Thuyết Minh] Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc này vừa chán ghét nhau mà cũng cứu rỗi lẫn nhau. Trải qua sáu vụ án kì quái: bộ xương khô tóc dài, sáng làm người tối làm yêu, thuồng luồng hóa rồng, bể máu trả hồn, hồng nhan moi tim và pháo hoa cá vàng, họ phá giải các âm mưu phía sau, cuối cùng giúp nhau rửa sạch tiếng xấu, trả lại tự do cho thế gian, giúp những người có tình được về bên nhau.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 01",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 01. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-06T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 02",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 02. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-07T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 03",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 03. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-08T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 04",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 04. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-09T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 05",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 05. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-10T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 06",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 06. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-11T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 07",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 07. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-12T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 08",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 08. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-13T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 09",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 09. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-14T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 10",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 10. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-15T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:11",
-        "title": "Tập 11",
+        "title": "Tập 11 (Thuyết Minh)",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 11",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 11. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-16T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:12",
-        "title": "Tập 12",
+        "title": "Tập 12 (Thuyết Minh)",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 12",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 12. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-17T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:13",
-        "title": "Tập 13",
+        "title": "Tập 13 (Thuyết Minh)",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 13",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 13. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-18T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:14",
-        "title": "Tập 14",
+        "title": "Tập 14 (Thuyết Minh)",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 14",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 14. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-19T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:15",
-        "title": "Tập 15",
+        "title": "Tập 15 (Thuyết Minh)",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 15",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 15. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-20T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:16",
-        "title": "Tập 16",
+        "title": "Tập 16 (Thuyết Minh)",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 16",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 16. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-21T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:17",
-        "title": "Tập 17",
+        "title": "Tập 17 (Thuyết Minh)",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 17",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 17. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-22T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:18",
-        "title": "Tập 18",
+        "title": "Tập 18 (Thuyết Minh)",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 18",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 18. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-23T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:19",
-        "title": "Tập 19",
+        "title": "Tập 19 (Thuyết Minh)",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 19",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 19. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-24T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:20",
-        "title": "Tập 20",
+        "title": "Tập 20 (Thuyết Minh)",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 20",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 20. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-25T04:20:32.389Z"
       },
       {
         "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:1:21",
-        "title": "Tập 21",
+        "title": "Tập 21 (Thuyết Minh)",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
-        "overview": "Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 21",
-        "released": "2026-11-26T00:11:14.294Z"
+        "overview": "[Thuyết Minh] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 21. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-26T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 01. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-05T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 02. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-06T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 03. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-07T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 04. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-08T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 05. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-09T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 06. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-10T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 07. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-11T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 08. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-12T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 09. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-13T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 10. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-14T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:11",
+        "title": "Tập 11 (Vietsub)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 11. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-15T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:12",
+        "title": "Tập 12 (Vietsub)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 12. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-16T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:13",
+        "title": "Tập 13 (Vietsub)",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 13. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-17T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:14",
+        "title": "Tập 14 (Vietsub)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 14. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-18T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:15",
+        "title": "Tập 15 (Vietsub)",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 15. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-19T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:16",
+        "title": "Tập 16 (Vietsub)",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 16. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-20T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:17",
+        "title": "Tập 17 (Vietsub)",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 17. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-21T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:18",
+        "title": "Tập 18 (Vietsub)",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 18. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-22T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:19",
+        "title": "Tập 19 (Vietsub)",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 19. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-23T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:20",
+        "title": "Tập 20 (Vietsub)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 20. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-24T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:21",
+        "title": "Tập 21 (Vietsub)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 21. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-25T04:20:32.389Z"
+      },
+      {
+        "id": "kk_thap-van-cuong-hoa-nhap-mong-lai:2:22",
+        "title": "Tập 22 (Vietsub)",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261117/thap-van-cuong-hoa-nhap-mong-lai-thumb.webp",
+        "overview": "[Vietsub] Thập Vạn Cuồng Hoa Nhập Mộng Lai - Tập 22. Ma đầu Kỳ Phượng Ân \"nguồn gốc vạn điều ác\" tình cờ gặp cô gái Áp Mao mang thể chất \"thịt Đường Tăng\", hai con người bị cưỡng ép ràng buộc n",
+        "released": "2026-11-26T04:20:32.389Z"
       }
     ]
   }

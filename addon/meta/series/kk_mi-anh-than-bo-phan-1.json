@@ -1,282 +1,553 @@
 {
   "meta": {
     "id": "kk_mi-anh-than-bo-phan-1",
+    "imdb_id": "tt37357034",
     "type": "series",
-    "name": "Mị Ảnh Thần Bộ (Phần 1)",
+    "name": "Mị Ảnh Thần Bộ (Phần 1) (Shadow Punisher (Season 1))",
     "poster": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-    "description": "Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc gia diệt vong Li La nay hồi sinh với \"Ngũ Tuyệt Quỷ Thuật\", tạo ra hàng loạt vụ án bí ẩn kinh hoàng. May mắn thay, trong Thần Bộ Ti trực thuộc hoàng quyền, nhóm anh hùng do Lê Tư dẫn đầu vì bảo vệ giang sơn xã tắc, vì sự bình yên của muôn dân đã dũng cảm mở màn cuộc chiến sinh tử với tàn dư của Li La. Thần Bộ Ti vang danh thiên hạ, mang trong mình nhiệt huyết và lòng chính nghĩa, dù nghịch cảnh vẫn cầm đuốc soi đường, từng bước vén màn sương mù, tiến gần đến chân tướng. Chín cỗ quan tài chứa chín thiếu nữ khô héo, bị rút cạn máu mà chết, thê thảm vô cùng. Những cô gái vô tội ấy vì sao mà phải bỏ mạng? Ở sâu trong khu rừng PHắc Phong thần bí, cây ăn thịt người Thiên Ma La dùng 36 đứa trẻ mang dương khí cực thịnh làm thức ăn. Giữa rừng hoa nơi thân người bọc thành kén, lại tỏa ra hương xương khô được luyện từ máu các thiếu nữ. Trong hồ lớn của phủ Đông Nam Thuyền vương, rừng xác trôi nổi lênh đênh; cậu bé ngốc biến thành người sói dưới ánh trăng; lão thần đã cáo quan công khai phi thăng thành tiên trước mắt mọi người; dân làng trong thôn lập tức biến thành những kẻ khát máu; hoàng thái tôn đã chết nhiều ngày lại có thể cử động như thường…. Tội ác của Li La chồng chất ngút trời, đội thần bộ nhất định sẽ đưa chúng ra trước công lý, trả lại thái bình cho vương triều Đại Thế và cuộc sống an yên cho muôn dân!",
+    "description": "[Vietsub | Thuyết Minh] Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc gia diệt vong Li La nay hồi sinh với \"Ngũ Tuyệt Quỷ Thuật\", tạo ra hàng loạt vụ án bí ẩn kinh hoàng. May mắn thay, trong Thần Bộ Ti trực thuộc hoàng quyền, nhóm anh hùng do Lê Tư dẫn đầu vì bảo vệ giang sơn xã tắc, vì sự bình yên của muôn dân đã dũng cảm mở màn cuộc chiến sinh tử với tàn dư của Li La. Thần Bộ Ti vang danh thiên hạ, mang trong mình nhiệt huyết và lòng chính nghĩa, dù nghịch cảnh vẫn cầm đuốc soi đường, từng bước vén màn sương mù, tiến gần đến chân tướng. Chín cỗ quan tài chứa chín thiếu nữ khô héo, bị rút cạn máu mà chết, thê thảm vô cùng. Những cô gái vô tội ấy vì sao mà phải bỏ mạng? Ở sâu trong khu rừng PHắc Phong thần bí, cây ăn thịt người Thiên Ma La dùng 36 đứa trẻ mang dương khí cực thịnh làm thức ăn. Giữa rừng hoa nơi thân người bọc thành kén, lại tỏa ra hương xương khô được luyện từ máu các thiếu nữ. Trong hồ lớn của phủ Đông Nam Thuyền vương, rừng xác trôi nổi lênh đênh; cậu bé ngốc biến thành người sói dưới ánh trăng; lão thần đã cáo quan công khai phi thăng thành tiên trước mắt mọi người; dân làng trong thôn lập tức biến thành những kẻ khát máu; hoàng thái tôn đã chết nhiều ngày lại có thể cử động như thường…. Tội ác của Li La chồng chất ngút trời, đội thần bộ nhất định sẽ đưa chúng ra trước công lý, trả lại thái bình cho vương triều Đại Thế và cuộc sống an yên cho muôn dân!",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 01",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 01. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-28T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 02",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 02. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-29T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 03",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 03. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-30T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 04",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 04. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-31T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 05",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 05. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-01T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 06",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 06. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-02T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 07",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 07. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-03T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 08",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 08. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-04T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 09",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 09. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-05T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 10",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 10. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-06T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:11",
-        "title": "Tập 11",
+        "title": "Tập 11 (Thuyết Minh)",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 11",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 11. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-07T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:12",
-        "title": "Tập 12",
+        "title": "Tập 12 (Thuyết Minh)",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 12",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 12. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-08T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:13",
-        "title": "Tập 13",
+        "title": "Tập 13 (Thuyết Minh)",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 13",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 13. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-09T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:14",
-        "title": "Tập 14",
+        "title": "Tập 14 (Thuyết Minh)",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 14",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 14. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-10T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:15",
-        "title": "Tập 15",
+        "title": "Tập 15 (Thuyết Minh)",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 15",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 15. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-11T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:16",
-        "title": "Tập 16",
+        "title": "Tập 16 (Thuyết Minh)",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 16",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 16. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-12T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:17",
-        "title": "Tập 17",
+        "title": "Tập 17 (Thuyết Minh)",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 17",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 17. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-13T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:18",
-        "title": "Tập 18",
+        "title": "Tập 18 (Thuyết Minh)",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 18",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 18. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-14T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:19",
-        "title": "Tập 19",
+        "title": "Tập 19 (Thuyết Minh)",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 19",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 19. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-15T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:20",
-        "title": "Tập 20",
+        "title": "Tập 20 (Thuyết Minh)",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 20",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 20. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-16T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:21",
-        "title": "Tập 21",
+        "title": "Tập 21 (Thuyết Minh)",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 21",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 21. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-17T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:22",
-        "title": "Tập 22",
+        "title": "Tập 22 (Thuyết Minh)",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 22",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 22. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-18T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:23",
-        "title": "Tập 23",
+        "title": "Tập 23 (Thuyết Minh)",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 23",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 23. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-19T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:24",
-        "title": "Tập 24",
+        "title": "Tập 24 (Thuyết Minh)",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 24",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 24. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-20T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:25",
-        "title": "Tập 25",
+        "title": "Tập 25 (Thuyết Minh)",
         "season": 1,
         "episode": 25,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 25",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 25. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-21T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:26",
-        "title": "Tập 26",
+        "title": "Tập 26 (Thuyết Minh)",
         "season": 1,
         "episode": 26,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 26",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 26. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-22T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:27",
-        "title": "Tập 27",
+        "title": "Tập 27 (Thuyết Minh)",
         "season": 1,
         "episode": 27,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 27",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 27. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-23T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:28",
-        "title": "Tập 28",
+        "title": "Tập 28 (Thuyết Minh)",
         "season": 1,
         "episode": 28,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 28",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 28. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-24T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:29",
-        "title": "Tập 29",
+        "title": "Tập 29 (Thuyết Minh)",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 29",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 29. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-25T04:20:58.044Z"
       },
       {
         "id": "kk_mi-anh-than-bo-phan-1:1:30",
-        "title": "Tập 30",
+        "title": "Tập 30 (Thuyết Minh)",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
-        "overview": "Mị Ảnh Thần Bộ (Phần 1) - Tập 30",
-        "released": "2026-11-26T00:11:33.246Z"
+        "overview": "[Thuyết Minh] Mị Ảnh Thần Bộ (Phần 1) - Tập 30. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-26T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 01. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-28T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 02. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-29T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 03. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-30T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 04. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-10-31T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 05. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-01T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 06. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-02T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 07. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-03T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 08. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-04T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 09. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-05T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 10. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-06T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:11",
+        "title": "Tập 11 (Vietsub)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 11. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-07T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:12",
+        "title": "Tập 12 (Vietsub)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 12. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-08T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:13",
+        "title": "Tập 13 (Vietsub)",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 13. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-09T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:14",
+        "title": "Tập 14 (Vietsub)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 14. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-10T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:15",
+        "title": "Tập 15 (Vietsub)",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 15. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-11T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:16",
+        "title": "Tập 16 (Vietsub)",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 16. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-12T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:17",
+        "title": "Tập 17 (Vietsub)",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 17. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-13T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:18",
+        "title": "Tập 18 (Vietsub)",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 18. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-14T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:19",
+        "title": "Tập 19 (Vietsub)",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 19. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-15T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:20",
+        "title": "Tập 20 (Vietsub)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 20. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-16T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:21",
+        "title": "Tập 21 (Vietsub)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 21. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-17T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:22",
+        "title": "Tập 22 (Vietsub)",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 22. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-18T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:23",
+        "title": "Tập 23 (Vietsub)",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 23. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-19T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:24",
+        "title": "Tập 24 (Vietsub)",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 24. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-20T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:25",
+        "title": "Tập 25 (Vietsub)",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 25. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-21T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:26",
+        "title": "Tập 26 (Vietsub)",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 26. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-22T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:27",
+        "title": "Tập 27 (Vietsub)",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 27. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-23T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:28",
+        "title": "Tập 28 (Vietsub)",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 28. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-24T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:29",
+        "title": "Tập 29 (Vietsub)",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 29. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-25T04:20:58.044Z"
+      },
+      {
+        "id": "kk_mi-anh-than-bo-phan-1:2:30",
+        "title": "Tập 30 (Vietsub)",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261002/mi-anh-than-bo-thumb.webp",
+        "overview": "[Vietsub] Mị Ảnh Thần Bộ (Phần 1) - Tập 30. Vào năm Hồng Vận thứ 37 của vương triều Đại Thế, một cơn phong ba đẫm máu được âm thầm chuẩn bị từ lâu sắp diễn ra. Thế lực từng khiến quốc ",
+        "released": "2026-11-26T04:20:58.044Z"
       }
     ]
   }

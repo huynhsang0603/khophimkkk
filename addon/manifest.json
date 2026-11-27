@@ -1,6 +1,6 @@
 {
   "id": "org.github.kkphim.static7",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "name": "KKPhim 7 Danh Mục (Tiếng Việt)",
   "description": "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
   "resources": [
@@ -18,13 +18,7 @@
     {
       "type": "series",
       "id": "kk_home",
-      "name": "KKPhim - Hôm Nay Xem Gì",
-      "extra": [
-        {
-          "name": "search",
-          "isRequired": false
-        }
-      ]
+      "name": "KKPhim - Hôm Nay Xem Gì"
     },
     {
       "type": "series",

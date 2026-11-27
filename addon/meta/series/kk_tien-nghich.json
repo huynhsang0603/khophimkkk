@@ -1,1524 +1,2488 @@
 {
   "meta": {
     "id": "kk_tien-nghich",
+    "imdb_id": "tt27432264",
     "type": "series",
-    "name": "Tiên Nghịch",
+    "name": "Tiên Nghịch (Renegade Immortal)",
     "poster": "https://phimimg.com/uploads/movies/20260720/tien-nghich-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-    "description": "Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là một thiếu niên may mắn, bị cuốn vào thế giới tu tiên của nước Triệu. Ban đầu, hắn thiếu linh căn và không có tri thức về thế giới này. Tuy nhiên, một hiểu lầm tai hại và một khối thiết tinh bí ẩn đã thay đổi cuộc đời của Vương Lâm mãi mãi. Hắn nhận được một \"hạt châu thần bí\", sự hỗ trợ quý báu trong việc trở thành một tu sĩ mạnh mẽ. Con đường tu tiên của Vương Lâm không hề dễ dàng. Hắn phải đối mặt với những thử thách đầy khó khăn và hiểm nguy, chiến đấu với các thế lực tà ác và khám phá những bí ẩn sâu thẳm về thế giới tiên hiệp. Cuộc hành trình này không chỉ là về sức mạnh, mà còn về sự trưởng thành, trí tuệ và lòng dũng cảm trong trái tim của Vương Lâm.",
+    "description": "[Vietsub | Thuyết Minh] Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là một thiếu niên may mắn, bị cuốn vào thế giới tu tiên của nước Triệu. Ban đầu, hắn thiếu linh căn và không có tri thức về thế giới này. Tuy nhiên, một hiểu lầm tai hại và một khối thiết tinh bí ẩn đã thay đổi cuộc đời của Vương Lâm mãi mãi. Hắn nhận được một \"hạt châu thần bí\", sự hỗ trợ quý báu trong việc trở thành một tu sĩ mạnh mẽ. Con đường tu tiên của Vương Lâm không hề dễ dàng. Hắn phải đối mặt với những thử thách đầy khó khăn và hiểm nguy, chiến đấu với các thế lực tà ác và khám phá những bí ẩn sâu thẳm về thế giới tiên hiệp. Cuộc hành trình này không chỉ là về sức mạnh, mà còn về sự trưởng thành, trí tuệ và lòng dũng cảm trong trái tim của Vương Lâm.",
     "releaseInfo": "2023",
     "videos": [
       {
         "id": "kk_tien-nghich:1:1",
-        "title": "Tập 01",
+        "title": "Tập 01 (Thuyết Minh)",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 01",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 01. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-12T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:2",
-        "title": "Tập 02",
+        "title": "Tập 02 (Thuyết Minh)",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 02",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 02. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-13T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:3",
-        "title": "Tập 03",
+        "title": "Tập 03 (Thuyết Minh)",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 03",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 03. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-14T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:4",
-        "title": "Tập 04",
+        "title": "Tập 04 (Thuyết Minh)",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 04",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 04. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-15T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:5",
-        "title": "Tập 05",
+        "title": "Tập 05 (Thuyết Minh)",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 05",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 05. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-16T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:6",
-        "title": "Tập 06",
+        "title": "Tập 06 (Thuyết Minh)",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 06",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 06. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-17T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:7",
-        "title": "Tập 07",
+        "title": "Tập 07 (Thuyết Minh)",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 07",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 07. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-18T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:8",
-        "title": "Tập 08",
+        "title": "Tập 08 (Thuyết Minh)",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 08",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 08. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-19T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:9",
-        "title": "Tập 09",
+        "title": "Tập 09 (Thuyết Minh)",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 09",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 09. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-20T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:10",
-        "title": "Tập 10",
+        "title": "Tập 10 (Thuyết Minh)",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 10",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 10. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-21T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:11",
-        "title": "Tập 11",
+        "title": "Tập 11 (Thuyết Minh)",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 11",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 11. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-22T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:12",
-        "title": "Tập 12",
+        "title": "Tập 12 (Thuyết Minh)",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 12",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 12. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-23T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:13",
-        "title": "Tập 13",
+        "title": "Tập 13 (Thuyết Minh)",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 13",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 13. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-24T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:14",
-        "title": "Tập 14",
+        "title": "Tập 14 (Thuyết Minh)",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 14",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 14. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-25T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:15",
-        "title": "Tập 15",
+        "title": "Tập 15 (Thuyết Minh)",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 15",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 15. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-26T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:16",
-        "title": "Tập 16",
+        "title": "Tập 16 (Thuyết Minh)",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 16",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 16. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-27T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:17",
-        "title": "Tập 17",
+        "title": "Tập 17 (Thuyết Minh)",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 17",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 17. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-28T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:18",
-        "title": "Tập 18",
+        "title": "Tập 18 (Thuyết Minh)",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 18",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 18. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-29T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:19",
-        "title": "Tập 19",
+        "title": "Tập 19 (Thuyết Minh)",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 19",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 19. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-30T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:20",
-        "title": "Tập 20",
+        "title": "Tập 20 (Thuyết Minh)",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 20",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 20. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-31T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:21",
-        "title": "Tập 21",
+        "title": "Tập 21 (Thuyết Minh)",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 21",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 21. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-01T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:22",
-        "title": "Tập 22",
+        "title": "Tập 22 (Thuyết Minh)",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 22",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 22. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-02T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:23",
-        "title": "Tập 23",
+        "title": "Tập 23 (Thuyết Minh)",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 23",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 23. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-03T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:24",
-        "title": "Tập 24",
+        "title": "Tập 24 (Thuyết Minh)",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 24",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 24. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-04T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:25",
-        "title": "Tập 25",
+        "title": "Tập 25 (Thuyết Minh)",
         "season": 1,
         "episode": 25,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 25",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 25. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-05T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:26",
-        "title": "Tập 26",
+        "title": "Tập 26 (Thuyết Minh)",
         "season": 1,
         "episode": 26,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 26",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 26. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-06T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:27",
-        "title": "Tập 27",
+        "title": "Tập 27 (Thuyết Minh)",
         "season": 1,
         "episode": 27,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 27",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 27. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-07T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:28",
-        "title": "Tập 28",
+        "title": "Tập 28 (Thuyết Minh)",
         "season": 1,
         "episode": 28,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 28",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 28. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-08T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:29",
-        "title": "Tập 29",
+        "title": "Tập 29 (Thuyết Minh)",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 29",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 29. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-09T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:30",
-        "title": "Tập 30",
+        "title": "Tập 30 (Thuyết Minh)",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 30",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 30. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-10T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:31",
-        "title": "Tập 31",
+        "title": "Tập 31 (Thuyết Minh)",
         "season": 1,
         "episode": 31,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 31",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 31. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-11T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:32",
-        "title": "Tập 32",
+        "title": "Tập 32 (Thuyết Minh)",
         "season": 1,
         "episode": 32,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 32",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 32. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-12T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:33",
-        "title": "Tập 33",
+        "title": "Tập 33 (Thuyết Minh)",
         "season": 1,
         "episode": 33,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 33",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 33. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-13T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:34",
-        "title": "Tập 34",
+        "title": "Tập 34 (Thuyết Minh)",
         "season": 1,
         "episode": 34,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 34",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 34. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-14T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:35",
-        "title": "Tập 35",
+        "title": "Tập 35 (Thuyết Minh)",
         "season": 1,
         "episode": 35,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 35",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 35. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-15T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:36",
-        "title": "Tập 36",
+        "title": "Tập 36 (Thuyết Minh)",
         "season": 1,
         "episode": 36,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 36",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 36. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-16T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:37",
-        "title": "Tập 37",
+        "title": "Tập 37 (Thuyết Minh)",
         "season": 1,
         "episode": 37,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 37",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 37. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-17T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:38",
-        "title": "Tập 38",
+        "title": "Tập 38 (Thuyết Minh)",
         "season": 1,
         "episode": 38,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 38",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 38. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-18T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:39",
-        "title": "Tập 39",
+        "title": "Tập 39 (Thuyết Minh)",
         "season": 1,
         "episode": 39,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 39",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 39. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-19T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:40",
-        "title": "Tập 40",
+        "title": "Tập 40 (Thuyết Minh)",
         "season": 1,
         "episode": 40,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 40",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 40. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-20T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:41",
-        "title": "Tập 41",
+        "title": "Tập 41 (Thuyết Minh)",
         "season": 1,
         "episode": 41,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 41",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 41. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-21T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:42",
-        "title": "Tập 42",
+        "title": "Tập 42 (Thuyết Minh)",
         "season": 1,
         "episode": 42,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 42",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 42. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-22T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:43",
-        "title": "Tập 43",
+        "title": "Tập 43 (Thuyết Minh)",
         "season": 1,
         "episode": 43,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 43",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 43. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-23T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:44",
-        "title": "Tập 44",
+        "title": "Tập 44 (Thuyết Minh)",
         "season": 1,
         "episode": 44,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 44",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 44. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-24T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:45",
-        "title": "Tập 45",
+        "title": "Tập 45 (Thuyết Minh)",
         "season": 1,
         "episode": 45,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 45",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 45. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-25T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:46",
-        "title": "Tập 46",
+        "title": "Tập 46 (Thuyết Minh)",
         "season": 1,
         "episode": 46,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 46",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 46. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-26T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:47",
-        "title": "Tập 47",
+        "title": "Tập 47 (Thuyết Minh)",
         "season": 1,
         "episode": 47,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 47",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 47. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-27T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:48",
-        "title": "Tập 48",
+        "title": "Tập 48 (Thuyết Minh)",
         "season": 1,
         "episode": 48,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 48",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 48. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-28T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:49",
-        "title": "Tập 49",
+        "title": "Tập 49 (Thuyết Minh)",
         "season": 1,
         "episode": 49,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 49",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 49. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-29T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:50",
-        "title": "Tập 50",
+        "title": "Tập 50 (Thuyết Minh)",
         "season": 1,
         "episode": 50,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 50",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 50. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-30T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:51",
-        "title": "Tập 51",
+        "title": "Tập 51 (Thuyết Minh)",
         "season": 1,
         "episode": 51,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 51",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 51. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-01T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:52",
-        "title": "Tập 52",
+        "title": "Tập 52 (Thuyết Minh)",
         "season": 1,
         "episode": 52,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 52",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 52. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-02T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:53",
-        "title": "Tập 53",
+        "title": "Tập 53 (Thuyết Minh)",
         "season": 1,
         "episode": 53,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 53",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 53. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-03T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:54",
-        "title": "Tập 54",
+        "title": "Tập 54 (Thuyết Minh)",
         "season": 1,
         "episode": 54,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 54",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 54. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-04T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:55",
-        "title": "Tập 55",
+        "title": "Tập 55 (Thuyết Minh)",
         "season": 1,
         "episode": 55,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 55",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 55. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-05T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:56",
-        "title": "Tập 56",
+        "title": "Tập 56 (Thuyết Minh)",
         "season": 1,
         "episode": 56,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 56",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 56. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-06T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:57",
-        "title": "Tập 57",
+        "title": "Tập 57 (Thuyết Minh)",
         "season": 1,
         "episode": 57,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 57",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 57. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-07T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:58",
-        "title": "Tập 58",
+        "title": "Tập 58 (Thuyết Minh)",
         "season": 1,
         "episode": 58,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 58",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 58. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-08T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:59",
-        "title": "Tập 59",
+        "title": "Tập 59 (Thuyết Minh)",
         "season": 1,
         "episode": 59,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 59",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 59. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-09T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:60",
-        "title": "Tập 60",
+        "title": "Tập 60 (Thuyết Minh)",
         "season": 1,
         "episode": 60,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 60",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 60. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-10T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:61",
-        "title": "Tập 61",
+        "title": "Tập 61 (Thuyết Minh)",
         "season": 1,
         "episode": 61,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 61",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 61. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-11T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:62",
-        "title": "Tập 62",
+        "title": "Tập 62 (Thuyết Minh)",
         "season": 1,
         "episode": 62,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 62",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 62. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-12T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:63",
-        "title": "Tập 63",
+        "title": "Tập 63 (Thuyết Minh)",
         "season": 1,
         "episode": 63,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 63",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 63. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-13T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:64",
-        "title": "Tập 64",
+        "title": "Tập 64 (Thuyết Minh)",
         "season": 1,
         "episode": 64,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 64",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 64. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-14T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:65",
-        "title": "Tập 65",
+        "title": "Tập 65 (Thuyết Minh)",
         "season": 1,
         "episode": 65,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 65",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 65. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-15T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:66",
-        "title": "Tập 66",
+        "title": "Tập 66 (Thuyết Minh)",
         "season": 1,
         "episode": 66,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 66",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 66. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-16T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:67",
-        "title": "Tập 67",
+        "title": "Tập 67 (Thuyết Minh)",
         "season": 1,
         "episode": 67,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 67",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 67. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-17T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:68",
-        "title": "Tập 68",
+        "title": "Tập 68 (Thuyết Minh)",
         "season": 1,
         "episode": 68,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 68",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 68. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-18T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:69",
-        "title": "Tập 69",
+        "title": "Tập 69 (Thuyết Minh)",
         "season": 1,
         "episode": 69,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 69",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 69. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-19T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:70",
-        "title": "Tập 70",
+        "title": "Tập 70 (Thuyết Minh)",
         "season": 1,
         "episode": 70,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 70",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 70. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-20T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:71",
-        "title": "Tập 71",
+        "title": "Tập 71 (Thuyết Minh)",
         "season": 1,
         "episode": 71,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 71",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 71. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-21T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:72",
-        "title": "Tập 72",
+        "title": "Tập 72 (Thuyết Minh)",
         "season": 1,
         "episode": 72,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 72",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 72. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-22T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:73",
-        "title": "Tập 73",
+        "title": "Tập 73 (Thuyết Minh)",
         "season": 1,
         "episode": 73,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 73",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 73. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-23T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:74",
-        "title": "Tập 74",
+        "title": "Tập 74 (Thuyết Minh)",
         "season": 1,
         "episode": 74,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 74",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 74. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-24T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:75",
-        "title": "Tập 75",
+        "title": "Tập 75 (Thuyết Minh)",
         "season": 1,
         "episode": 75,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 75",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 75. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-25T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:76",
-        "title": "Tập 76",
+        "title": "Tập 76 (Thuyết Minh)",
         "season": 1,
         "episode": 76,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 76",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 76. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-26T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:77",
-        "title": "Tập 77",
+        "title": "Tập 77 (Thuyết Minh)",
         "season": 1,
         "episode": 77,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 77",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 77. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-27T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:78",
-        "title": "Tập 78",
+        "title": "Tập 78 (Thuyết Minh)",
         "season": 1,
         "episode": 78,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 78",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 78. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-28T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:79",
-        "title": "Tập 79",
+        "title": "Tập 79 (Thuyết Minh)",
         "season": 1,
         "episode": 79,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 79",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 79. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-29T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:80",
-        "title": "Tập 80",
+        "title": "Tập 80 (Thuyết Minh)",
         "season": 1,
         "episode": 80,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 80",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 80. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-30T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:81",
-        "title": "Tập 81",
+        "title": "Tập 81 (Thuyết Minh)",
         "season": 1,
         "episode": 81,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 81",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 81. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-31T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:82",
-        "title": "Tập 82",
+        "title": "Tập 82 (Thuyết Minh)",
         "season": 1,
         "episode": 82,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 82",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 82. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-01T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:83",
-        "title": "Tập 83",
+        "title": "Tập 83 (Thuyết Minh)",
         "season": 1,
         "episode": 83,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 83",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 83. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-02T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:84",
-        "title": "Tập 84",
+        "title": "Tập 84 (Thuyết Minh)",
         "season": 1,
         "episode": 84,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 84",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 84. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-03T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:85",
-        "title": "Tập 85",
+        "title": "Tập 85 (Thuyết Minh)",
         "season": 1,
         "episode": 85,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 85",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 85. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-04T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:86",
-        "title": "Tập 86",
+        "title": "Tập 86 (Thuyết Minh)",
         "season": 1,
         "episode": 86,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 86",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 86. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-05T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:87",
-        "title": "Tập 87",
+        "title": "Tập 87 (Thuyết Minh)",
         "season": 1,
         "episode": 87,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 87",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 87. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-06T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:88",
-        "title": "Tập 88",
+        "title": "Tập 88 (Thuyết Minh)",
         "season": 1,
         "episode": 88,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 88",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 88. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-07T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:89",
-        "title": "Tập 89",
+        "title": "Tập 89 (Thuyết Minh)",
         "season": 1,
         "episode": 89,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 89",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 89. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-08T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:90",
-        "title": "Tập 90",
+        "title": "Tập 90 (Thuyết Minh)",
         "season": 1,
         "episode": 90,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 90",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 90. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-09T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:91",
-        "title": "Tập 91",
+        "title": "Tập 91 (Thuyết Minh)",
         "season": 1,
         "episode": 91,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 91",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 91. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-10T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:92",
-        "title": "Tập 92",
+        "title": "Tập 92 (Thuyết Minh)",
         "season": 1,
         "episode": 92,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 92",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 92. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-11T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:93",
-        "title": "Tập 93",
+        "title": "Tập 93 (Thuyết Minh)",
         "season": 1,
         "episode": 93,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 93",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 93. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-12T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:94",
-        "title": "Tập 94",
+        "title": "Tập 94 (Thuyết Minh)",
         "season": 1,
         "episode": 94,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 94",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 94. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-13T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:95",
-        "title": "Tập 95",
+        "title": "Tập 95 (Thuyết Minh)",
         "season": 1,
         "episode": 95,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 95",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 95. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-14T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:96",
-        "title": "Tập 96",
+        "title": "Tập 96 (Thuyết Minh)",
         "season": 1,
         "episode": 96,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 96",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 96. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-15T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:97",
-        "title": "Tập 97",
+        "title": "Tập 97 (Thuyết Minh)",
         "season": 1,
         "episode": 97,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 97",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 97. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-16T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:98",
-        "title": "Tập 98",
+        "title": "Tập 98 (Thuyết Minh)",
         "season": 1,
         "episode": 98,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 98",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 98. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-17T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:99",
-        "title": "Tập 99",
+        "title": "Tập 99 (Thuyết Minh)",
         "season": 1,
         "episode": 99,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 99",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 99. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-18T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:100",
-        "title": "Tập 100",
+        "title": "Tập 100 (Thuyết Minh)",
         "season": 1,
         "episode": 100,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 100",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 100. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-19T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:101",
-        "title": "Tập 101",
+        "title": "Tập 101 (Thuyết Minh)",
         "season": 1,
         "episode": 101,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 101",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 101. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-20T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:102",
-        "title": "Tập 102",
+        "title": "Tập 102 (Thuyết Minh)",
         "season": 1,
         "episode": 102,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 102",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 102. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-21T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:103",
-        "title": "Tập 103",
+        "title": "Tập 103 (Thuyết Minh)",
         "season": 1,
         "episode": 103,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 103",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 103. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-22T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:104",
-        "title": "Tập 104",
+        "title": "Tập 104 (Thuyết Minh)",
         "season": 1,
         "episode": 104,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 104",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 104. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-23T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:105",
-        "title": "Tập 105",
+        "title": "Tập 105 (Thuyết Minh)",
         "season": 1,
         "episode": 105,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 105",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 105. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-24T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:106",
-        "title": "Tập 106",
+        "title": "Tập 106 (Thuyết Minh)",
         "season": 1,
         "episode": 106,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 106",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 106. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-25T04:20:51.058Z"
       },
       {
         "id": "kk_tien-nghich:1:107",
-        "title": "Tập 107",
+        "title": "Tập 107 (Thuyết Minh)",
         "season": 1,
         "episode": 107,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 107",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Thuyết Minh] Tiên Nghịch - Tập 107. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-26T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:108",
-        "title": "Tập 108",
-        "season": 1,
+        "id": "kk_tien-nghich:2:1",
+        "title": "Tập 01 (Vietsub)",
+        "season": 2,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 01. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-12T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:2",
+        "title": "Tập 02 (Vietsub)",
+        "season": 2,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 02. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-13T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:3",
+        "title": "Tập 03 (Vietsub)",
+        "season": 2,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 03. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-14T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:4",
+        "title": "Tập 04 (Vietsub)",
+        "season": 2,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 04. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-15T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:5",
+        "title": "Tập 05 (Vietsub)",
+        "season": 2,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 05. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-16T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:6",
+        "title": "Tập 06 (Vietsub)",
+        "season": 2,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 06. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-17T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:7",
+        "title": "Tập 07 (Vietsub)",
+        "season": 2,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 07. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-18T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:8",
+        "title": "Tập 08 (Vietsub)",
+        "season": 2,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 08. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-19T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:9",
+        "title": "Tập 09 (Vietsub)",
+        "season": 2,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 09. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-20T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:10",
+        "title": "Tập 10 (Vietsub)",
+        "season": 2,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 10. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-21T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:11",
+        "title": "Tập 11 (Vietsub)",
+        "season": 2,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 11. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-22T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:12",
+        "title": "Tập 12 (Vietsub)",
+        "season": 2,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 12. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-23T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:13",
+        "title": "Tập 13 (Vietsub)",
+        "season": 2,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 13. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-24T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:14",
+        "title": "Tập 14 (Vietsub)",
+        "season": 2,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 14. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-25T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:15",
+        "title": "Tập 15 (Vietsub)",
+        "season": 2,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 15. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-26T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:16",
+        "title": "Tập 16 (Vietsub)",
+        "season": 2,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 16. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-27T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:17",
+        "title": "Tập 17 (Vietsub)",
+        "season": 2,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 17. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-28T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:18",
+        "title": "Tập 18 (Vietsub)",
+        "season": 2,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 18. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-29T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:19",
+        "title": "Tập 19 (Vietsub)",
+        "season": 2,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 19. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-06-30T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:20",
+        "title": "Tập 20 (Vietsub)",
+        "season": 2,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 20. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-01T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:21",
+        "title": "Tập 21 (Vietsub)",
+        "season": 2,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 21. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-02T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:22",
+        "title": "Tập 22 (Vietsub)",
+        "season": 2,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 22. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-03T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:23",
+        "title": "Tập 23 (Vietsub)",
+        "season": 2,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 23. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-04T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:24",
+        "title": "Tập 24 (Vietsub)",
+        "season": 2,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 24. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-05T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:25",
+        "title": "Tập 25 (Vietsub)",
+        "season": 2,
+        "episode": 25,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 25. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-06T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:26",
+        "title": "Tập 26 (Vietsub)",
+        "season": 2,
+        "episode": 26,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 26. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-07T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:27",
+        "title": "Tập 27 (Vietsub)",
+        "season": 2,
+        "episode": 27,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 27. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-08T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:28",
+        "title": "Tập 28 (Vietsub)",
+        "season": 2,
+        "episode": 28,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 28. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-09T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:29",
+        "title": "Tập 29 (Vietsub)",
+        "season": 2,
+        "episode": 29,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 29. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-10T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:30",
+        "title": "Tập 30 (Vietsub)",
+        "season": 2,
+        "episode": 30,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 30. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-11T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:31",
+        "title": "Tập 31 (Vietsub)",
+        "season": 2,
+        "episode": 31,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 31. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-12T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:32",
+        "title": "Tập 32 (Vietsub)",
+        "season": 2,
+        "episode": 32,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 32. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-13T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:33",
+        "title": "Tập 33 (Vietsub)",
+        "season": 2,
+        "episode": 33,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 33. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-14T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:34",
+        "title": "Tập 34 (Vietsub)",
+        "season": 2,
+        "episode": 34,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 34. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-15T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:35",
+        "title": "Tập 35 (Vietsub)",
+        "season": 2,
+        "episode": 35,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 35. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-16T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:36",
+        "title": "Tập 36 (Vietsub)",
+        "season": 2,
+        "episode": 36,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 36. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-17T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:37",
+        "title": "Tập 37 (Vietsub)",
+        "season": 2,
+        "episode": 37,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 37. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-18T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:38",
+        "title": "Tập 38 (Vietsub)",
+        "season": 2,
+        "episode": 38,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 38. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-19T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:39",
+        "title": "Tập 39 (Vietsub)",
+        "season": 2,
+        "episode": 39,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 39. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-20T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:40",
+        "title": "Tập 40 (Vietsub)",
+        "season": 2,
+        "episode": 40,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 40. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-21T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:41",
+        "title": "Tập 41 (Vietsub)",
+        "season": 2,
+        "episode": 41,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 41. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-22T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:42",
+        "title": "Tập 42 (Vietsub)",
+        "season": 2,
+        "episode": 42,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 42. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-23T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:43",
+        "title": "Tập 43 (Vietsub)",
+        "season": 2,
+        "episode": 43,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 43. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-24T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:44",
+        "title": "Tập 44 (Vietsub)",
+        "season": 2,
+        "episode": 44,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 44. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-25T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:45",
+        "title": "Tập 45 (Vietsub)",
+        "season": 2,
+        "episode": 45,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 45. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-26T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:46",
+        "title": "Tập 46 (Vietsub)",
+        "season": 2,
+        "episode": 46,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 46. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-27T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:47",
+        "title": "Tập 47 (Vietsub)",
+        "season": 2,
+        "episode": 47,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 47. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-28T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:48",
+        "title": "Tập 48 (Vietsub)",
+        "season": 2,
+        "episode": 48,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 48. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-29T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:49",
+        "title": "Tập 49 (Vietsub)",
+        "season": 2,
+        "episode": 49,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 49. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-30T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:50",
+        "title": "Tập 50 (Vietsub)",
+        "season": 2,
+        "episode": 50,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 50. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-07-31T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:51",
+        "title": "Tập 51 (Vietsub)",
+        "season": 2,
+        "episode": 51,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 51. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-01T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:52",
+        "title": "Tập 52 (Vietsub)",
+        "season": 2,
+        "episode": 52,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 52. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-02T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:53",
+        "title": "Tập 53 (Vietsub)",
+        "season": 2,
+        "episode": 53,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 53. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-03T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:54",
+        "title": "Tập 54 (Vietsub)",
+        "season": 2,
+        "episode": 54,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 54. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-04T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:55",
+        "title": "Tập 55 (Vietsub)",
+        "season": 2,
+        "episode": 55,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 55. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-05T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:56",
+        "title": "Tập 56 (Vietsub)",
+        "season": 2,
+        "episode": 56,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 56. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-06T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:57",
+        "title": "Tập 57 (Vietsub)",
+        "season": 2,
+        "episode": 57,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 57. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-07T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:58",
+        "title": "Tập 58 (Vietsub)",
+        "season": 2,
+        "episode": 58,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 58. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-08T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:59",
+        "title": "Tập 59 (Vietsub)",
+        "season": 2,
+        "episode": 59,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 59. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-09T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:60",
+        "title": "Tập 60 (Vietsub)",
+        "season": 2,
+        "episode": 60,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 60. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-10T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:61",
+        "title": "Tập 61 (Vietsub)",
+        "season": 2,
+        "episode": 61,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 61. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-11T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:62",
+        "title": "Tập 62 (Vietsub)",
+        "season": 2,
+        "episode": 62,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 62. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-12T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:63",
+        "title": "Tập 63 (Vietsub)",
+        "season": 2,
+        "episode": 63,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 63. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-13T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:64",
+        "title": "Tập 64 (Vietsub)",
+        "season": 2,
+        "episode": 64,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 64. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-14T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:65",
+        "title": "Tập 65 (Vietsub)",
+        "season": 2,
+        "episode": 65,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 65. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-15T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:66",
+        "title": "Tập 66 (Vietsub)",
+        "season": 2,
+        "episode": 66,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 66. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-16T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:67",
+        "title": "Tập 67 (Vietsub)",
+        "season": 2,
+        "episode": 67,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 67. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-17T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:68",
+        "title": "Tập 68 (Vietsub)",
+        "season": 2,
+        "episode": 68,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 68. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-18T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:69",
+        "title": "Tập 69 (Vietsub)",
+        "season": 2,
+        "episode": 69,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 69. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-19T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:70",
+        "title": "Tập 70 (Vietsub)",
+        "season": 2,
+        "episode": 70,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 70. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-20T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:71",
+        "title": "Tập 71 (Vietsub)",
+        "season": 2,
+        "episode": 71,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 71. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-21T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:72",
+        "title": "Tập 72 (Vietsub)",
+        "season": 2,
+        "episode": 72,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 72. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-22T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:73",
+        "title": "Tập 73 (Vietsub)",
+        "season": 2,
+        "episode": 73,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 73. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-23T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:74",
+        "title": "Tập 74 (Vietsub)",
+        "season": 2,
+        "episode": 74,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 74. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-24T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:75",
+        "title": "Tập 75 (Vietsub)",
+        "season": 2,
+        "episode": 75,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 75. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-25T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:76",
+        "title": "Tập 76 (Vietsub)",
+        "season": 2,
+        "episode": 76,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 76. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-26T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:77",
+        "title": "Tập 77 (Vietsub)",
+        "season": 2,
+        "episode": 77,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 77. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-27T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:78",
+        "title": "Tập 78 (Vietsub)",
+        "season": 2,
+        "episode": 78,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 78. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-28T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:79",
+        "title": "Tập 79 (Vietsub)",
+        "season": 2,
+        "episode": 79,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 79. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-29T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:80",
+        "title": "Tập 80 (Vietsub)",
+        "season": 2,
+        "episode": 80,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 80. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-30T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:81",
+        "title": "Tập 81 (Vietsub)",
+        "season": 2,
+        "episode": 81,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 81. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-08-31T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:82",
+        "title": "Tập 82 (Vietsub)",
+        "season": 2,
+        "episode": 82,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 82. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-01T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:83",
+        "title": "Tập 83 (Vietsub)",
+        "season": 2,
+        "episode": 83,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 83. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-02T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:84",
+        "title": "Tập 84 (Vietsub)",
+        "season": 2,
+        "episode": 84,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 84. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-03T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:85",
+        "title": "Tập 85 (Vietsub)",
+        "season": 2,
+        "episode": 85,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 85. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-04T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:86",
+        "title": "Tập 86 (Vietsub)",
+        "season": 2,
+        "episode": 86,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 86. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-05T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:87",
+        "title": "Tập 87 (Vietsub)",
+        "season": 2,
+        "episode": 87,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 87. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-06T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:88",
+        "title": "Tập 88 (Vietsub)",
+        "season": 2,
+        "episode": 88,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 88. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-07T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:89",
+        "title": "Tập 89 (Vietsub)",
+        "season": 2,
+        "episode": 89,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 89. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-08T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:90",
+        "title": "Tập 90 (Vietsub)",
+        "season": 2,
+        "episode": 90,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 90. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-09T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:91",
+        "title": "Tập 91 (Vietsub)",
+        "season": 2,
+        "episode": 91,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 91. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-10T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:92",
+        "title": "Tập 92 (Vietsub)",
+        "season": 2,
+        "episode": 92,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 92. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-11T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:93",
+        "title": "Tập 93 (Vietsub)",
+        "season": 2,
+        "episode": 93,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 93. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-12T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:94",
+        "title": "Tập 94 (Vietsub)",
+        "season": 2,
+        "episode": 94,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 94. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-13T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:95",
+        "title": "Tập 95 (Vietsub)",
+        "season": 2,
+        "episode": 95,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 95. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-14T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:96",
+        "title": "Tập 96 (Vietsub)",
+        "season": 2,
+        "episode": 96,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 96. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-15T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:97",
+        "title": "Tập 97 (Vietsub)",
+        "season": 2,
+        "episode": 97,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 97. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-16T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:98",
+        "title": "Tập 98 (Vietsub)",
+        "season": 2,
+        "episode": 98,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 98. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-17T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:99",
+        "title": "Tập 99 (Vietsub)",
+        "season": 2,
+        "episode": 99,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 99. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-18T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:100",
+        "title": "Tập 100 (Vietsub)",
+        "season": 2,
+        "episode": 100,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 100. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-19T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:101",
+        "title": "Tập 101 (Vietsub)",
+        "season": 2,
+        "episode": 101,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 101. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-20T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:102",
+        "title": "Tập 102 (Vietsub)",
+        "season": 2,
+        "episode": 102,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 102. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-21T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:103",
+        "title": "Tập 103 (Vietsub)",
+        "season": 2,
+        "episode": 103,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 103. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-22T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:104",
+        "title": "Tập 104 (Vietsub)",
+        "season": 2,
+        "episode": 104,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 104. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-23T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:105",
+        "title": "Tập 105 (Vietsub)",
+        "season": 2,
+        "episode": 105,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 105. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-24T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:106",
+        "title": "Tập 106 (Vietsub)",
+        "season": 2,
+        "episode": 106,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 106. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-25T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:107",
+        "title": "Tập 107 (Vietsub)",
+        "season": 2,
+        "episode": 107,
+        "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
+        "overview": "[Vietsub] Tiên Nghịch - Tập 107. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-26T04:20:51.058Z"
+      },
+      {
+        "id": "kk_tien-nghich:2:108",
+        "title": "Tập 108 (Vietsub)",
+        "season": 2,
         "episode": 108,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 108",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 108. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-27T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:109",
-        "title": "Tập 109",
-        "season": 1,
+        "id": "kk_tien-nghich:2:109",
+        "title": "Tập 109 (Vietsub)",
+        "season": 2,
         "episode": 109,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 109",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 109. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-28T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:110",
-        "title": "Tập 110",
-        "season": 1,
+        "id": "kk_tien-nghich:2:110",
+        "title": "Tập 110 (Vietsub)",
+        "season": 2,
         "episode": 110,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 110",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 110. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-29T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:111",
-        "title": "Tập 111",
-        "season": 1,
+        "id": "kk_tien-nghich:2:111",
+        "title": "Tập 111 (Vietsub)",
+        "season": 2,
         "episode": 111,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 111",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 111. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-09-30T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:112",
-        "title": "Tập 112",
-        "season": 1,
+        "id": "kk_tien-nghich:2:112",
+        "title": "Tập 112 (Vietsub)",
+        "season": 2,
         "episode": 112,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 112",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 112. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-01T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:113",
-        "title": "Tập 113",
-        "season": 1,
+        "id": "kk_tien-nghich:2:113",
+        "title": "Tập 113 (Vietsub)",
+        "season": 2,
         "episode": 113,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 113",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 113. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-02T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:114",
-        "title": "Tập 114",
-        "season": 1,
+        "id": "kk_tien-nghich:2:114",
+        "title": "Tập 114 (Vietsub)",
+        "season": 2,
         "episode": 114,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 114",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 114. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-03T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:115",
-        "title": "Tập 115",
-        "season": 1,
+        "id": "kk_tien-nghich:2:115",
+        "title": "Tập 115 (Vietsub)",
+        "season": 2,
         "episode": 115,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 115",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 115. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-04T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:116",
-        "title": "Tập 116",
-        "season": 1,
+        "id": "kk_tien-nghich:2:116",
+        "title": "Tập 116 (Vietsub)",
+        "season": 2,
         "episode": 116,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 116",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 116. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-05T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:117",
-        "title": "Tập 117",
-        "season": 1,
+        "id": "kk_tien-nghich:2:117",
+        "title": "Tập 117 (Vietsub)",
+        "season": 2,
         "episode": 117,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 117",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 117. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-06T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:118",
-        "title": "Tập 118",
-        "season": 1,
+        "id": "kk_tien-nghich:2:118",
+        "title": "Tập 118 (Vietsub)",
+        "season": 2,
         "episode": 118,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 118",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 118. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-07T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:119",
-        "title": "Tập 119",
-        "season": 1,
+        "id": "kk_tien-nghich:2:119",
+        "title": "Tập 119 (Vietsub)",
+        "season": 2,
         "episode": 119,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 119",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 119. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-08T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:120",
-        "title": "Tập 120",
-        "season": 1,
+        "id": "kk_tien-nghich:2:120",
+        "title": "Tập 120 (Vietsub)",
+        "season": 2,
         "episode": 120,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 120",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 120. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-09T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:121",
-        "title": "Tập 121",
-        "season": 1,
+        "id": "kk_tien-nghich:2:121",
+        "title": "Tập 121 (Vietsub)",
+        "season": 2,
         "episode": 121,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 121",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 121. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-10T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:122",
-        "title": "Tập 122",
-        "season": 1,
+        "id": "kk_tien-nghich:2:122",
+        "title": "Tập 122 (Vietsub)",
+        "season": 2,
         "episode": 122,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 122",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 122. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-11T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:123",
-        "title": "Tập 123",
-        "season": 1,
+        "id": "kk_tien-nghich:2:123",
+        "title": "Tập 123 (Vietsub)",
+        "season": 2,
         "episode": 123,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 123",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 123. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-12T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:124",
-        "title": "Tập 124",
-        "season": 1,
+        "id": "kk_tien-nghich:2:124",
+        "title": "Tập 124 (Vietsub)",
+        "season": 2,
         "episode": 124,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 124",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 124. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-13T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:125",
-        "title": "Tập 125",
-        "season": 1,
+        "id": "kk_tien-nghich:2:125",
+        "title": "Tập 125 (Vietsub)",
+        "season": 2,
         "episode": 125,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 125",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 125. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-14T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:126",
-        "title": "Tập 126",
-        "season": 1,
+        "id": "kk_tien-nghich:2:126",
+        "title": "Tập 126 (Vietsub)",
+        "season": 2,
         "episode": 126,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 126",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 126. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-15T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:127",
-        "title": "Tập 127",
-        "season": 1,
+        "id": "kk_tien-nghich:2:127",
+        "title": "Tập 127 (Vietsub)",
+        "season": 2,
         "episode": 127,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 127",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 127. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-16T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:128",
-        "title": "Tập 128",
-        "season": 1,
+        "id": "kk_tien-nghich:2:128",
+        "title": "Tập 128 (Vietsub)",
+        "season": 2,
         "episode": 128,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 128",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 128. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-17T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:129",
-        "title": "Tập 129",
-        "season": 1,
+        "id": "kk_tien-nghich:2:129",
+        "title": "Tập 129 (Vietsub)",
+        "season": 2,
         "episode": 129,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 129",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 129. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-18T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:130",
-        "title": "Tập 130",
-        "season": 1,
+        "id": "kk_tien-nghich:2:130",
+        "title": "Tập 130 (Vietsub)",
+        "season": 2,
         "episode": 130,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 130",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 130. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-19T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:131",
-        "title": "Tập 131",
-        "season": 1,
+        "id": "kk_tien-nghich:2:131",
+        "title": "Tập 131 (Vietsub)",
+        "season": 2,
         "episode": 131,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 131",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 131. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-20T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:132",
-        "title": "Tập 132",
-        "season": 1,
+        "id": "kk_tien-nghich:2:132",
+        "title": "Tập 132 (Vietsub)",
+        "season": 2,
         "episode": 132,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 132",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 132. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-21T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:133",
-        "title": "Tập 133",
-        "season": 1,
+        "id": "kk_tien-nghich:2:133",
+        "title": "Tập 133 (Vietsub)",
+        "season": 2,
         "episode": 133,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 133",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 133. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-22T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:134",
-        "title": "Tập 134",
-        "season": 1,
+        "id": "kk_tien-nghich:2:134",
+        "title": "Tập 134 (Vietsub)",
+        "season": 2,
         "episode": 134,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 134",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 134. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-23T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:135",
-        "title": "Tập 135",
-        "season": 1,
+        "id": "kk_tien-nghich:2:135",
+        "title": "Tập 135 (Vietsub)",
+        "season": 2,
         "episode": 135,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 135",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 135. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-24T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:136",
-        "title": "Tập 136",
-        "season": 1,
+        "id": "kk_tien-nghich:2:136",
+        "title": "Tập 136 (Vietsub)",
+        "season": 2,
         "episode": 136,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 136",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 136. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-25T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:137",
-        "title": "Tập 137",
-        "season": 1,
+        "id": "kk_tien-nghich:2:137",
+        "title": "Tập 137 (Vietsub)",
+        "season": 2,
         "episode": 137,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 137",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 137. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-26T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:138",
-        "title": "Tập 138",
-        "season": 1,
+        "id": "kk_tien-nghich:2:138",
+        "title": "Tập 138 (Vietsub)",
+        "season": 2,
         "episode": 138,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 138",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 138. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-27T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:139",
-        "title": "Tập 139",
-        "season": 1,
+        "id": "kk_tien-nghich:2:139",
+        "title": "Tập 139 (Vietsub)",
+        "season": 2,
         "episode": 139,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 139",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 139. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-28T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:140",
-        "title": "Tập 140",
-        "season": 1,
+        "id": "kk_tien-nghich:2:140",
+        "title": "Tập 140 (Vietsub)",
+        "season": 2,
         "episode": 140,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 140",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 140. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-29T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:141",
-        "title": "Tập 141",
-        "season": 1,
+        "id": "kk_tien-nghich:2:141",
+        "title": "Tập 141 (Vietsub)",
+        "season": 2,
         "episode": 141,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 141",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 141. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-30T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:142",
-        "title": "Tập 142",
-        "season": 1,
+        "id": "kk_tien-nghich:2:142",
+        "title": "Tập 142 (Vietsub)",
+        "season": 2,
         "episode": 142,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 142",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 142. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-10-31T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:143",
-        "title": "Tập 143",
-        "season": 1,
+        "id": "kk_tien-nghich:2:143",
+        "title": "Tập 143 (Vietsub)",
+        "season": 2,
         "episode": 143,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 143",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 143. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-01T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:144",
-        "title": "Tập 144",
-        "season": 1,
+        "id": "kk_tien-nghich:2:144",
+        "title": "Tập 144 (Vietsub)",
+        "season": 2,
         "episode": 144,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 144",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 144. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-02T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:145",
-        "title": "Tập 145",
-        "season": 1,
+        "id": "kk_tien-nghich:2:145",
+        "title": "Tập 145 (Vietsub)",
+        "season": 2,
         "episode": 145,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 145",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 145. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-03T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:146",
-        "title": "Tập 146",
-        "season": 1,
+        "id": "kk_tien-nghich:2:146",
+        "title": "Tập 146 (Vietsub)",
+        "season": 2,
         "episode": 146,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 146",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 146. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-04T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:147",
-        "title": "Tập 147",
-        "season": 1,
+        "id": "kk_tien-nghich:2:147",
+        "title": "Tập 147 (Vietsub)",
+        "season": 2,
         "episode": 147,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 147",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 147. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-05T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:148",
-        "title": "Tập 148",
-        "season": 1,
+        "id": "kk_tien-nghich:2:148",
+        "title": "Tập 148 (Vietsub)",
+        "season": 2,
         "episode": 148,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 148",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 148. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-06T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:149",
-        "title": "Tập 149",
-        "season": 1,
+        "id": "kk_tien-nghich:2:149",
+        "title": "Tập 149 (Vietsub)",
+        "season": 2,
         "episode": 149,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 149",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 149. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-07T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:150",
-        "title": "Tập 150",
-        "season": 1,
+        "id": "kk_tien-nghich:2:150",
+        "title": "Tập 150 (Vietsub)",
+        "season": 2,
         "episode": 150,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 150",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 150. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-08T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:151",
-        "title": "Tập 151",
-        "season": 1,
+        "id": "kk_tien-nghich:2:151",
+        "title": "Tập 151 (Vietsub)",
+        "season": 2,
         "episode": 151,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 151",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 151. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-09T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:152",
-        "title": "Tập 152",
-        "season": 1,
+        "id": "kk_tien-nghich:2:152",
+        "title": "Tập 152 (Vietsub)",
+        "season": 2,
         "episode": 152,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 152",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 152. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-10T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:153",
-        "title": "Tập 153",
-        "season": 1,
+        "id": "kk_tien-nghich:2:153",
+        "title": "Tập 153 (Vietsub)",
+        "season": 2,
         "episode": 153,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 153",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 153. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-11T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:154",
-        "title": "Tập 154",
-        "season": 1,
+        "id": "kk_tien-nghich:2:154",
+        "title": "Tập 154 (Vietsub)",
+        "season": 2,
         "episode": 154,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 154",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 154. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-12T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:155",
-        "title": "Tập 155",
-        "season": 1,
+        "id": "kk_tien-nghich:2:155",
+        "title": "Tập 155 (Vietsub)",
+        "season": 2,
         "episode": 155,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 155",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 155. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-13T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:156",
-        "title": "Tập 156",
-        "season": 1,
+        "id": "kk_tien-nghich:2:156",
+        "title": "Tập 156 (Vietsub)",
+        "season": 2,
         "episode": 156,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 156",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 156. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-14T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:157",
-        "title": "Tập 157",
-        "season": 1,
+        "id": "kk_tien-nghich:2:157",
+        "title": "Tập 157 (Vietsub)",
+        "season": 2,
         "episode": 157,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 157",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 157. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-15T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:158",
-        "title": "Tập 158",
-        "season": 1,
+        "id": "kk_tien-nghich:2:158",
+        "title": "Tập 158 (Vietsub)",
+        "season": 2,
         "episode": 158,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 158",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 158. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-16T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:159",
-        "title": "Tập 159",
-        "season": 1,
+        "id": "kk_tien-nghich:2:159",
+        "title": "Tập 159 (Vietsub)",
+        "season": 2,
         "episode": 159,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 159",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 159. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-17T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:160",
-        "title": "Tập 160",
-        "season": 1,
+        "id": "kk_tien-nghich:2:160",
+        "title": "Tập 160 (Vietsub)",
+        "season": 2,
         "episode": 160,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 160",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 160. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-18T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:161",
-        "title": "Tập 161",
-        "season": 1,
+        "id": "kk_tien-nghich:2:161",
+        "title": "Tập 161 (Vietsub)",
+        "season": 2,
         "episode": 161,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 161",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 161. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-19T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:162",
-        "title": "Tập 162",
-        "season": 1,
+        "id": "kk_tien-nghich:2:162",
+        "title": "Tập 162 (Vietsub)",
+        "season": 2,
         "episode": 162,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 162",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 162. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-20T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:163",
-        "title": "Tập 163",
-        "season": 1,
+        "id": "kk_tien-nghich:2:163",
+        "title": "Tập 163 (Vietsub)",
+        "season": 2,
         "episode": 163,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 163",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 163. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-21T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:164",
-        "title": "Tập 164",
-        "season": 1,
+        "id": "kk_tien-nghich:2:164",
+        "title": "Tập 164 (Vietsub)",
+        "season": 2,
         "episode": 164,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 164",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 164. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-22T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:165",
-        "title": "Tập 165",
-        "season": 1,
+        "id": "kk_tien-nghich:2:165",
+        "title": "Tập 165 (Vietsub)",
+        "season": 2,
         "episode": 165,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 165",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 165. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-23T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:166",
-        "title": "Tập 166",
-        "season": 1,
+        "id": "kk_tien-nghich:2:166",
+        "title": "Tập 166 (Vietsub)",
+        "season": 2,
         "episode": 166,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 166",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 166. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-24T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:167",
-        "title": "Tập 167",
-        "season": 1,
+        "id": "kk_tien-nghich:2:167",
+        "title": "Tập 167 (Vietsub)",
+        "season": 2,
         "episode": 167,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 167",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 167. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-25T04:20:51.058Z"
       },
       {
-        "id": "kk_tien-nghich:1:168",
-        "title": "Tập 168",
-        "season": 1,
+        "id": "kk_tien-nghich:2:168",
+        "title": "Tập 168 (Vietsub)",
+        "season": 2,
         "episode": 168,
         "thumbnail": "https://phimimg.com/uploads/movies/20260720/tien-nghich-thumb.webp",
-        "overview": "Tiên Nghịch - Tập 168",
-        "released": "2026-11-26T00:11:24.844Z"
+        "overview": "[Vietsub] Tiên Nghịch - Tập 168. Phim kể về cuộc hành trình của Vương Lâm, một thiếu niên bình thường trở thành một trong những tu sĩ mạnh nhất trong thế giới tiên hiệp. Là ",
+        "released": "2026-11-26T04:20:51.058Z"
       }
     ]
   }
