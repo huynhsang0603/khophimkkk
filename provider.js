@@ -195,6 +195,113 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     }
 }
 
+async function getCatalog(type, page) {
+    try {
+        const listType = type || "phim-moi-cap-nhat";
+        const pageNum = page || 1;
+        const isDubCat = /thuyet-minh|long-tieng/i.test(listType);
+        const prefix = isDubCat ? "tm" : "vs";
+
+        const apiUrl = listType.startsWith("http")
+            ? listType
+            : `${KK_API}/v1/api/danh-sach/${listType}?page=${pageNum}&limit=24`;
+
+        const res = await fetch(apiUrl, { headers: API_HEADERS });
+        const json = await res.json();
+        const items = (json && json.items) || (json && json.data && json.data.items) || [];
+
+        return items.map(item => {
+            const posterUrl = item.poster_url
+                ? (item.poster_url.startsWith("http") ? item.poster_url : `https://phimimg.com{item.poster_url.replace(/^\/+/, "")}`)
+                : "";
+            const thumbUrl = item.thumb_url
+                ? (item.thumb_url.startsWith("http") ? item.thumb_url : `https://phimimg.com{item.thumb_url.replace(/^\/+/, "")}`)
+                : posterUrl;
+
+            return {
+                id: `kk_${prefix}_${item.slug}`,
+                type: (item.type === "single" || item.episode_total === "1") ? "movie" : "series",
+                name: item.origin_name ? `${item.name} (${item.origin_name})` : item.name,
+                poster: posterUrl,
+                background: thumbUrl,
+                releaseInfo: String(item.year || ""),
+                description: [item.episode_current, item.quality, item.lang].filter(Boolean).join(" • ")
+            };
+        });
+    } catch (e) {
+        return [];
+    }
+}
+
+async function getMeta(id, mediaType) {
+    try {
+        const rawId = String(id || "").trim();
+        const isDubMode = rawId.startsWith("kk_tm_");
+        let slug = rawId.split(":").shift().replace(/^kk_(tm_|vs_)?/, "");
+
+        // Nếu Nuvio truyền vào mã IMDb (tt...) -> tự tìm slug bên KKPhim
+        if (/^tt\d+/i.test(slug)) {
+            const info = await getMovieTitleFromId(slug, mediaType);
+            if (!info || !info.enTitle) return null;
+            const items = await searchKkphim(info.enTitle, info.imdbId, info.year);
+            if (!items || items.length === 0) return null;
+            slug = items.shift().slug;
+        }
+
+        const res = await fetch(`${KK_API}/phim/${slug}`, { headers: API_HEADERS });
+        const json = await res.json();
+        const movie = json && json.movie;
+        const episodes = (json && json.episodes) || [];
+        if (!movie) return null;
+
+        const verticalPoster = movie.poster_url
+            ? (movie.poster_url.startsWith("http") ? movie.poster_url : `https://phimimg.com{movie.poster_url.replace(/^\/+/, "")}`)
+            : "";
+        const horizontalThumb = movie.thumb_url
+            ? (movie.thumb_url.startsWith("http") ? movie.thumb_url : `https://phimimg.com{movie.thumb_url.replace(/^\/+/, "")}`)
+            : verticalPoster;
+        const cleanPlot = (movie.content || "").replace(/<[^>]*>?/gm, "").trim();
+
+        let targetServer = isDubMode
+            ? episodes.find(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""))
+            : episodes.find(s => !/thuyết minh|lồng tiếng/i.test(s.server_name || ""));
+        if (!targetServer) targetServer = episodes.shift();
+
+        const serverLabel = (targetServer && targetServer.server_name) || (isDubMode ? "Thuyết Minh" : "Vietsub");
+        const prefix = isDubMode ? "tm" : "vs";
+        const finalId = `kk_${prefix}_${slug}`;
+        const videos = [];
+
+        if (targetServer && Array.isArray(targetServer.server_data)) {
+            targetServer.server_data.forEach((ep, idx) => {
+                const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
+                const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
+                videos.push({
+                    id: `${finalId}:1:${epNum}`,
+                    title: `${epTitleClean} [${serverLabel}]`,
+                    season: 1,
+                    episode: epNum,
+                    thumbnail: horizontalThumb,
+                    overview: `[${serverLabel}] ${movie.name} - ${epTitleClean}: ${cleanPlot.slice(0, 140)}`,
+                    released: new Date(Date.now() - (targetServer.server_data.length - idx) * 86400000).toISOString()
+                });
+            });
+        }
+
+        return {
+            id: finalId,
+            type: movie.type === "single" ? "movie" : "series",
+            name: `[${serverLabel}] ${movie.name} (${movie.origin_name})`,
+            poster: verticalPoster,
+            background: horizontalThumb,
+            description: cleanPlot,
+            releaseInfo: String(movie.year || ""),
+            videos: movie.type === "single" ? undefined : videos
+        };
+    } catch (e) {
+        return null;
+    }
+}
 
 
 
