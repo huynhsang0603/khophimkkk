@@ -1,7 +1,7 @@
 {
   "id": "com.huynhsang0603.kkphim",
   "name": "KKPhim Việt Nam",
-  "version": "1.3.4",
+  "version": "1.3.0",
   "description": "KKPhim tách riêng nguồn Thuyết Minh & Vietsub, đầy đủ mô tả & thumbnail từng tập",
   "author": "huynhsang0603",
   "homepage": "https://github.com",
@@ -11,7 +11,7 @@
       "id": "kkphim_vn",
       "name": "KKPhim (Thuyết Minh & Vietsub)",
       "description": "Phân tách riêng Thuyết Minh / Vietsub, tự động chuyển tập 5s",
-      "version": "1.3.4",
+      "version": "1.3.0",
       "type": "all",
       "filename": "provider.js",
       "supportedTypes": [
