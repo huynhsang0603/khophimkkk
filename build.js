@@ -24,26 +24,17 @@ async function run() {
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
-        version: "1.6.0",
-        description: "KKPhim Tiếng Việt - Tách riêng luồng Thuyết Minh & Vietsub chuyển tập không hỏi lại",
+        version: "1.7.0",
+        description: "KKPhim Tiếng Việt gọn gàng - 1 luồng Thuyết Minh & 1 luồng Vietsub",
         author: "huynhsang0603",
         homepage: "https://github.com",
         repository: "https://github.com",
         scrapers: [
             {
-                id: "kkphim_tm",
-                name: "KKPhim (Thuyết Minh / Lồng Tiếng)",
-                description: "Chỉ lấy luồng Thuyết Minh / Lồng Tiếng, chuyển tập tự chạy tiếp",
-                version: "1.6.0",
-                type: "all",
-                filename: "provider.js",
-                supportedTypes: ["movie", "tv"]
-            },
-            {
-                id: "kkphim_vs",
-                name: "KKPhim (Vietsub)",
-                description: "Chỉ lấy luồng Vietsub, chuyển tập tự chạy tiếp",
-                version: "1.6.0",
+                id: "kkphim_vn",
+                name: "KKPhim",
+                description: "Giao diện tiếng Việt, gọn 1 luồng Thuyết Minh & 1 luồng Vietsub",
+                version: "1.7.0",
                 type: "all",
                 filename: "provider.js",
                 supportedTypes: ["movie", "tv"]
@@ -56,7 +47,7 @@ async function run() {
     fs.mkdirSync("addon", { recursive: true });
     const addonManifest = {
         id: "org.github.kkphim.static7",
-        version: "1.6.0",
+        version: "1.7.0",
         name: "KKPhim 7 Danh Mục (Tiếng Việt)",
         description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
         resources: ["catalog", "meta"],
