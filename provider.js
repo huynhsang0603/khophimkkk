@@ -61,9 +61,9 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         let epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
 
         if (tmdbId && typeof tmdbId === "object") {
-            rawId = String(tmdbId.id || tmdbId.imdbId || tmdbId.tmdbId || "");
+            rawId = String( tmdbId. videoId || tmdbId. mediaId || tmdbId. id || tmdbId. slug || tmdbId. imdbId || tmdbId. tmdbId || "");
             type = tmdbId.type || mediaType;
-            if (tmdbId.episode) epTarget = parseInt(String(tmdbId.episode).replace(/\D/g, ""), 10) || epTarget;
+            if (tmdbId. episode || tmdbId. episodeNumber || tmdbId. ep) epTarget = parseInt(String(tmdbId.episode).replace(/\D/g, ""), 10) || epTarget;
         }
 
         if (rawId.includes(":")) {
@@ -140,7 +140,8 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
                     name: `KKPhim - ${audioLabel}`,
                     title: `${movieName} - ${targetEp.name} (${serverName}) [${qualityLabel}]`,
                     url: targetEp.link_m3u8,
-                    quality: `${qualityLabel} • ${audioLabel}`,
+                    quality:  qualityLabel - { audioLabel},
+
                     provider: "KKPhim",
                     behaviorHints: {
                         bingeGroup: isDub ? "kkphim-tm" : "kkphim-vs"
@@ -173,10 +174,10 @@ async function getCatalog(type, page) {
 
         return items.map(item => {
             const posterUrl = item.poster_url
-                ? (item.poster_url.startsWith("http") ? item.poster_url : `https://phimimg.com{item.poster_url.replace(/^\/+/, "")}`)
+                ? (item.poster_url.startsWith("http") ? item.poster_url : `https://phimimg.com/${item.poster_url.replace(/^\/+/, "")}`)
                 : "";
             const thumbUrl = item.thumb_url
-                ? (item.thumb_url.startsWith("http") ? item.thumb_url : `https://phimimg.com{item.thumb_url.replace(/^\/+/, "")}`)
+                ? (item.thumb_url.startsWith("http") ? item.thumb_url : `https://phimimg.com/${item.thumb_url.replace(/^\/+/, "")}`)
                 : posterUrl;
 
             return {
@@ -214,10 +215,10 @@ async function getMeta(id, mediaType) {
         if (!movie) return null;
 
         const verticalPoster = movie.poster_url
-            ? (movie.poster_url.startsWith("http") ? movie.poster_url : `https://phimimg.com{movie.poster_url.replace(/^\/+/, "")}`)
+            ? (movie.poster_url.startsWith("http") ? movie.poster_url : `https://phimimg.com/${movie.poster_url.replace(/^\/+/, "")}`)
             : "";
         const horizontalThumb = movie.thumb_url
-            ? (movie.thumb_url.startsWith("http") ? movie.thumb_url : `https://phimimg.com{movie.thumb_url.replace(/^\/+/, "")}`)
+            ? (movie.thumb_url.startsWith("http") ? movie.thumb_url : `https://phimimg.com/${movie.thumb_url.replace(/^\/+/, "")}`)
             : verticalPoster;
         const cleanPlot = (movie.content || "").replace(/<[^>]*>?/gm, "").trim();
 
