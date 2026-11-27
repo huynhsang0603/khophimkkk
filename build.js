@@ -24,27 +24,39 @@ async function run() {
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
-        version: "1.5.0",
-        description: "KKPhim Tiếng Việt chuẩn mặc định - Tự động phát Thuyết Minh liên tục",
+        version: "1.6.0",
+        description: "KKPhim Tiếng Việt - Tách riêng luồng Thuyết Minh & Vietsub chuyển tập không hỏi lại",
         author: "huynhsang0603",
         homepage: "https://github.com",
         repository: "https://github.com",
-        scrapers: [{
-            id: "kkphim_vn",
-            name: "KKPhim (Ưu tiên Thuyết Minh)",
-            description: "Giao diện tiếng Việt, tự động chọn Thuyết Minh khi chuyển tập",
-            version: "1.5.0",
-            type: "all",
-            filename: "provider.js",
-            supportedTypes: ["movie", "tv"]
-        }]
+        scrapers: [
+            {
+                id: "kkphim_tm",
+                name: "KKPhim (Thuyết Minh / Lồng Tiếng)",
+                description: "Chỉ lấy luồng Thuyết Minh / Lồng Tiếng, chuyển tập tự chạy tiếp",
+                version: "1.6.0",
+                type: "all",
+                filename: "provider.js",
+                supportedTypes: ["movie", "tv"]
+            },
+            {
+                id: "kkphim_vs",
+                name: "KKPhim (Vietsub)",
+                description: "Chỉ lấy luồng Vietsub, chuyển tập tự chạy tiếp",
+                version: "1.6.0",
+                type: "all",
+                filename: "provider.js",
+                supportedTypes: ["movie", "tv"]
+            }
+        ]
     };
     fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
+    fs.writeFileSync("provider-manifest.json", JSON.stringify(providerManifest, null, 2));
 
     fs.mkdirSync("addon", { recursive: true });
     const addonManifest = {
         id: "org.github.kkphim.static7",
-        version: "1.5.0",
+        version: "1.6.0",
         name: "KKPhim 7 Danh Mục (Tiếng Việt)",
         description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
         resources: ["catalog", "meta"],
@@ -57,16 +69,13 @@ async function run() {
         }))
     };
     fs.writeFileSync(path.join("addon", "manifest.json"), JSON.stringify(addonManifest, null, 2));
+    fs.writeFileSync("addon-manifest.json", JSON.stringify(addonManifest, null, 2));
 
     fs.mkdirSync(path.join("addon", "meta", "series"), { recursive: true });
     fs.mkdirSync(path.join("addon", "meta", "movie"), { recursive: true });
     const processedSlugs = new Set();
 
-
-
-
-
-for (const cat of CATALOGS) {
+    for (const cat of CATALOGS) {
         const dir = path.join("addon", "catalog", cat.type);
         fs.mkdirSync(dir, { recursive: true });
         try {
