@@ -1,7 +1,7 @@
 {
   "id": "com.huynhsang0603.kkphim",
   "name": "KKPhim Việt Nam",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "KKPhim Tiếng Việt gọn gàng - 1 luồng Thuyết Minh & 1 luồng Vietsub",
   "author": "huynhsang0603",
   "homepage": "https://github.com",
@@ -11,7 +11,7 @@
       "id": "kkphim_vn",
       "name": "KKPhim",
       "description": "Giao diện tiếng Việt, gọn 1 luồng Thuyết Minh & 1 luồng Vietsub",
-      "version": "1.7.0",
+      "version": "1.8.0",
       "type": "all",
       "filename": "provider.js",
       "supportedTypes": [
