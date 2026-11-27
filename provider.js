@@ -77,34 +77,23 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         }
 
         let detailJson = null;
-        let forceDubOnly = false;
-        let forceSubOnly = false;
 
         if (rawId.startsWith("kk_")) {
-            let cleanPart = rawId.split(":").shift().replace(/^kk_/, "");
-            if (cleanPart.startsWith("tm_")) {
-                forceDubOnly = true;
-                cleanPart = cleanPart.replace(/^tm_/, "");
-            } else if (cleanPart.startsWith("vs_")) {
-                forceSubOnly = true;
-                cleanPart = cleanPart.replace(/^vs_/, "");
-            }
-            const detailRes = await fetch(`${KK_API}/phim/${cleanPart}`, { headers: API_HEADERS });
+            const cleanSlug = rawId.split(":").shift().replace(/^kk_(tm_|vs_)?/, "");
+            const detailRes = await fetch(`${KK_API}/phim/${cleanSlug}`, { headers: API_HEADERS });
             detailJson = await detailRes.json();
         } else {
             const baseId = rawId.split(":").shift();
             const isImdb = /^tt\d+/i.test(baseId);
 
             if (!isImdb) {
-                const cleanId = baseId.replace(/\D/g, "");
-                if (cleanId) {
+                const cleanNum = baseId.replace(/\D/g, "");
+                if (cleanNum) {
                     try {
                         const kkType = type === "movie" ? "movie" : "tv";
-                        const directRes = await fetch(`${KK_API}/tmdb/${kkType}/${cleanId}`, { headers: API_HEADERS });
+                        const directRes = await fetch(`${KK_API}/tmdb/${kkType}/${cleanNum}`, { headers: API_HEADERS });
                         const directData = await directRes.json();
-                        if (directData && directData.status && directData.episodes) {
-                            detailJson = directData;
-                        }
+                        if (directData && directData.status && directData.episodes) detailJson = directData;
                     } catch (e) {}
                 }
             }
@@ -112,13 +101,11 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             if (!detailJson || !detailJson.episodes) {
                 const info = await getMovieTitleFromId(baseId, type);
                 if (!info) return [];
-
                 let items = await searchKkphim(info.enTitle, info.imdbId, info.year);
                 if (items.length === 0 && info.enTitle.includes(":")) {
                     items = await searchKkphim(info.enTitle.split(":").shift(), info.imdbId, info.year);
                 }
                 if (items.length === 0) return [];
-
                 const matched = items.shift();
                 const detailRes = await fetch(`${KK_API}/phim/${matched.slug}`, { headers: API_HEADERS });
                 detailJson = await detailRes.json();
@@ -127,10 +114,11 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 
         if (!detailJson || !detailJson.episodes) return [];
 
-        const movieSlug = (detailJson.movie && detailJson.movie.slug) || "kkphim";
         const movieName = (detailJson.movie && detailJson.movie.name) || "KKPhim";
-        const qualityLabel = (detailJson.movie && detailJson.movie.quality) || "1080p";
+        const qualityLabel = (detailJson.movie && detailJson.movie.quality) || "FHD";
         const episodes = detailJson.episodes || [];
+        const hasDubServer = episodes.some(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""));
+
         const dubStreams = [];
         const subStreams = [];
 
@@ -138,8 +126,11 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             const serverName = server.server_name || "Vietsub";
             const isDub = /thuyết minh|lồng tiếng/i.test(serverName);
 
-            if (forceDubOnly && !isDub) continue;
-            if (forceSubOnly && isDub) continue;
+            // Nếu phim có cả 2 bản: Phần 1 (Season 1) chỉ lấy Thuyết Minh, Phần 2 (Season 2) chỉ lấy Vietsub
+            if (type !== "movie" && hasDubServer) {
+                if (seasonTarget === 1 && !isDub) continue;
+                if (seasonTarget === 2 && isDub) continue;
+            }
 
             const serverData = server.server_data || [];
             const targetEp = serverData.find(e => {
@@ -151,25 +142,14 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
             });
 
             if (targetEp && targetEp.link_m3u8) {
-                const modeTag = isDub ? "dub" : "sub";
-                const groupTag = `kkphim-${movieSlug}-${modeTag}`;
-                const nextIdPrefix = isDub ? `kk_tm_${movieSlug}` : `kk_vs_${movieSlug}`;
-
                 const streamObj = {
-                    name: isDub ? `🎙️ KKPhim (${serverName})` : `💬 KKPhim (${serverName})`,
-                    title: `${movieName} - Tập ${targetEp.name} [${serverName}] (${qualityLabel})`,
+                    name: isDub ? `KKPhim (${serverName})` : "KKPhim Vietsub",
+                    title: `${movieName} - ${serverName} (${targetEp.name}) [${qualityLabel}]`,
                     url: targetEp.link_m3u8,
                     quality: qualityLabel,
                     provider: "KKPhim",
-                    bingeGroup: groupTag,
-                    behaviorHints: {
-                        bingeGroup: groupTag,
-                        defaultVideoId: `${nextIdPrefix}:${seasonTarget}:${epTarget + 1}`
-                    },
-                    headers: {
-                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                        "Referer": "https://phimapi.com"
-                    }
+                    skipIntro: { start: 0, end: 85 },
+                    skipOutro: { start: -95, end: 0 }
                 };
                 if (isDub) dubStreams.push(streamObj);
                 else subStreams.push(streamObj);
@@ -183,14 +163,10 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 }
 
 
-
 async function getCatalog(type, page) {
     try {
         const listType = type || "phim-moi-cap-nhat";
         const pageNum = page || 1;
-        const isDubCat = /thuyet-minh|long-tieng/i.test(listType);
-        const prefix = isDubCat ? "tm" : "vs";
-
         const apiUrl = listType.startsWith("http")
             ? listType
             : `${KK_API}/v1/api/danh-sach/${listType}?page=${pageNum}&limit=24`;
@@ -208,7 +184,7 @@ async function getCatalog(type, page) {
                 : posterUrl;
 
             return {
-                id: `kk_${prefix}_${item.slug}`,
+                id: `kk_${item.slug}`,
                 type: (item.type === "single" || item.episode_total === "1") ? "movie" : "series",
                 name: item.origin_name ? `${item.name} (${item.origin_name})` : item.name,
                 poster: posterUrl,
@@ -225,10 +201,8 @@ async function getCatalog(type, page) {
 async function getMeta(id, mediaType) {
     try {
         const rawId = String(id || "").trim();
-        const isDubMode = rawId.startsWith("kk_tm_");
         let slug = rawId.split(":").shift().replace(/^kk_(tm_|vs_)?/, "");
 
-        // Nếu Nuvio truyền vào mã IMDb (tt...) -> tự tìm slug bên KKPhim
         if (/^tt\d+/i.test(slug)) {
             const info = await getMovieTitleFromId(slug, mediaType);
             if (!info || !info.enTitle) return null;
@@ -251,39 +225,56 @@ async function getMeta(id, mediaType) {
             : verticalPoster;
         const cleanPlot = (movie.content || "").replace(/<[^>]*>?/gm, "").trim();
 
-        let targetServer = isDubMode
-            ? episodes.find(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""))
-            : episodes.find(s => !/thuyết minh|lồng tiếng/i.test(s.server_name || ""));
-        if (!targetServer) targetServer = episodes.shift();
-
-        const serverLabel = (targetServer && targetServer.server_name) || (isDubMode ? "Thuyết Minh" : "Vietsub");
-        const prefix = isDubMode ? "tm" : "vs";
-        const finalId = `kk_${prefix}_${slug}`;
+        const dubServer = episodes.find(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""));
+        const subServer = episodes.find(s => !/thuyết minh|lồng tiếng/i.test(s.server_name || ""));
+        const finalId = `kk_${slug}`;
         const videos = [];
 
-        if (targetServer && Array.isArray(targetServer.server_data)) {
-            targetServer.server_data.forEach((ep, idx) => {
+        // Phần 1 (Season 1): Toàn bộ danh sách tập Thuyết Minh / Lồng Tiếng (nếu có)
+        if (dubServer && Array.isArray(dubServer.server_data)) {
+            const dubLabel = dubServer.server_name || "Thuyết Minh";
+            dubServer.server_data.forEach((ep, idx) => {
                 const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
                 const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
                 videos.push({
                     id: `${finalId}:1:${epNum}`,
-                    title: `${epTitleClean} [${serverLabel}]`,
+                    title: `${epTitleClean} (${dubLabel})`,
                     season: 1,
                     episode: epNum,
                     thumbnail: horizontalThumb,
-                    overview: `[${serverLabel}] ${movie.name} - ${epTitleClean}: ${cleanPlot.slice(0, 140)}`,
-                    released: new Date(Date.now() - (targetServer.server_data.length - idx) * 86400000).toISOString()
+                    overview: `[${dubLabel}] ${movie.name} - ${epTitleClean}. ${cleanPlot.slice(0, 140)}`,
+                    released: new Date(Date.now() - (dubServer.server_data.length - idx) * 86400000).toISOString()
                 });
             });
         }
 
+        // Phần 2 (Season 2) [hoặc Phần 1 nếu chỉ có Vietsub]: Toàn bộ danh sách tập Vietsub
+        if (subServer && Array.isArray(subServer.server_data)) {
+            const subSeason = dubServer ? 2 : 1;
+            const subLabel = subServer.server_name || "Vietsub";
+            subServer.server_data.forEach((ep, idx) => {
+                const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
+                const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
+                videos.push({
+                    id: `${finalId}:${subSeason}:${epNum}`,
+                    title: `${epTitleClean} (${subLabel})`,
+                    season: subSeason,
+                    episode: epNum,
+                    thumbnail: horizontalThumb,
+                    overview: `[${subLabel}] ${movie.name} - ${epTitleClean}. ${cleanPlot.slice(0, 140)}`,
+                    released: new Date(Date.now() - (subServer.server_data.length - idx) * 86400000).toISOString()
+                });
+            });
+        }
+
+        const availableLangs = episodes.map(s => s.server_name).filter(Boolean).join(" | ");
         return {
             id: finalId,
             type: movie.type === "single" ? "movie" : "series",
-            name: `[${serverLabel}] ${movie.name} (${movie.origin_name})`,
+            name: `${movie.name} (${movie.origin_name})`,
             poster: verticalPoster,
             background: horizontalThumb,
-            description: cleanPlot,
+            description: `[${availableLangs}] ${cleanPlot}`,
             releaseInfo: String(movie.year || ""),
             videos: movie.type === "single" ? undefined : videos
         };
@@ -291,7 +282,6 @@ async function getMeta(id, mediaType) {
         return null;
     }
 }
-
 
 
 if (typeof module !== "undefined" && module.exports) {
