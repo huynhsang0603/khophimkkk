@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "kk_phong-sinh-thuy-khoi",
+      "type": "series",
+      "name": "Phong Sinh Thuỷ Khởi (Rising Turbulence)",
+      "poster": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-poster.webp",
+      "description": "Tập 6 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_vu-trom-the-ky-2025",
+      "type": "movie",
+      "name": "Vụ Trộm Thế Kỷ (The Rules Of Art)",
+      "poster": "https://phimimg.com/uploads/movies/20261127/vu-trom-the-ky-2025-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261127/vu-trom-the-ky-2025-poster.webp",
+      "description": "Full • FHD • Vietsub"
+    },
+    {
       "id": "kk_dau-la-dai-luc-2-tuyet-the-duong-mon",
       "type": "series",
       "name": "Đấu La Đại Lục 2 (Tuyệt Thế Đường Môn) (Soul Land 2 (The Peerless Tang Clan))",
@@ -175,22 +191,6 @@
       "poster": "https://phimimg.com/uploads/movies/20261127/nhung-quy-ba-tho-san-phan-2-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261127/nhung-quy-ba-tho-san-phan-2-poster.webp",
       "description": "Hoàn Tất (8/8) • FHD • Vietsub"
-    },
-    {
-      "id": "kk_nhung-quy-ba-tho-san-phan-1",
-      "type": "series",
-      "name": "Những Quý Bà Thợ Săn (Phần 1) (The Hunting Wives (Season 1))",
-      "poster": "https://phimimg.com/upload/vod/20250727-1/be683343836da100d2fcc4f41b703590.jpg",
-      "background": "https://phimimg.com/upload/vod/20250727-1/be683343836da100d2fcc4f41b703590.jpg",
-      "description": "Hoàn Tất (8/8) • FHD • Vietsub"
-    },
-    {
-      "id": "kk_dem-ngay-tho",
-      "type": "series",
-      "name": "Đêm Ngây Thơ (Fool Night)",
-      "poster": "https://phimimg.com/uploads/movies/20261127/dem-ngay-tho-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261127/dem-ngay-tho-poster.webp",
-      "description": "Hoàn Tất (12/12) • FHD • Vietsub"
     }
   ]
 }

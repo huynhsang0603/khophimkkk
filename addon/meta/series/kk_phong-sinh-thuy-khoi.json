@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "id": "kk_phong-sinh-thuy-khoi",
+    "type": "series",
+    "name": "Phong Sinh Thuỷ Khởi (Rising Turbulence)",
+    "poster": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-poster.webp",
+    "background": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+    "description": "Sáu vụ trọng án liên quan đến các thế lực tội phạm có tổ chức liên tiếp xảy ra. Những đối tượng có liên hệ với nhiều nhóm lợi ích trong và ngoài nước lần theo dấu vết, lần lượt nhập cuộc, âm thầm đấu đá lẫn nhau. Cảnh sát chìm Đường Tấn Trách thâm nhập vào băng nhóm tội phạm để điều tra. Khi những manh mối dần hội tụ, mối liên hệ bí ẩn đằng sau các vụ án cũng từng bước được hé lộ.",
+    "releaseInfo": "2026",
+    "videos": [
+      {
+        "id": "kk_phong-sinh-thuy-khoi:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+        "overview": "Phong Sinh Thuỷ Khởi - Tập 01. Sáu vụ trọng án liên quan đến các thế lực tội phạm có tổ chức liên tiếp xảy ra. Những đối tượng có liên hệ với nhiều nhóm lợi ích trong và n",
+        "released": "2026-11-21T14:15:30.711Z"
+      },
+      {
+        "id": "kk_phong-sinh-thuy-khoi:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+        "overview": "Phong Sinh Thuỷ Khởi - Tập 02. Sáu vụ trọng án liên quan đến các thế lực tội phạm có tổ chức liên tiếp xảy ra. Những đối tượng có liên hệ với nhiều nhóm lợi ích trong và n",
+        "released": "2026-11-22T14:15:30.711Z"
+      },
+      {
+        "id": "kk_phong-sinh-thuy-khoi:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+        "overview": "Phong Sinh Thuỷ Khởi - Tập 03. Sáu vụ trọng án liên quan đến các thế lực tội phạm có tổ chức liên tiếp xảy ra. Những đối tượng có liên hệ với nhiều nhóm lợi ích trong và n",
+        "released": "2026-11-23T14:15:30.711Z"
+      },
+      {
+        "id": "kk_phong-sinh-thuy-khoi:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+        "overview": "Phong Sinh Thuỷ Khởi - Tập 04. Sáu vụ trọng án liên quan đến các thế lực tội phạm có tổ chức liên tiếp xảy ra. Những đối tượng có liên hệ với nhiều nhóm lợi ích trong và n",
+        "released": "2026-11-24T14:15:30.711Z"
+      },
+      {
+        "id": "kk_phong-sinh-thuy-khoi:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+        "overview": "Phong Sinh Thuỷ Khởi - Tập 05. Sáu vụ trọng án liên quan đến các thế lực tội phạm có tổ chức liên tiếp xảy ra. Những đối tượng có liên hệ với nhiều nhóm lợi ích trong và n",
+        "released": "2026-11-25T14:15:30.711Z"
+      },
+      {
+        "id": "kk_phong-sinh-thuy-khoi:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+        "overview": "Phong Sinh Thuỷ Khởi - Tập 06. Sáu vụ trọng án liên quan đến các thế lực tội phạm có tổ chức liên tiếp xảy ra. Những đối tượng có liên hệ với nhiều nhóm lợi ích trong và n",
+        "released": "2026-11-26T14:15:30.711Z"
+      }
+    ]
+  }
+}

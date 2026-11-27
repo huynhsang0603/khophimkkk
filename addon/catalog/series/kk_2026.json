@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "kk_phong-sinh-thuy-khoi",
+      "type": "series",
+      "name": "Phong Sinh Thuỷ Khởi (Rising Turbulence)",
+      "poster": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+      "description": "Tập 6 • FHD • Vietsub"
+    },
+    {
       "id": "kk_hoc-vien-cao-vo-dong-dai",
       "type": "series",
       "name": "Học Viện Cao Võ Đông Đại (Oriental Martial Academy)",
@@ -231,14 +239,6 @@
       "poster": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261023/bao-ve-dat-me-thumb.webp",
       "description": "Tập 11 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_vu-tan-cong-cung-tu-phap",
-      "type": "series",
-      "name": "Vụ Tấn Công Cung Tư Pháp (Under Siege)",
-      "poster": "https://phimimg.com/uploads/movies/20261126/vu-tan-cong-cung-tu-phap-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261126/vu-tan-cong-cung-tu-phap-thumb.webp",
-      "description": "Hoàn Tất (8/8) • FHD • Vietsub"
     }
   ]
 }

@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "kk_phong-sinh-thuy-khoi",
+      "type": "series",
+      "name": "Phong Sinh Thuỷ Khởi (Rising Turbulence)",
+      "poster": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261127/phong-sinh-thuy-khoi-thumb.webp",
+      "description": "Tập 6 • FHD • Vietsub"
+    },
+    {
       "id": "kk_dau-la-dai-luc-2-tuyet-the-duong-mon",
       "type": "series",
       "name": "Đấu La Đại Lục 2 (Tuyệt Thế Đường Môn) (Soul Land 2 (The Peerless Tang Clan))",
@@ -231,14 +239,6 @@
       "poster": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-thumb.webp",
       "description": "Tập 19 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_gia-thien",
-      "type": "series",
-      "name": "Già Thiên (Shrouding The Heavens)",
-      "poster": "https://phimimg.com/upload/vod/20240411-1/0a4084fdfad19ecab9f1f53d629bf422.jpg",
-      "background": "https://phimimg.com/upload/vod/20240411-1/bbf5847cc8ae2ce6528d5b51ef6f877a.jpg",
-      "description": "Tập 191 • FHD • Vietsub"
     }
   ]
 }

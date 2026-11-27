@@ -16,7 +16,6 @@
       "filename": "provider.js",
       "supportedTypes": [
         "movie",
-        "series",
         "tv"
       ]
     }
