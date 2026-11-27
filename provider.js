@@ -53,8 +53,10 @@ async function searchKkphim(keyword, targetImdbId, targetYear) {
         return [];
     }
 }
+
 async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
     try {
+        const scraperId = (typeof this !== "undefined" && this && this.id) ? String(this.id) : "";
         let rawId = String(tmdbId || "");
         let type = mediaType;
         let epTarget = parseInt(String(episodeNum || "1").replace(/\D/g, ""), 10) || 1;
@@ -115,11 +117,16 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
         const dubStreams = [];
         const subStreams = [];
 
-        for (const server of episodes) {
+        episodes.forEach((server, serverIdx) => {
             const serverName = server.server_name || "Vietsub";
-            const isDub = /thuyết minh|lồng tiếng/i.test(serverName);
-            const serverData = server.server_data || [];
+            const isTM = /thuyết minh|thuyet minh/i.test(serverName);
+            const isLT = /lồng tiếng|long tieng/i.test(serverName);
+            const isDub = isTM || isLT;
 
+            const audioLabel = isTM ? "Thuyết Minh" : (isLT ? "Lồng Tiếng" : "Vietsub");
+            const groupKey = isTM ? `kkphim-tm-${serverIdx}` : (isLT ? `kkphim-lt-${serverIdx}` : `kkphim-vs-${serverIdx}`);
+
+            const serverData = server.server_data || [];
             const targetEp = serverData.find(e => {
                 const label = String(e.name || "").trim().toLowerCase();
                 const cleanNum = parseInt(label.replace(/\D/g, ""), 10);
@@ -130,23 +137,28 @@ async function getStreams(tmdbId, mediaType, seasonNum, episodeNum) {
 
             if (targetEp && targetEp.link_m3u8) {
                 const streamObj = {
-                    name: isDub ? `KKPhim (${serverName})` : "KKPhim Vietsub",
+                    name: `KKPhim - ${audioLabel}`,
                     title: `${movieName} - ${serverName} (${targetEp.name}) [${qualityLabel}]`,
                     url: targetEp.link_m3u8,
-                    quality: qualityLabel,
-                    provider: "KKPhim"
+                    quality: `${qualityLabel} • ${audioLabel}`,
+                    provider: isDub ? "KKPhim Thuyết Minh" : "KKPhim Vietsub",
+                    behaviorHints: {
+                        bingeGroup: groupKey
+                    }
                 };
                 if (isDub) dubStreams.push(streamObj);
                 else subStreams.push(streamObj);
             }
-        }
+        });
+
+        if (scraperId === "kkphim_tm") return dubStreams;
+        if (scraperId === "kkphim_vs") return subStreams;
 
         return [...dubStreams, ...subStreams];
     } catch (err) {
         return [];
     }
 }
-
 async function getCatalog(type, page) {
     try {
         const listType = type || "phim-moi-cap-nhat";
