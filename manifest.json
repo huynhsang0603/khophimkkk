@@ -17,6 +17,8 @@
       "supportedTypes": [
         "movie",
         "tv"
+        "series",
+        "tv"
       ]
     }
   ]
