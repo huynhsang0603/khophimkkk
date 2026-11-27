@@ -1,121 +1,66 @@
 {
   "meta": {
     "id": "kk_tinh-yeu-doc-nhat",
-    "imdb_id": "tt50776122",
     "type": "series",
     "name": "Tình Yêu Độc Nhất (One Of A Kind Romance)",
     "poster": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-    "description": "[Vietsub | Thuyết Minh] Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ hãi vì bị bám đuôi. Khi trở thành quản lý của anh, Yu Il phát hiện cuốn tiểu thuyết mình từng viết chính là ánh sáng đã nâng đỡ Mu I trong những ngày tăm tối. Từ những tổn thương giấu kín, hai trái tim dần tìm thấy nhau, viết nên một tình yêu vừa mong manh, vừa duy nhất.",
+    "description": "Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ hãi vì bị bám đuôi. Khi trở thành quản lý của anh, Yu Il phát hiện cuốn tiểu thuyết mình từng viết chính là ánh sáng đã nâng đỡ Mu I trong những ngày tăm tối. Từ những tổn thương giấu kín, hai trái tim dần tìm thấy nhau, viết nên một tình yêu vừa mong manh, vừa duy nhất.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_tinh-yeu-doc-nhat:1:1",
-        "title": "Tập 01 (Thuyết Minh)",
+        "title": "Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Tình Yêu Độc Nhất - Tập 01. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-21T04:20:53.145Z"
+        "overview": "Tình Yêu Độc Nhất - Tập 01. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
+        "released": "2026-11-21T04:37:57.322Z"
       },
       {
         "id": "kk_tinh-yeu-doc-nhat:1:2",
-        "title": "Tập 02 (Thuyết Minh)",
+        "title": "Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Tình Yêu Độc Nhất - Tập 02. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-22T04:20:53.145Z"
+        "overview": "Tình Yêu Độc Nhất - Tập 02. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
+        "released": "2026-11-22T04:37:57.322Z"
       },
       {
         "id": "kk_tinh-yeu-doc-nhat:1:3",
-        "title": "Tập 03 (Thuyết Minh)",
+        "title": "Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Tình Yêu Độc Nhất - Tập 03. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-23T04:20:53.145Z"
+        "overview": "Tình Yêu Độc Nhất - Tập 03. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
+        "released": "2026-11-23T04:37:57.322Z"
       },
       {
         "id": "kk_tinh-yeu-doc-nhat:1:4",
-        "title": "Tập 04 (Thuyết Minh)",
+        "title": "Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Tình Yêu Độc Nhất - Tập 04. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-24T04:20:53.145Z"
+        "overview": "Tình Yêu Độc Nhất - Tập 04. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
+        "released": "2026-11-24T04:37:57.322Z"
       },
       {
         "id": "kk_tinh-yeu-doc-nhat:1:5",
-        "title": "Tập 05 (Thuyết Minh)",
+        "title": "Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Tình Yêu Độc Nhất - Tập 05. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-25T04:20:53.145Z"
+        "overview": "Tình Yêu Độc Nhất - Tập 05. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
+        "released": "2026-11-25T04:37:57.322Z"
       },
       {
         "id": "kk_tinh-yeu-doc-nhat:1:6",
-        "title": "Tập 06 (Thuyết Minh)",
+        "title": "Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Tình Yêu Độc Nhất - Tập 06. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-26T04:20:53.145Z"
-      },
-      {
-        "id": "kk_tinh-yeu-doc-nhat:2:1",
-        "title": "Tập 01 (Vietsub)",
-        "season": 2,
-        "episode": 1,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Vietsub] Tình Yêu Độc Nhất - Tập 01. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-21T04:20:53.145Z"
-      },
-      {
-        "id": "kk_tinh-yeu-doc-nhat:2:2",
-        "title": "Tập 02 (Vietsub)",
-        "season": 2,
-        "episode": 2,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Vietsub] Tình Yêu Độc Nhất - Tập 02. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-22T04:20:53.145Z"
-      },
-      {
-        "id": "kk_tinh-yeu-doc-nhat:2:3",
-        "title": "Tập 03 (Vietsub)",
-        "season": 2,
-        "episode": 3,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Vietsub] Tình Yêu Độc Nhất - Tập 03. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-23T04:20:53.145Z"
-      },
-      {
-        "id": "kk_tinh-yeu-doc-nhat:2:4",
-        "title": "Tập 04 (Vietsub)",
-        "season": 2,
-        "episode": 4,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Vietsub] Tình Yêu Độc Nhất - Tập 04. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-24T04:20:53.145Z"
-      },
-      {
-        "id": "kk_tinh-yeu-doc-nhat:2:5",
-        "title": "Tập 05 (Vietsub)",
-        "season": 2,
-        "episode": 5,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Vietsub] Tình Yêu Độc Nhất - Tập 05. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-25T04:20:53.145Z"
-      },
-      {
-        "id": "kk_tinh-yeu-doc-nhat:2:6",
-        "title": "Tập 06 (Vietsub)",
-        "season": 2,
-        "episode": 6,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261111/tinh-yeu-doc-nhat-thumb.webp",
-        "overview": "[Vietsub] Tình Yêu Độc Nhất - Tập 06. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
-        "released": "2026-11-26T04:20:53.145Z"
+        "overview": "Tình Yêu Độc Nhất - Tập 06. Giữa cuộc sống chật vật và những giấc mơ dang dở, Gong Yu Il bất ngờ bước vào thế giới của ngôi sao Tak Mu I – người đang sống trong nỗi sợ ",
+        "released": "2026-11-26T04:37:57.322Z"
       }
     ]
   }

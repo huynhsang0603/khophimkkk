@@ -1,481 +1,480 @@
 {
   "meta": {
     "id": "kk_tu-dai-tai-tu",
-    "imdb_id": "tt11472920",
     "type": "series",
     "name": "Tứ Đại Tài Tử (The Legendary Four Aces)",
     "poster": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-    "description": "[Lồng Tiếng] Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khác nhau nhưng tài giỏi, tâm tính lương thiện, chính trực ngay thẳng. Họ là bạn thân vào sinh ra tử, danh tiếng của mỗi người đều gắn liền với tài năng của họ. Sau khi công thành danh toại ở chốn kinh kỳ, bốn người được Ninh Vương nhận làm thuộc hạ. Tuy nhiên, bốn chàng trai như ở trên lưng cọp khi phát hiện người đang lập mưu tạo phản là Ninh Vương. Họ đành giả vờ sống ngông cuồng lêu lỏng, suốt ngày chơi bời ở chốn lầu xanh … Về sau âm mưu của Ninh Vương ngày càng lộ rõ, số phận của bốn chàng tài tử sẽ ra sao? Bộ phim có sự góp mặt dàn diễn viên tên tuổi: Âu Dương Chấn Hoa, Trương Gia Huy, Ngụy Tuấn Kiệt, Lâm Gia Đống ...",
+    "description": "Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khác nhau nhưng tài giỏi, tâm tính lương thiện, chính trực ngay thẳng. Họ là bạn thân vào sinh ra tử, danh tiếng của mỗi người đều gắn liền với tài năng của họ. Sau khi công thành danh toại ở chốn kinh kỳ, bốn người được Ninh Vương nhận làm thuộc hạ. Tuy nhiên, bốn chàng trai như ở trên lưng cọp khi phát hiện người đang lập mưu tạo phản là Ninh Vương. Họ đành giả vờ sống ngông cuồng lêu lỏng, suốt ngày chơi bời ở chốn lầu xanh … Về sau âm mưu của Ninh Vương ngày càng lộ rõ, số phận của bốn chàng tài tử sẽ ra sao? Bộ phim có sự góp mặt dàn diễn viên tên tuổi: Âu Dương Chấn Hoa, Trương Gia Huy, Ngụy Tuấn Kiệt, Lâm Gia Đống ...",
     "releaseInfo": "2000",
     "videos": [
       {
         "id": "kk_tu-dai-tai-tu:1:1",
-        "title": "Tập 01 (Lồng Tiếng)",
+        "title": "Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 01. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-06T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 01. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-06T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:2",
-        "title": "Tập 02 (Lồng Tiếng)",
+        "title": "Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 02. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-07T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 02. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-07T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:3",
-        "title": "Tập 03 (Lồng Tiếng)",
+        "title": "Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 03. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-08T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 03. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-08T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:4",
-        "title": "Tập 04 (Lồng Tiếng)",
+        "title": "Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 04. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-09T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 04. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-09T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:5",
-        "title": "Tập 05 (Lồng Tiếng)",
+        "title": "Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 05. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-10T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 05. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-10T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:6",
-        "title": "Tập 06 (Lồng Tiếng)",
+        "title": "Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 06. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-11T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 06. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-11T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:7",
-        "title": "Tập 07 (Lồng Tiếng)",
+        "title": "Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 07. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-12T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 07. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-12T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:8",
-        "title": "Tập 08 (Lồng Tiếng)",
+        "title": "Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 08. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-13T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 08. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-13T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:9",
-        "title": "Tập 09 (Lồng Tiếng)",
+        "title": "Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 09. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-14T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 09. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-14T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:10",
-        "title": "Tập 10 (Lồng Tiếng)",
+        "title": "Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 10. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-15T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 10. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-15T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:11",
-        "title": "Tập 11 (Lồng Tiếng)",
+        "title": "Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 11. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-16T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 11. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-16T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:12",
-        "title": "Tập 12 (Lồng Tiếng)",
+        "title": "Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 12. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-17T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 12. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-17T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:13",
-        "title": "Tập 13 (Lồng Tiếng)",
+        "title": "Tập 13",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 13. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-18T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 13. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-18T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:14",
-        "title": "Tập 14 (Lồng Tiếng)",
+        "title": "Tập 14",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 14. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-19T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 14. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-19T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:15",
-        "title": "Tập 15 (Lồng Tiếng)",
+        "title": "Tập 15",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 15. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-20T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 15. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-20T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:16",
-        "title": "Tập 16 (Lồng Tiếng)",
+        "title": "Tập 16",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 16. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-21T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 16. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-21T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:17",
-        "title": "Tập 17 (Lồng Tiếng)",
+        "title": "Tập 17",
         "season": 1,
         "episode": 17,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 17. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-22T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 17. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-22T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:18",
-        "title": "Tập 18 (Lồng Tiếng)",
+        "title": "Tập 18",
         "season": 1,
         "episode": 18,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 18. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-23T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 18. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-23T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:19",
-        "title": "Tập 19 (Lồng Tiếng)",
+        "title": "Tập 19",
         "season": 1,
         "episode": 19,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 19. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-24T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 19. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-24T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:20",
-        "title": "Tập 20 (Lồng Tiếng)",
+        "title": "Tập 20",
         "season": 1,
         "episode": 20,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 20. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-25T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 20. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-25T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:21",
-        "title": "Tập 21 (Lồng Tiếng)",
+        "title": "Tập 21",
         "season": 1,
         "episode": 21,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 21. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-26T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 21. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-26T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:22",
-        "title": "Tập 22 (Lồng Tiếng)",
+        "title": "Tập 22",
         "season": 1,
         "episode": 22,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 22. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-27T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 22. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-27T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:23",
-        "title": "Tập 23 (Lồng Tiếng)",
+        "title": "Tập 23",
         "season": 1,
         "episode": 23,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 23. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-28T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 23. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-28T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:24",
-        "title": "Tập 24 (Lồng Tiếng)",
+        "title": "Tập 24",
         "season": 1,
         "episode": 24,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 24. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-29T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 24. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-29T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:25",
-        "title": "Tập 25 (Lồng Tiếng)",
+        "title": "Tập 25",
         "season": 1,
         "episode": 25,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 25. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-30T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 25. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-30T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:26",
-        "title": "Tập 26 (Lồng Tiếng)",
+        "title": "Tập 26",
         "season": 1,
         "episode": 26,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 26. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-10-31T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 26. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-10-31T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:27",
-        "title": "Tập 27 (Lồng Tiếng)",
+        "title": "Tập 27",
         "season": 1,
         "episode": 27,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 27. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-01T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 27. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-01T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:28",
-        "title": "Tập 28 (Lồng Tiếng)",
+        "title": "Tập 28",
         "season": 1,
         "episode": 28,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 28. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-02T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 28. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-02T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:29",
-        "title": "Tập 29 (Lồng Tiếng)",
+        "title": "Tập 29",
         "season": 1,
         "episode": 29,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 29. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-03T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 29. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-03T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:30",
-        "title": "Tập 30 (Lồng Tiếng)",
+        "title": "Tập 30",
         "season": 1,
         "episode": 30,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 30. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-04T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 30. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-04T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:31",
-        "title": "Tập 31 (Lồng Tiếng)",
+        "title": "Tập 31",
         "season": 1,
         "episode": 31,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 31. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-05T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 31. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-05T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:32",
-        "title": "Tập 32 (Lồng Tiếng)",
+        "title": "Tập 32",
         "season": 1,
         "episode": 32,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 32. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-06T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 32. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-06T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:33",
-        "title": "Tập 33 (Lồng Tiếng)",
+        "title": "Tập 33",
         "season": 1,
         "episode": 33,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 33. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-07T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 33. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-07T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:34",
-        "title": "Tập 34 (Lồng Tiếng)",
+        "title": "Tập 34",
         "season": 1,
         "episode": 34,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 34. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-08T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 34. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-08T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:35",
-        "title": "Tập 35 (Lồng Tiếng)",
+        "title": "Tập 35",
         "season": 1,
         "episode": 35,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 35. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-09T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 35. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-09T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:36",
-        "title": "Tập 36 (Lồng Tiếng)",
+        "title": "Tập 36",
         "season": 1,
         "episode": 36,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 36. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-10T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 36. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-10T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:37",
-        "title": "Tập 37 (Lồng Tiếng)",
+        "title": "Tập 37",
         "season": 1,
         "episode": 37,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 37. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-11T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 37. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-11T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:38",
-        "title": "Tập 38 (Lồng Tiếng)",
+        "title": "Tập 38",
         "season": 1,
         "episode": 38,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 38. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-12T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 38. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-12T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:39",
-        "title": "Tập 39 (Lồng Tiếng)",
+        "title": "Tập 39",
         "season": 1,
         "episode": 39,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 39. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-13T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 39. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-13T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:40",
-        "title": "Tập 40 (Lồng Tiếng)",
+        "title": "Tập 40",
         "season": 1,
         "episode": 40,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 40. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-14T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 40. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-14T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:41",
-        "title": "Tập 41 (Lồng Tiếng)",
+        "title": "Tập 41",
         "season": 1,
         "episode": 41,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 41. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-15T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 41. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-15T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:42",
-        "title": "Tập 42 (Lồng Tiếng)",
+        "title": "Tập 42",
         "season": 1,
         "episode": 42,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 42. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-16T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 42. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-16T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:43",
-        "title": "Tập 43 (Lồng Tiếng)",
+        "title": "Tập 43",
         "season": 1,
         "episode": 43,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 43. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-17T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 43. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-17T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:44",
-        "title": "Tập 44 (Lồng Tiếng)",
+        "title": "Tập 44",
         "season": 1,
         "episode": 44,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 44. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-18T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 44. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-18T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:45",
-        "title": "Tập 45 (Lồng Tiếng)",
+        "title": "Tập 45",
         "season": 1,
         "episode": 45,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 45. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-19T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 45. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-19T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:46",
-        "title": "Tập 46 (Lồng Tiếng)",
+        "title": "Tập 46",
         "season": 1,
         "episode": 46,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 46. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-20T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 46. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-20T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:47",
-        "title": "Tập 47 (Lồng Tiếng)",
+        "title": "Tập 47",
         "season": 1,
         "episode": 47,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 47. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-21T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 47. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-21T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:48",
-        "title": "Tập 48 (Lồng Tiếng)",
+        "title": "Tập 48",
         "season": 1,
         "episode": 48,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 48. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-22T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 48. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-22T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:49",
-        "title": "Tập 49 (Lồng Tiếng)",
+        "title": "Tập 49",
         "season": 1,
         "episode": 49,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 49. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-23T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 49. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-23T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:50",
-        "title": "Tập 50 (Lồng Tiếng)",
+        "title": "Tập 50",
         "season": 1,
         "episode": 50,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 50. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-24T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 50. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-24T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:51",
-        "title": "Tập 51 (Lồng Tiếng)",
+        "title": "Tập 51",
         "season": 1,
         "episode": 51,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 51. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-25T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 51. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-25T04:37:46.949Z"
       },
       {
         "id": "kk_tu-dai-tai-tu:1:52",
-        "title": "Tập 52 (Lồng Tiếng)",
+        "title": "Tập 52",
         "season": 1,
         "episode": 52,
         "thumbnail": "https://phimimg.com/uploads/movies/20260825/tu-dai-tai-tu-thumb.webp",
-        "overview": "[Lồng Tiếng] Tứ Đại Tài Tử - Tập 52. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
-        "released": "2026-11-26T04:20:43.341Z"
+        "overview": "Tứ Đại Tài Tử - Tập 52. Chuyện phim xoay quanh bốn chàng hiền sĩ gồm Đường Bá Hổ, Chúc Chi Sơn, Văn Trương Minh và Châu Văn Tân. Bốn chàng trai là bốn tính cách khá",
+        "released": "2026-11-26T04:37:46.949Z"
       }
     ]
   }

@@ -1,157 +1,84 @@
 {
   "meta": {
     "id": "kk_sieu-trom-lupin-phan-4",
-    "imdb_id": "tt2531336",
     "type": "series",
     "name": "Siêu Trộm Lupin (Phần 4) (Lupin (Season 4))",
     "poster": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-    "description": "[Vietsub | Lồng Tiếng] Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công lý cho cha.",
+    "description": "Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công lý cho cha.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:1",
-        "title": "Tập 01 (Lồng Tiếng)",
+        "title": "Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 01. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-19T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 01. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-19T04:38:05.420Z"
       },
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:2",
-        "title": "Tập 02 (Lồng Tiếng)",
+        "title": "Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 02. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-20T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 02. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-20T04:38:05.420Z"
       },
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:3",
-        "title": "Tập 03 (Lồng Tiếng)",
+        "title": "Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 03. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-21T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 03. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-21T04:38:05.420Z"
       },
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:4",
-        "title": "Tập 04 (Lồng Tiếng)",
+        "title": "Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 04. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-22T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 04. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-22T04:38:05.420Z"
       },
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:5",
-        "title": "Tập 05 (Lồng Tiếng)",
+        "title": "Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 05. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-23T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 05. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-23T04:38:05.420Z"
       },
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:6",
-        "title": "Tập 06 (Lồng Tiếng)",
+        "title": "Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 06. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-24T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 06. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-24T04:38:05.420Z"
       },
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:7",
-        "title": "Tập 07 (Lồng Tiếng)",
+        "title": "Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 07. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-25T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 07. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-25T04:38:05.420Z"
       },
       {
         "id": "kk_sieu-trom-lupin-phan-4:1:8",
-        "title": "Tập 08 (Lồng Tiếng)",
+        "title": "Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Lồng Tiếng] Siêu Trộm Lupin (Phần 4) - Tập 08. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-26T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:1",
-        "title": "Tập 01 (Vietsub)",
-        "season": 2,
-        "episode": 1,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 01. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-19T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:2",
-        "title": "Tập 02 (Vietsub)",
-        "season": 2,
-        "episode": 2,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 02. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-20T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:3",
-        "title": "Tập 03 (Vietsub)",
-        "season": 2,
-        "episode": 3,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 03. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-21T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:4",
-        "title": "Tập 04 (Vietsub)",
-        "season": 2,
-        "episode": 4,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 04. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-22T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:5",
-        "title": "Tập 05 (Vietsub)",
-        "season": 2,
-        "episode": 5,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 05. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-23T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:6",
-        "title": "Tập 06 (Vietsub)",
-        "season": 2,
-        "episode": 6,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 06. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-24T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:7",
-        "title": "Tập 07 (Vietsub)",
-        "season": 2,
-        "episode": 7,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 07. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-25T04:21:00.695Z"
-      },
-      {
-        "id": "kk_sieu-trom-lupin-phan-4:2:8",
-        "title": "Tập 08 (Vietsub)",
-        "season": 2,
-        "episode": 8,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261024/lupin-phan-4-thumb.webp",
-        "overview": "[Vietsub] Siêu Trộm Lupin (Phần 4) - Tập 08. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
-        "released": "2026-11-26T04:21:00.695Z"
+        "overview": "Siêu Trộm Lupin (Phần 4) - Tập 08. Lấy cảm hứng từ những cuộc phiêu lưu của Arsène Lupin, tên trộm lịch lãm Assane Diop tiến hành trả thù một gia đình giàu có để đòi lại công ",
+        "released": "2026-11-26T04:38:05.420Z"
       }
     ]
   }

@@ -1,17 +1,17 @@
 {
   "id": "com.huynhsang0603.kkphim",
   "name": "KKPhim Việt Nam",
-  "version": "1.4.0",
-  "description": "KKPhim tách riêng Thuyết Minh (Phần 1) & Vietsub (Phần 2) kèm Poster từng tập",
+  "version": "1.5.0",
+  "description": "KKPhim Tiếng Việt chuẩn mặc định - Tự động phát Thuyết Minh liên tục",
   "author": "huynhsang0603",
   "homepage": "https://github.com",
   "repository": "https://github.com",
   "scrapers": [
     {
       "id": "kkphim_vn",
-      "name": "KKPhim (Thuyết Minh & Vietsub)",
-      "description": "Phân tách riêng Thuyết Minh / Vietsub, tự động chuyển tập 5s",
-      "version": "1.4.0",
+      "name": "KKPhim (Ưu tiên Thuyết Minh)",
+      "description": "Giao diện tiếng Việt, tự động chọn Thuyết Minh khi chuyển tập",
+      "version": "1.5.0",
       "type": "all",
       "filename": "provider.js",
       "supportedTypes": [

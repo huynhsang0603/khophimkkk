@@ -1,301 +1,156 @@
 {
   "meta": {
     "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi",
-    "imdb_id": "tt13669128",
     "type": "series",
     "name": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi (Doom At Your Service)",
     "poster": "https://phimimg.com/uploads/movies/20261031/mot-ngay-no-ke-huy-diet-go-cua-nha-toi-poster.webp",
     "background": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-    "description": "[Vietsub | Thuyết Minh] Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã làm việc rất chăm chỉ, mong cuộc sống của mình sẽ tốt lên qua từng ngày. Công việc biên tập tiểu thuyết web trong 6 năm dần đi vào ổn định, thì cô bị chẩn đoán mắc bệnh ung thư não. Cô đổ lỗi cho cuộc sống kém may mắn của mình và mong muốn mọi thứ biến mất, công bằng với mình hơn. Đúng lúc này, Myeol Mang xuất hiện, anh là sứ giả giữa con người và các vị thần. Anh có thể ban cho cô ấy những điều ước, giống như điều ước cuối cùng của Dong Kyung. Lúc này, cô chỉ cần 100 ngày để sống theo cách của mình, mạo hiểm với tất cả mọi thứ.",
+    "description": "Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã làm việc rất chăm chỉ, mong cuộc sống của mình sẽ tốt lên qua từng ngày. Công việc biên tập tiểu thuyết web trong 6 năm dần đi vào ổn định, thì cô bị chẩn đoán mắc bệnh ung thư não. Cô đổ lỗi cho cuộc sống kém may mắn của mình và mong muốn mọi thứ biến mất, công bằng với mình hơn. Đúng lúc này, Myeol Mang xuất hiện, anh là sứ giả giữa con người và các vị thần. Anh có thể ban cho cô ấy những điều ước, giống như điều ước cuối cùng của Dong Kyung. Lúc này, cô chỉ cần 100 ngày để sống theo cách của mình, mạo hiểm với tất cả mọi thứ.",
     "releaseInfo": "2021",
     "videos": [
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:1",
-        "title": "Tập 01 (Thuyết Minh)",
+        "title": "Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 01. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-11T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 01. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-11T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:2",
-        "title": "Tập 02 (Thuyết Minh)",
+        "title": "Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 02. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-12T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 02. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-12T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:3",
-        "title": "Tập 03 (Thuyết Minh)",
+        "title": "Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 03. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-13T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 03. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-13T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:4",
-        "title": "Tập 04 (Thuyết Minh)",
+        "title": "Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 04. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-14T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 04. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-14T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:5",
-        "title": "Tập 05 (Thuyết Minh)",
+        "title": "Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 05. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-15T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 05. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-15T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:6",
-        "title": "Tập 06 (Thuyết Minh)",
+        "title": "Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 06. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-16T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 06. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-16T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:7",
-        "title": "Tập 07 (Thuyết Minh)",
+        "title": "Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 07. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-17T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 07. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-17T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:8",
-        "title": "Tập 08 (Thuyết Minh)",
+        "title": "Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 08. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-18T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 08. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-18T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:9",
-        "title": "Tập 09 (Thuyết Minh)",
+        "title": "Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 09. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-19T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 09. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-19T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:10",
-        "title": "Tập 10 (Thuyết Minh)",
+        "title": "Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 10. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-20T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 10. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-20T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:11",
-        "title": "Tập 11 (Thuyết Minh)",
+        "title": "Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 11. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-21T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 11. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-21T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:12",
-        "title": "Tập 12 (Thuyết Minh)",
+        "title": "Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 12. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-22T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 12. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-22T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:13",
-        "title": "Tập 13 (Thuyết Minh)",
+        "title": "Tập 13",
         "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 13. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-23T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 13. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-23T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:14",
-        "title": "Tập 14 (Thuyết Minh)",
+        "title": "Tập 14",
         "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 14. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-24T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 14. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-24T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:15",
-        "title": "Tập 15 (Thuyết Minh)",
+        "title": "Tập 15",
         "season": 1,
         "episode": 15,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 15. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-25T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 15. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-25T04:38:01.947Z"
       },
       {
         "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:1:16",
-        "title": "Tập 16 (Thuyết Minh)",
+        "title": "Tập 16",
         "season": 1,
         "episode": 16,
         "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Thuyết Minh] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 16. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-26T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:1",
-        "title": "Tập 01 (Vietsub)",
-        "season": 2,
-        "episode": 1,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 01. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-11T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:2",
-        "title": "Tập 02 (Vietsub)",
-        "season": 2,
-        "episode": 2,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 02. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-12T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:3",
-        "title": "Tập 03 (Vietsub)",
-        "season": 2,
-        "episode": 3,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 03. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-13T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:4",
-        "title": "Tập 04 (Vietsub)",
-        "season": 2,
-        "episode": 4,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 04. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-14T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:5",
-        "title": "Tập 05 (Vietsub)",
-        "season": 2,
-        "episode": 5,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 05. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-15T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:6",
-        "title": "Tập 06 (Vietsub)",
-        "season": 2,
-        "episode": 6,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 06. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-16T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:7",
-        "title": "Tập 07 (Vietsub)",
-        "season": 2,
-        "episode": 7,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 07. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-17T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:8",
-        "title": "Tập 08 (Vietsub)",
-        "season": 2,
-        "episode": 8,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 08. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-18T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:9",
-        "title": "Tập 09 (Vietsub)",
-        "season": 2,
-        "episode": 9,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 09. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-19T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:10",
-        "title": "Tập 10 (Vietsub)",
-        "season": 2,
-        "episode": 10,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 10. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-20T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:11",
-        "title": "Tập 11 (Vietsub)",
-        "season": 2,
-        "episode": 11,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 11. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-21T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:12",
-        "title": "Tập 12 (Vietsub)",
-        "season": 2,
-        "episode": 12,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 12. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-22T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:13",
-        "title": "Tập 13 (Vietsub)",
-        "season": 2,
-        "episode": 13,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 13. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-23T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:14",
-        "title": "Tập 14 (Vietsub)",
-        "season": 2,
-        "episode": 14,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 14. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-24T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:15",
-        "title": "Tập 15 (Vietsub)",
-        "season": 2,
-        "episode": 15,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 15. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-25T04:20:57.269Z"
-      },
-      {
-        "id": "kk_mot-ngay-no-ke-huy-diet-go-cua-nha-toi:2:16",
-        "title": "Tập 16 (Vietsub)",
-        "season": 2,
-        "episode": 16,
-        "thumbnail": "https://phimimg.com/upload/vod/20241015-1/ab7837d2df24cba3c0a8cd23476e4206.jpg",
-        "overview": "[Vietsub] Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 16. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
-        "released": "2026-11-26T04:20:57.269Z"
+        "overview": "Một Ngày Nọ Kẻ Huỷ Diệt Gõ Cửa Nhà Tôi - Tập 16. Một Ngày Nọ Kẻ Hủy Diệt Gõ Cửa Nhà Tôi xoay quanh nhân vật Tak Dong Kyung, một cô gái mạnh mẽ và lương thiện. Sau khi bố mẹ qua đời, cô đã l",
+        "released": "2026-11-26T04:38:01.947Z"
       }
     ]
   }

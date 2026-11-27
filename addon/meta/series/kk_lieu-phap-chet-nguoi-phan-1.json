@@ -1,157 +1,84 @@
 {
   "meta": {
     "id": "kk_lieu-phap-chet-nguoi-phan-1",
-    "imdb_id": "tt20234568",
     "type": "series",
     "name": "Liệu Pháp Chết Người (Phần 1) (Klueng (Season 1))",
     "poster": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-    "description": "[Vietsub | Thuyết Minh] Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày.",
+    "description": "Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi Kat vô tình quay được cảnh ông trùm Tongyang giết người, cả gia đình cô rơi vào cảnh nhà tan cửa nát. Được cứu sống nhờ sự hy sinh cuối cùng của mẹ, Kat biến mất khỏi thế giới và trở lại với thân phận mới là Hatta. Mang trong mình mối hận khôn nguôi, Hatta dùng Liệu Pháp Chết Người để làm vũ khí trả thù, âm thầm chờ đến ngày sự thật được phơi bày.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:1",
-        "title": "Tập 01 (Thuyết Minh)",
+        "title": "Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 01. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-19T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 01. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-19T04:38:02.198Z"
       },
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:2",
-        "title": "Tập 02 (Thuyết Minh)",
+        "title": "Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 02. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-20T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 02. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-20T04:38:02.198Z"
       },
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:3",
-        "title": "Tập 03 (Thuyết Minh)",
+        "title": "Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 03. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-21T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 03. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-21T04:38:02.198Z"
       },
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:4",
-        "title": "Tập 04 (Thuyết Minh)",
+        "title": "Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 04. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-22T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 04. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-22T04:38:02.198Z"
       },
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:5",
-        "title": "Tập 05 (Thuyết Minh)",
+        "title": "Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 05. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-23T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 05. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-23T04:38:02.198Z"
       },
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:6",
-        "title": "Tập 06 (Thuyết Minh)",
+        "title": "Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 06. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-24T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 06. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-24T04:38:02.198Z"
       },
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:7",
-        "title": "Tập 07 (Thuyết Minh)",
+        "title": "Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 07. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-25T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 07. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-25T04:38:02.198Z"
       },
       {
         "id": "kk_lieu-phap-chet-nguoi-phan-1:1:8",
-        "title": "Tập 08 (Thuyết Minh)",
+        "title": "Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Thuyết Minh] Liệu Pháp Chết Người (Phần 1) - Tập 08. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-26T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:1",
-        "title": "Tập 01 (Vietsub)",
-        "season": 2,
-        "episode": 1,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 01. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-19T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:2",
-        "title": "Tập 02 (Vietsub)",
-        "season": 2,
-        "episode": 2,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 02. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-20T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:3",
-        "title": "Tập 03 (Vietsub)",
-        "season": 2,
-        "episode": 3,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 03. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-21T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:4",
-        "title": "Tập 04 (Vietsub)",
-        "season": 2,
-        "episode": 4,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 04. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-22T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:5",
-        "title": "Tập 05 (Vietsub)",
-        "season": 2,
-        "episode": 5,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 05. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-23T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:6",
-        "title": "Tập 06 (Vietsub)",
-        "season": 2,
-        "episode": 6,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 06. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-24T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:7",
-        "title": "Tập 07 (Vietsub)",
-        "season": 2,
-        "episode": 7,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 07. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-25T04:20:57.571Z"
-      },
-      {
-        "id": "kk_lieu-phap-chet-nguoi-phan-1:2:8",
-        "title": "Tập 08 (Vietsub)",
-        "season": 2,
-        "episode": 8,
-        "thumbnail": "https://phimimg.com/uploads/movies/20260929/lieu-phap-chet-nguoi-thumb.webp",
-        "overview": "[Vietsub] Liệu Pháp Chết Người (Phần 1) - Tập 08. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
-        "released": "2026-11-26T04:20:57.571Z"
+        "overview": "Liệu Pháp Chết Người (Phần 1) - Tập 08. Sinh ra trong một gia đình có truyền thống chữa bệnh bằng massage Thái, Kat thành thạo nghệ thuật trị liệu cổ truyền từ khi còn nhỏ. Sau khi",
+        "released": "2026-11-26T04:38:02.198Z"
       }
     ]
   }

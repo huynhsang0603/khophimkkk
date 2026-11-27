@@ -1,247 +1,138 @@
 {
   "meta": {
     "id": "kk_luong-kinh-thap-ngu-nhat",
-    "imdb_id": "tt38734657",
     "type": "series",
     "name": "Lưỡng Kinh Thập Ngũ Nhật (River Of No Return)",
     "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-    "description": "[Vietsub | Thuyết Minh] Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
+    "description": "Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lăm ngày để ổn định triều cục. Hộ tống thái tử là viên bổ đầu chợ búa mang nỗi hận với hoàng tộc Ngô Định Duyên, nữ y Tô Kinh Khê vẻ ngoài dịu dàng nhưng ấp ủ một kế hoạch báo thù táo bạo và tiểu quan Vu Khiêm chính trực, một lòng hướng đến muôn dân. Lưỡng Kinh Thập Ngũ Nhật theo chân bốn người trong hành trình vượt qua nhiều hiểm cảnh sinh tử để hồi kinh giữa vòng vây của những âm mưu tranh quyền đoạt vị và những ân oán phức tạp đã kéo dài hàng chục năm.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:1",
-        "title": "Tập 01 (Thuyết Minh)",
+        "title": "Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 01. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-15T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 01. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-13T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:2",
-        "title": "Tập 02 (Thuyết Minh)",
+        "title": "Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 02. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-16T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 02. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-14T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:3",
-        "title": "Tập 03 (Thuyết Minh)",
+        "title": "Tập 03",
         "season": 1,
         "episode": 3,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 03. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-17T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 03. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-15T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:4",
-        "title": "Tập 04 (Thuyết Minh)",
+        "title": "Tập 04",
         "season": 1,
         "episode": 4,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 04. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-18T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 04. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-16T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:5",
-        "title": "Tập 05 (Thuyết Minh)",
+        "title": "Tập 05",
         "season": 1,
         "episode": 5,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 05. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-19T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 05. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-17T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:6",
-        "title": "Tập 06 (Thuyết Minh)",
+        "title": "Tập 06",
         "season": 1,
         "episode": 6,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 06. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-20T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 06. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-18T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:7",
-        "title": "Tập 07 (Thuyết Minh)",
+        "title": "Tập 07",
         "season": 1,
         "episode": 7,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 07. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-21T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 07. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-19T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:8",
-        "title": "Tập 08 (Thuyết Minh)",
+        "title": "Tập 08",
         "season": 1,
         "episode": 8,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 08. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-22T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 08. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-20T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:9",
-        "title": "Tập 09 (Thuyết Minh)",
+        "title": "Tập 09",
         "season": 1,
         "episode": 9,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 09. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-23T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 09. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-21T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:10",
-        "title": "Tập 10 (Thuyết Minh)",
+        "title": "Tập 10",
         "season": 1,
         "episode": 10,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 10. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-24T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 10. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-22T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:11",
-        "title": "Tập 11 (Thuyết Minh)",
+        "title": "Tập 11",
         "season": 1,
         "episode": 11,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 11. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-25T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 11. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-23T04:37:51.037Z"
       },
       {
         "id": "kk_luong-kinh-thap-ngu-nhat:1:12",
-        "title": "Tập 12 (Thuyết Minh)",
+        "title": "Tập 12",
         "season": 1,
         "episode": 12,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Thuyết Minh] Lưỡng Kinh Thập Ngũ Nhật - Tập 12. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-26T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 12. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-24T04:37:51.037Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:1",
-        "title": "Tập 01 (Vietsub)",
-        "season": 2,
-        "episode": 1,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 01. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-13T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:2",
-        "title": "Tập 02 (Vietsub)",
-        "season": 2,
-        "episode": 2,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 02. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-14T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:3",
-        "title": "Tập 03 (Vietsub)",
-        "season": 2,
-        "episode": 3,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 03. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-15T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:4",
-        "title": "Tập 04 (Vietsub)",
-        "season": 2,
-        "episode": 4,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 04. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-16T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:5",
-        "title": "Tập 05 (Vietsub)",
-        "season": 2,
-        "episode": 5,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 05. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-17T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:6",
-        "title": "Tập 06 (Vietsub)",
-        "season": 2,
-        "episode": 6,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 06. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-18T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:7",
-        "title": "Tập 07 (Vietsub)",
-        "season": 2,
-        "episode": 7,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 07. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-19T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:8",
-        "title": "Tập 08 (Vietsub)",
-        "season": 2,
-        "episode": 8,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 08. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-20T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:9",
-        "title": "Tập 09 (Vietsub)",
-        "season": 2,
-        "episode": 9,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 09. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-21T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:10",
-        "title": "Tập 10 (Vietsub)",
-        "season": 2,
-        "episode": 10,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 10. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-22T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:11",
-        "title": "Tập 11 (Vietsub)",
-        "season": 2,
-        "episode": 11,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 11. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-23T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:12",
-        "title": "Tập 12 (Vietsub)",
-        "season": 2,
-        "episode": 12,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 12. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-24T04:20:46.949Z"
-      },
-      {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:13",
-        "title": "Tập 13 (Vietsub)",
-        "season": 2,
+        "id": "kk_luong-kinh-thap-ngu-nhat:1:13",
+        "title": "Tập 13",
+        "season": 1,
         "episode": 13,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 13. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-25T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 13. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-25T04:37:51.037Z"
       },
       {
-        "id": "kk_luong-kinh-thap-ngu-nhat:2:14",
-        "title": "Tập 14 (Vietsub)",
-        "season": 2,
+        "id": "kk_luong-kinh-thap-ngu-nhat:1:14",
+        "title": "Tập 14",
+        "season": 1,
         "episode": 14,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-        "overview": "[Vietsub] Lưỡng Kinh Thập Ngũ Nhật - Tập 14. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
-        "released": "2026-11-26T04:20:46.949Z"
+        "overview": "Lưỡng Kinh Thập Ngũ Nhật - Tập 14. Sau khi bị phục kích ở Nam Kinh, Thái tử Chu Chiêm Cơ nhận được mật lệnh phải quay về Bắc Kinh theo đường sông Đại Vận Hà trong vòng mười lă",
+        "released": "2026-11-26T04:37:51.037Z"
       }
     ]
   }

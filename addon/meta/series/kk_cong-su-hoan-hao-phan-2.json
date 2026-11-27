@@ -1,49 +1,30 @@
 {
   "meta": {
     "id": "kk_cong-su-hoan-hao-phan-2",
-    "imdb_id": "tt32840498",
     "type": "series",
     "name": "Cộng Sự Hoàn Hảo (Phần 2) (Good Partner (Season 2))",
     "poster": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-poster.webp",
     "background": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-thumb.webp",
-    "description": "[Vietsub | Thuyết Minh] Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty luật cũ và thành lập văn phòng riêng, Cha Eun Kyung hợp tác cùng cộng sự Kang Hye Sung, một luật sư trẻ đầy nhiệt huyết và quyết tâm. Dù khác biệt về tính cách và quan điểm nghề nghiệp, cả hai dần học cách phối hợp để giải quyết những vụ ly hôn phức tạp, đồng thời đối mặt với sự cạnh tranh gay gắt từ đối thủ.",
+    "description": "Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty luật cũ và thành lập văn phòng riêng, Cha Eun Kyung hợp tác cùng cộng sự Kang Hye Sung, một luật sư trẻ đầy nhiệt huyết và quyết tâm. Dù khác biệt về tính cách và quan điểm nghề nghiệp, cả hai dần học cách phối hợp để giải quyết những vụ ly hôn phức tạp, đồng thời đối mặt với sự cạnh tranh gay gắt từ đối thủ.",
     "releaseInfo": "2026",
     "videos": [
       {
         "id": "kk_cong-su-hoan-hao-phan-2:1:1",
-        "title": "Tập 01 (Thuyết Minh)",
+        "title": "Tập 01",
         "season": 1,
         "episode": 1,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-thumb.webp",
-        "overview": "[Thuyết Minh] Cộng Sự Hoàn Hảo (Phần 2) - Tập 01. Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty ",
-        "released": "2026-11-25T04:20:53.624Z"
+        "overview": "Cộng Sự Hoàn Hảo (Phần 2) - Tập 01. Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty ",
+        "released": "2026-11-25T04:37:57.836Z"
       },
       {
         "id": "kk_cong-su-hoan-hao-phan-2:1:2",
-        "title": "Tập 02 (Thuyết Minh)",
+        "title": "Tập 02",
         "season": 1,
         "episode": 2,
         "thumbnail": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-thumb.webp",
-        "overview": "[Thuyết Minh] Cộng Sự Hoàn Hảo (Phần 2) - Tập 02. Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty ",
-        "released": "2026-11-26T04:20:53.624Z"
-      },
-      {
-        "id": "kk_cong-su-hoan-hao-phan-2:2:1",
-        "title": "Tập 01 (Vietsub)",
-        "season": 2,
-        "episode": 1,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-thumb.webp",
-        "overview": "[Vietsub] Cộng Sự Hoàn Hảo (Phần 2) - Tập 01. Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty ",
-        "released": "2026-11-25T04:20:53.624Z"
-      },
-      {
-        "id": "kk_cong-su-hoan-hao-phan-2:2:2",
-        "title": "Tập 02 (Vietsub)",
-        "season": 2,
-        "episode": 2,
-        "thumbnail": "https://phimimg.com/uploads/movies/20261121/cong-su-hoan-hao-phan-2-thumb.webp",
-        "overview": "[Vietsub] Cộng Sự Hoàn Hảo (Phần 2) - Tập 02. Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty ",
-        "released": "2026-11-26T04:20:53.624Z"
+        "overview": "Cộng Sự Hoàn Hảo (Phần 2) - Tập 02. Bộ phim tiếp tục khai thác chủ đề pháp lý và các vụ án ly hôn trong hành trình mới của nữ luật sư tài ba Cha Eun Kyung. Sau khi rời công ty ",
+        "released": "2026-11-26T04:37:57.836Z"
       }
     ]
   }
