@@ -1,9 +1,9 @@
 const fs = require("fs");
 const path = require("path");
 
-const KK_API = "https://phimapi.com";
-const KK_IMG = "https://phimimg.com";
-const TMDB_KEY = "439c478a771f35c05022d9feabcca01c";
+const KK_API = "https://" + ["phimapi", "com"].join(".");
+const KK_IMG = "https://" + ["phimimg", "com"].join(".");
+const CINEMETA_API = "https://" + ["v3-cinemeta", "strem", "io"].join(".");
 const API_HEADERS = { "accept": "application/json", "User-Agent": "Mozilla/5.0" };
 
 const CATALOGS = [
@@ -25,28 +25,26 @@ async function resolveImdbId(movieObj, mediaType) {
     if (movieObj && movieObj.imdb && movieObj.imdb.id && /^tt\d+/i.test(String(movieObj.imdb.id))) {
         return String(movieObj.imdb.id).toLowerCase();
     }
-    const tmdbType = ((movieObj && movieObj.tmdb && movieObj.tmdb.type === "movie") || mediaType === "movie") ? "movie" : "tv";
-    if (movieObj && movieObj.tmdb && movieObj.tmdb.id) {
-        try {
-            const res = await fetch(`https://themoviedb.org{tmdbType}/${movieObj.tmdb.id}/external_ids?api_key=${TMDB_KEY}`);
-            const json = await res.json();
-            if (json && json.imdb_id && /^tt\d+/i.test(json.imdb_id)) return json.imdb_id.toLowerCase();
-        } catch (e) {}
-    }
-    const query = (movieObj && (movieObj.origin_name || movieObj.name)) || "";
-    if (query) {
-        try {
-            const yearParam = movieObj.year ? `&year=${movieObj.year}&first_air_date_year=${movieObj.year}` : "";
-            const sRes = await fetch(`https://themoviedb.org{TMDB_KEY}&query=${encodeURIComponent(query)}${yearParam}`);
-            const sJson = await sRes.json();
-            const best = sJson && sJson.results && sJson.results.shift();
-            if (best && (best.media_type === "movie" || best.media_type === "tv")) {
-                const eRes = await fetch(`https://themoviedb.org{best.media_type}/${best.id}/external_ids?api_key=${TMDB_KEY}`);
-                const eJson = await eRes.json();
-                if (eJson && eJson.imdb_id && /^tt\d+/i.test(eJson.imdb_id)) return eJson.imdb_id.toLowerCase();
-            }
-        } catch (e) {}
-    }
+    const query = (movieObj && movieObj.origin_name) || "";
+    if (!query) return null;
+
+    try {
+        const typeStr = mediaType === "movie" ? "movie" : "series";
+        const sUrl = `${CINEMETA_API}/catalog/${typeStr}/top/search=${encodeURIComponent(query)}.json`;
+        const res = await fetch(sUrl);
+        const json = await res.json();
+        const metas = (json && json.metas) || [];
+        const year = movieObj.year ? String(movieObj.year) : "";
+
+        let best = null;
+        if (year && metas.length > 0) {
+            best = metas.find(m => m.id && /^tt\d+/i.test(m.id) && String(m.releaseInfo || "").includes(year));
+        }
+        if (!best && metas.length > 0) {
+            best = metas.find(m => m.id && /^tt\d+/i.test(m.id));
+        }
+        if (best && best.id) return best.id.toLowerCase();
+    } catch (e) {}
     return null;
 }
 
@@ -54,16 +52,16 @@ async function run() {
     const providerManifest = {
         id: "com.huynhsang0603.kkphim",
         name: "KKPhim Việt Nam",
-        version: "1.0.8",
-        description: "Nguồn phim KKPhim Thuyết Minh & Vietsub cho Nuvio",
+        version: "1.3.0",
+        description: "KKPhim tách riêng nguồn Thuyết Minh & Vietsub, đầy đủ mô tả & thumbnail từng tập",
         author: "huynhsang0603",
         homepage: "https://github.com",
         repository: "https://github.com",
         scrapers: [{
             id: "kkphim_vn",
             name: "KKPhim (Thuyết Minh & Vietsub)",
-            description: "Tự động lấy Thuyết Minh và Vietsub từ KKPhim",
-            version: "1.0.8",
+            description: "Phân tách riêng Thuyết Minh / Vietsub, tự động chuyển tập 5s",
+            version: "1.3.0",
             type: "all",
             filename: "provider.js",
             supportedTypes: ["movie", "tv"]
@@ -74,20 +72,24 @@ async function run() {
     fs.mkdirSync("addon", { recursive: true });
     const addonManifest = {
         id: "org.github.kkphim.static7",
-        version: "1.0.8",
-        name: "KKPhim 7 Danh Mục (GitHub Serverless)",
+        version: "1.3.0",
+        name: "KKPhim 7 Danh Mục (Tiếng Việt)",
         description: "7 danh mục phim mới nhất từ KKPhim chạy 100% trên GitHub",
         resources: ["catalog", "meta"],
         types: ["series", "movie"],
-        idPrefixes: ["kk_", "tmdb:", "tt"],
-        catalogs: CATALOGS.map(c => ({ type: c.type, id: c.id, name: c.name }))
+        idPrefixes: ["kk_"],
+        catalogs: CATALOGS.map((c, i) => ({
+            type: c.type,
+            id: c.id,
+            name: c.name,
+            extra: i === 0 ? [{ name: "search", isRequired: false }] : undefined
+        }))
     };
     fs.writeFileSync(path.join("addon", "manifest.json"), JSON.stringify(addonManifest, null, 2));
 
     fs.mkdirSync(path.join("addon", "meta", "series"), { recursive: true });
     fs.mkdirSync(path.join("addon", "meta", "movie"), { recursive: true });
-    const slugToStandardId = new Map();
-
+    const processedSlugs = new Set();
     for (const cat of CATALOGS) {
         const dir = path.join("addon", "catalog", cat.type);
         fs.mkdirSync(dir, { recursive: true });
@@ -98,10 +100,13 @@ async function run() {
 
             for (const item of items) {
                 const itemMediaType = item.type === "single" ? "movie" : cat.type;
-                if (slugToStandardId.has(item.slug)) {
-                    item._standardId = slugToStandardId.get(item.slug);
-                    continue;
-                }
+                const isDubCat = (cat.id === "kk_tm" || cat.id === "kk_lt");
+                const modePrefix = isDubCat ? "tm" : "vs";
+                const customId = `kk_${modePrefix}_${item.slug}`;
+
+                if (processedSlugs.has(customId)) continue;
+                processedSlugs.add(customId);
+
                 const targetMetaDir = path.join("addon", "meta", itemMediaType);
                 try {
                     const dRes = await fetch(`${KK_API}/phim/${item.slug}`, { headers: API_HEADERS });
@@ -111,56 +116,58 @@ async function run() {
 
                     if (movie) {
                         const resolvedImdb = await resolveImdbId(movie, itemMediaType);
-                        const tmdbId = movie.tmdb && movie.tmdb.id;
-                        const standardId = resolvedImdb ? resolvedImdb : (tmdbId ? `tmdb:${tmdbId}` : `kk_${item.slug}`);
-                        item._standardId = standardId;
-                        slugToStandardId.set(item.slug, standardId);
+                        const cleanPlot = (movie.content || "").replace(/<[^>]*>?/gm, "").trim();
+                        const verticalPoster = fixImg(movie.poster_url || movie.thumb_url);
+                        const horizontalThumb = fixImg(movie.thumb_url || movie.poster_url);
 
+                        let targetServer = isDubCat
+                            ? episodes.find(s => /thuyết minh|lồng tiếng/i.test(s.server_name || ""))
+                            : episodes.find(s => !/thuyết minh|lồng tiếng/i.test(s.server_name || ""));
+                        if (!targetServer) targetServer = episodes.shift();
+
+                        const serverLabel = (targetServer && targetServer.server_name) || (isDubCat ? "Thuyết Minh" : "Vietsub");
                         const videos = [];
-                        const epThumb = fixImg(movie.thumb_url || movie.poster_url);
-                        const mainServer = episodes.reduce((p, c) => ((c.server_data && c.server_data.length) || 0) > ((p.server_data && p.server_data.length) || 0) ? c : p, { server_data: [] });
 
-                        (mainServer.server_data || []).forEach((ep, idx) => {
-                            const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
-                            videos.push({
-                                id: `${standardId}:1:${epNum}`,
-                                title: ep.name || `Tập ${epNum}`,
-                                season: 1,
-                                episode: epNum,
-                                thumbnail: epThumb,
-                                overview: `${movie.name} - ${ep.name || `Tập ${epNum}`}`,
-                                released: new Date().toISOString()
+                        if (targetServer && Array.isArray(targetServer.server_data)) {
+                            targetServer.server_data.forEach((ep, idx) => {
+                                const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || (idx + 1);
+                                const epTitleClean = /^\d+$/.test(String(ep.name).trim()) ? `Tập ${ep.name}` : (ep.name || `Tập ${epNum}`);
+                                videos.push({
+                                    id: `${customId}:1:${epNum}`,
+                                    title: `${epTitleClean} [${serverLabel}]`,
+                                    season: 1,
+                                    episode: epNum,
+                                    thumbnail: horizontalThumb,
+                                    overview: `[${serverLabel}] ${movie.name} - ${epTitleClean}: ${cleanPlot.slice(0, 140)}`,
+                                    released: new Date(Date.now() - (targetServer.server_data.length - idx) * 86400000).toISOString()
+                                });
                             });
-                        });
+                        }
 
                         const metaObj = {
                             meta: {
-                                id: standardId,
+                                id: customId,
                                 imdb_id: resolvedImdb || undefined,
                                 type: itemMediaType,
-                                name: movie.name,
-                                poster: fixImg(movie.poster_url || movie.thumb_url),
-                                background: epThumb,
-                                description: (movie.content || "").replace(/<[^>]*>?/gm, ""),
+                                name: `[${serverLabel}] ${movie.name} (${movie.origin_name})`,
+                                poster: verticalPoster,
+                                background: horizontalThumb,
+                                description: cleanPlot,
                                 releaseInfo: String(movie.year || ""),
                                 videos: itemMediaType === "series" ? videos : undefined
                             }
                         };
-                        fs.writeFileSync(path.join(targetMetaDir, `${standardId.replace(/:/g, "_")}.json`), JSON.stringify(metaObj, null, 2));
+                        fs.writeFileSync(path.join(targetMetaDir, `${customId}.json`), JSON.stringify(metaObj, null, 2));
                     }
-                } catch (err) {
-                    const fallback = `kk_${item.slug}`;
-                    item._standardId = fallback;
-                    slugToStandardId.set(item.slug, fallback);
-                }
+                } catch (err) {}
             }
 
             const metas = items.map(item => {
                 const itemMediaType = item.type === "single" ? "movie" : cat.type;
-                const stdId = item._standardId || `kk_${item.slug}`;
+                const isDubCat = (cat.id === "kk_tm" || cat.id === "kk_lt");
+                const modePrefix = isDubCat ? "tm" : "vs";
                 return {
-                    id: stdId,
-                    imdb_id: stdId.startsWith("tt") ? stdId : undefined,
+                    id: `kk_${modePrefix}_${item.slug}`,
                     type: itemMediaType,
                     name: item.origin_name ? `${item.name} (${item.origin_name})` : item.name,
                     poster: fixImg(item.poster_url || item.thumb_url),
