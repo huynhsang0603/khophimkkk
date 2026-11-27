@@ -1,0 +1,922 @@
+{
+  "meta": {
+    "id": "kk_dai-chua-te-3d",
+    "type": "series",
+    "name": "Đại Chúa Tể 3D (The Great Ruler)",
+    "poster": "https://phimimg.com/upload/vod/20260415-1/b5d7394aa49cde793f86f5d9163ced85.jpg",
+    "background": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+    "description": "Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh vừa tráng lệ vừa hiểm nguy. Câu chuyện xoay quanh Mục Trần, chàng thiếu niên đến từ hạ giới mang trong mình khát vọng vượt qua số phận để bước vào hàng ngũ kiếm hiệp tối thượng. Trên con đường tu luyện, cậu phải đối mặt với những thử thách khắc nghiệt, từ linh thú cổ đại, thế lực tà ác cho đến những âm mưu giành đoạt quyền năng giữa các thế giới. Mỗi trận chiến, mỗi bước đi đều khiến Mục Trần trưởng thành hơn, thấu hiểu ý nghĩa của sức mạnh và lòng kiên định. Giữa khung cảnh kỳ vĩ được tái hiện sống động qua kỹ xảo hoạt hình 3D, người xem như lạc vào cõi tiên giới rực rỡ, nơi lòng can đảm và niềm tin trở thành ngọn lửa dẫn lối cho những linh hồn không chịu khuất phục.",
+    "releaseInfo": "2023",
+    "videos": [
+      {
+        "id": "kk_dai-chua-te-3d:1:1",
+        "title": "Tập 01",
+        "season": 1,
+        "episode": 1,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 01. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-18T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:2",
+        "title": "Tập 02",
+        "season": 1,
+        "episode": 2,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 02. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-19T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:3",
+        "title": "Tập 03",
+        "season": 1,
+        "episode": 3,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 03. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-20T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:4",
+        "title": "Tập 04",
+        "season": 1,
+        "episode": 4,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 04. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-21T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:5",
+        "title": "Tập 05",
+        "season": 1,
+        "episode": 5,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 05. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-22T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:6",
+        "title": "Tập 06",
+        "season": 1,
+        "episode": 6,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 06. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-23T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:7",
+        "title": "Tập 07",
+        "season": 1,
+        "episode": 7,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 07. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-24T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:8",
+        "title": "Tập 08",
+        "season": 1,
+        "episode": 8,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 08. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-25T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:9",
+        "title": "Tập 09",
+        "season": 1,
+        "episode": 9,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 09. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-26T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:10",
+        "title": "Tập 10",
+        "season": 1,
+        "episode": 10,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 10. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-27T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:11",
+        "title": "Tập 11",
+        "season": 1,
+        "episode": 11,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 11. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-28T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:12",
+        "title": "Tập 12",
+        "season": 1,
+        "episode": 12,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 12. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-29T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:13",
+        "title": "Tập 13",
+        "season": 1,
+        "episode": 13,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 13. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-30T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:14",
+        "title": "Tập 14",
+        "season": 1,
+        "episode": 14,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 14. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-08-31T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:15",
+        "title": "Tập 15",
+        "season": 1,
+        "episode": 15,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 15. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-01T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:16",
+        "title": "Tập 16",
+        "season": 1,
+        "episode": 16,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 16. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-02T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:17",
+        "title": "Tập 17",
+        "season": 1,
+        "episode": 17,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 17. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-03T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:18",
+        "title": "Tập 18",
+        "season": 1,
+        "episode": 18,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 18. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-04T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:19",
+        "title": "Tập 19",
+        "season": 1,
+        "episode": 19,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 19. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-05T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:20",
+        "title": "Tập 20",
+        "season": 1,
+        "episode": 20,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 20. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-06T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:21",
+        "title": "Tập 21",
+        "season": 1,
+        "episode": 21,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 21. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-07T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:22",
+        "title": "Tập 22",
+        "season": 1,
+        "episode": 22,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 22. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-08T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:23",
+        "title": "Tập 23",
+        "season": 1,
+        "episode": 23,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 23. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-09T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:24",
+        "title": "Tập 24",
+        "season": 1,
+        "episode": 24,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 24. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-10T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:25",
+        "title": "Tập 25",
+        "season": 1,
+        "episode": 25,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 25. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-11T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:26",
+        "title": "Tập 26",
+        "season": 1,
+        "episode": 26,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 26. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-12T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:27",
+        "title": "Tập 27",
+        "season": 1,
+        "episode": 27,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 27. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-13T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:28",
+        "title": "Tập 28",
+        "season": 1,
+        "episode": 28,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 28. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-14T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:29",
+        "title": "Tập 29",
+        "season": 1,
+        "episode": 29,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 29. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-15T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:30",
+        "title": "Tập 30",
+        "season": 1,
+        "episode": 30,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 30. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-16T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:31",
+        "title": "Tập 31",
+        "season": 1,
+        "episode": 31,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 31. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-17T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:32",
+        "title": "Tập 32",
+        "season": 1,
+        "episode": 32,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 32. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-18T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:33",
+        "title": "Tập 33",
+        "season": 1,
+        "episode": 33,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 33. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-19T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:34",
+        "title": "Tập 34",
+        "season": 1,
+        "episode": 34,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 34. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-20T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:35",
+        "title": "Tập 35",
+        "season": 1,
+        "episode": 35,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 35. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-21T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:36",
+        "title": "Tập 36",
+        "season": 1,
+        "episode": 36,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 36. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-22T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:37",
+        "title": "Tập 37",
+        "season": 1,
+        "episode": 37,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 37. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-23T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:38",
+        "title": "Tập 38",
+        "season": 1,
+        "episode": 38,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 38. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-24T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:39",
+        "title": "Tập 39",
+        "season": 1,
+        "episode": 39,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 39. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-25T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:40",
+        "title": "Tập 40",
+        "season": 1,
+        "episode": 40,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 40. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-26T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:41",
+        "title": "Tập 41",
+        "season": 1,
+        "episode": 41,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 41. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-27T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:42",
+        "title": "Tập 42",
+        "season": 1,
+        "episode": 42,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 42. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-28T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:43",
+        "title": "Tập 43",
+        "season": 1,
+        "episode": 43,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 43. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-29T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:44",
+        "title": "Tập 44",
+        "season": 1,
+        "episode": 44,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 44. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-09-30T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:45",
+        "title": "Tập 45",
+        "season": 1,
+        "episode": 45,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 45. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-01T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:46",
+        "title": "Tập 46",
+        "season": 1,
+        "episode": 46,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 46. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-02T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:47",
+        "title": "Tập 47",
+        "season": 1,
+        "episode": 47,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 47. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-03T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:48",
+        "title": "Tập 48",
+        "season": 1,
+        "episode": 48,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 48. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-04T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:49",
+        "title": "Tập 49",
+        "season": 1,
+        "episode": 49,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 49. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-05T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:50",
+        "title": "Tập 50",
+        "season": 1,
+        "episode": 50,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 50. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-06T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:51",
+        "title": "Tập 51",
+        "season": 1,
+        "episode": 51,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 51. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-07T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:52",
+        "title": "Tập 52",
+        "season": 1,
+        "episode": 52,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 52. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-08T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:53",
+        "title": "Tập 53",
+        "season": 1,
+        "episode": 53,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 53. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-09T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:54",
+        "title": "Tập 54",
+        "season": 1,
+        "episode": 54,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 54. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-10T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:55",
+        "title": "Tập 55",
+        "season": 1,
+        "episode": 55,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 55. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-11T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:56",
+        "title": "Tập 56",
+        "season": 1,
+        "episode": 56,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 56. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-12T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:57",
+        "title": "Tập 57",
+        "season": 1,
+        "episode": 57,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 57. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-13T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:58",
+        "title": "Tập 58",
+        "season": 1,
+        "episode": 58,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 58. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-14T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:59",
+        "title": "Tập 59",
+        "season": 1,
+        "episode": 59,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 59. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-15T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:60",
+        "title": "Tập 60",
+        "season": 1,
+        "episode": 60,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 60. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-16T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:61",
+        "title": "Tập 61",
+        "season": 1,
+        "episode": 61,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 61. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-17T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:62",
+        "title": "Tập 62",
+        "season": 1,
+        "episode": 62,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 62. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-18T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:63",
+        "title": "Tập 63",
+        "season": 1,
+        "episode": 63,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 63. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-19T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:64",
+        "title": "Tập 64",
+        "season": 1,
+        "episode": 64,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 64. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-20T05:59:05.021Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:65",
+        "title": "Tập 65",
+        "season": 1,
+        "episode": 65,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 65. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-21T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:66",
+        "title": "Tập 66",
+        "season": 1,
+        "episode": 66,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 66. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-22T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:67",
+        "title": "Tập 67",
+        "season": 1,
+        "episode": 67,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 67. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-23T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:68",
+        "title": "Tập 68",
+        "season": 1,
+        "episode": 68,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 68. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-24T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:69",
+        "title": "Tập 69",
+        "season": 1,
+        "episode": 69,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 69. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-25T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:70",
+        "title": "Tập 70",
+        "season": 1,
+        "episode": 70,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 70. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-26T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:71",
+        "title": "Tập 71",
+        "season": 1,
+        "episode": 71,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 71. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-27T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:72",
+        "title": "Tập 72",
+        "season": 1,
+        "episode": 72,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 72. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-28T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:73",
+        "title": "Tập 73",
+        "season": 1,
+        "episode": 73,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 73. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-29T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:74",
+        "title": "Tập 74",
+        "season": 1,
+        "episode": 74,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 74. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-30T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:75",
+        "title": "Tập 75",
+        "season": 1,
+        "episode": 75,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 75. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-10-31T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:76",
+        "title": "Tập 76",
+        "season": 1,
+        "episode": 76,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 76. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-01T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:77",
+        "title": "Tập 77",
+        "season": 1,
+        "episode": 77,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 77. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-02T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:78",
+        "title": "Tập 78",
+        "season": 1,
+        "episode": 78,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 78. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-03T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:79",
+        "title": "Tập 79",
+        "season": 1,
+        "episode": 79,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 79. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-04T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:80",
+        "title": "Tập 80",
+        "season": 1,
+        "episode": 80,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 80. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-05T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:81",
+        "title": "Tập 81",
+        "season": 1,
+        "episode": 81,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 81. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-06T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:82",
+        "title": "Tập 82",
+        "season": 1,
+        "episode": 82,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 82. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-07T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:83",
+        "title": "Tập 83",
+        "season": 1,
+        "episode": 83,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 83. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-08T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:84",
+        "title": "Tập 84",
+        "season": 1,
+        "episode": 84,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 84. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-09T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:85",
+        "title": "Tập 85",
+        "season": 1,
+        "episode": 85,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 85. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-10T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:86",
+        "title": "Tập 86",
+        "season": 1,
+        "episode": 86,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 86. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-11T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:87",
+        "title": "Tập 87",
+        "season": 1,
+        "episode": 87,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 87. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-12T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:88",
+        "title": "Tập 88",
+        "season": 1,
+        "episode": 88,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 88. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-13T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:89",
+        "title": "Tập 89",
+        "season": 1,
+        "episode": 89,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 89. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-14T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:90",
+        "title": "Tập 90",
+        "season": 1,
+        "episode": 90,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 90. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-15T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:91",
+        "title": "Tập 91",
+        "season": 1,
+        "episode": 91,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 91. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-16T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:92",
+        "title": "Tập 92",
+        "season": 1,
+        "episode": 92,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 92. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-17T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:93",
+        "title": "Tập 93",
+        "season": 1,
+        "episode": 93,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 93. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-18T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:94",
+        "title": "Tập 94",
+        "season": 1,
+        "episode": 94,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 94. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-19T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:95",
+        "title": "Tập 95",
+        "season": 1,
+        "episode": 95,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 95. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-20T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:96",
+        "title": "Tập 96",
+        "season": 1,
+        "episode": 96,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 96. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-21T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:97",
+        "title": "Tập 97",
+        "season": 1,
+        "episode": 97,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 97. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-22T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:98",
+        "title": "Tập 98",
+        "season": 1,
+        "episode": 98,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 98. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-23T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:99",
+        "title": "Tập 99",
+        "season": 1,
+        "episode": 99,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 99. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-24T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:100",
+        "title": "Tập 100",
+        "season": 1,
+        "episode": 100,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 100. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-25T05:59:05.022Z"
+      },
+      {
+        "id": "kk_dai-chua-te-3d:1:101",
+        "title": "Tập 101",
+        "season": 1,
+        "episode": 101,
+        "thumbnail": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+        "overview": "Đại Chúa Tể 3D - Tập 101. Đại Chúa Tể 3D mở ra một thế giới huyền ảo nơi vô số chủng tộc cùng tồn tại giữa những vùng trời rộng lớn giao thoa, tạo nên một bức tranh v",
+        "released": "2026-11-26T05:59:05.022Z"
+      }
+    ]
+  }
+}

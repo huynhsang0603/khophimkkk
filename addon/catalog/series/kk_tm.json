@@ -1,6 +1,14 @@
 {
   "metas": [
     {
+      "id": "kk_luong-kinh-thap-ngu-nhat",
+      "type": "series",
+      "name": "Lưỡng Kinh Thập Ngũ Nhật (River Of No Return)",
+      "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
+      "description": "Tập 16 • FHD • Vietsub + Thuyết Minh"
+    },
+    {
       "id": "kk_coc-vu",
       "type": "series",
       "name": "Cốc Vũ (The Silent Storm)",
@@ -31,14 +39,6 @@
       "poster": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261120/be-toi-duoi-vay-nang-thumb.webp",
       "description": "Tập 20 • FHD • Vietsub + Thuyết Minh"
-    },
-    {
-      "id": "kk_luong-kinh-thap-ngu-nhat",
-      "type": "series",
-      "name": "Lưỡng Kinh Thập Ngũ Nhật (River Of No Return)",
-      "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-      "description": "Tập 14 • FHD • Vietsub + Thuyết Minh"
     },
     {
       "id": "kk_uoc-mo-chua-ha-man",

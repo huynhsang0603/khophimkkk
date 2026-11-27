@@ -1,6 +1,30 @@
 {
   "metas": [
     {
+      "id": "kk_yeu-mot-ke-ngoc",
+      "type": "series",
+      "name": "Yêu Một Kẻ Ngốc (Fool in Love)",
+      "poster": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261010/yeu-mot-ke-ngoc-thumb.webp",
+      "description": "Tập 14 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_luong-kinh-thap-ngu-nhat",
+      "type": "series",
+      "name": "Lưỡng Kinh Thập Ngũ Nhật (River Of No Return)",
+      "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
+      "description": "Tập 16 • FHD • Vietsub + Thuyết Minh"
+    },
+    {
+      "id": "kk_dai-chua-te-3d",
+      "type": "series",
+      "name": "Đại Chúa Tể 3D (The Great Ruler)",
+      "poster": "https://phimimg.com/upload/vod/20260415-1/b5d7394aa49cde793f86f5d9163ced85.jpg",
+      "background": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+      "description": "Tập 101 • FHD • Vietsub"
+    },
+    {
       "id": "kk_coc-vu",
       "type": "series",
       "name": "Cốc Vũ (The Silent Storm)",
@@ -103,14 +127,6 @@
       "poster": "https://phimimg.com/upload/vod/20260420-1/0a4c1589001cf10c879d5b8c4f7e75d6.jpg",
       "background": "https://phimimg.com/upload/vod/20260420-1/a00de874909fb1bfb7f7749f926081a3.jpg",
       "description": "Tập 65 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_luong-kinh-thap-ngu-nhat",
-      "type": "series",
-      "name": "Lưỡng Kinh Thập Ngũ Nhật (River Of No Return)",
-      "poster": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261121/luong-kinh-thap-ngu-nhat-thumb.webp",
-      "description": "Tập 14 • FHD • Vietsub + Thuyết Minh"
     },
     {
       "id": "kk_su-huynh-a-su-huynh",
@@ -223,22 +239,6 @@
       "poster": "https://phimimg.com/upload/vod/20250903-1/fe12e74047daf65d58b996a82987f6aa.jpg",
       "background": "https://phimimg.com/upload/vod/20250903-1/cc1e9fd59cf70b050455ceb0bf183bf3.jpg",
       "description": "Tập 569 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_36-ke-doat-mang",
-      "type": "series",
-      "name": "36 Kế Đoạt Mạng (Thirty-Six Stratagems: Slay)",
-      "poster": "https://phimimg.com/uploads/movies/20261113/36-ke-doat-mang-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261113/36-ke-doat-mang-thumb.webp",
-      "description": "Hoàn Tất (31/31) • FHD • Vietsub"
-    },
-    {
-      "id": "kk_day-cuong-duc-vong-troi-buoc-duc-vong",
-      "type": "series",
-      "name": "Dây Cương Dục Vọng / Trói Buộc Dục Vọng (Love On A Leash)",
-      "poster": "https://phimimg.com/uploads/movies/20261123/day-cuong-duc-vong-troi-buoc-duc-vong-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261123/day-cuong-duc-vong-troi-buoc-duc-vong-thumb.webp",
-      "description": "Tập 2 • FHD • Vietsub"
     }
   ]
 }

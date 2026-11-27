@@ -1,6 +1,62 @@
 {
   "metas": [
     {
+      "id": "kk_dem-ngay-tho",
+      "type": "series",
+      "name": "Đêm Ngây Thơ (Fool Night)",
+      "poster": "https://phimimg.com/uploads/movies/20261127/dem-ngay-tho-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261127/dem-ngay-tho-thumb.webp",
+      "description": "Hoàn Tất (12/12) • FHD • Vietsub"
+    },
+    {
+      "id": "kk_phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-phan-2",
+      "type": "series",
+      "name": "Pháp Sư Băng Kiếm / Pháp Sư Băng Kiếm Sẽ Thống Trị Thế Giới (Phần 2) (The Iceblade Sorcerer Shall Rule The World (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261009/phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261009/phap-su-bang-kiem-phap-su-bang-kiem-se-thong-tri-the-gioi-thumb.webp",
+      "description": "Tập 8 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
+      "type": "series",
+      "name": "Trọng Giáp Hiệp Sĩ Chuyển Sinh Bị Lưu Đày Trở Nên Vô Địch Nhờ Kiến Thức Về Game (The Exiled Heavy Knight Knows How To Game The System)",
+      "poster": "https://phimimg.com/upload/vod/20260704-1/4b4d7d08fc0707be4fe3940998383a8f.jpg",
+      "background": "https://phimimg.com/upload/vod/20260704-1/732482354bbfaf0663881f84392f73df.jpg",
+      "description": "Tập 22 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_dai-chua-te-3d",
+      "type": "series",
+      "name": "Đại Chúa Tể 3D (The Great Ruler)",
+      "poster": "https://phimimg.com/upload/vod/20260415-1/b5d7394aa49cde793f86f5d9163ced85.jpg",
+      "background": "https://phimimg.com/upload/vod/20260415-1/708b632451a627340ce179f85e88fd3e.jpg",
+      "description": "Tập 101 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_dragon-ball-super-beerus",
+      "type": "series",
+      "name": "Dragon Ball Super: Beerus (Dragon Ball Super: Beerus)",
+      "poster": "https://phimimg.com/uploads/movies/20261012/dragon-ball-super-beerus-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261012/dragon-ball-super-beerus-thumb.webp",
+      "description": "Tập 7 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_chien-binh-ngoai-hoi-kurumi-chan",
+      "type": "series",
+      "name": "Chiến Binh Ngoại Hối Kurumi-Chan (FX Fighter Kurumi-chan)",
+      "poster": "https://phimimg.com/uploads/movies/20261002/chien-binh-ngoai-hoi-kurumi-chan-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261002/chien-binh-ngoai-hoi-kurumi-chan-thumb.webp",
+      "description": "Tập 9 • FHD • Vietsub"
+    },
+    {
+      "id": "kk_buc-tuong-bang-phan-2",
+      "type": "series",
+      "name": "Bức Tường Băng (Phần 2) (The Ramparts Of Ice (Season 2))",
+      "poster": "https://phimimg.com/uploads/movies/20261002/buc-tuong-bang-phan-2-poster.webp",
+      "background": "https://phimimg.com/uploads/movies/20261002/buc-tuong-bang-phan-2-thumb.webp",
+      "description": "Tập 9 • FHD • Vietsub"
+    },
+    {
       "id": "kk_nguoi-giu-mo-dai-ha",
       "type": "series",
       "name": "Người Giữ Mộ Đại Hạ (Guardian of Xia Mausoleum / The Guardian Of Daxia)",
@@ -182,62 +238,6 @@
       "name": "Battle Spirits [Re]: Tuyệt Giới Thiên Không (Battle Spirits [Re] ZEKKAI NO KU)",
       "poster": "https://phimimg.com/uploads/movies/20261007/battle-spirits-re-tuyet-gioi-thien-khong-poster.webp",
       "background": "https://phimimg.com/uploads/movies/20261007/battle-spirits-re-tuyet-gioi-thien-khong-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_van-co-than-de",
-      "type": "series",
-      "name": "Vạn Cổ Thần Đế (God Of Eternity)",
-      "poster": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20260721/van-co-than-de-thumb.webp",
-      "description": "Tập 39 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_tieu-thu-cuong-loan-nia-liston",
-      "type": "series",
-      "name": "Tiểu Thư Cuồng Loạn Nia Liston (Nia Liston: The Merciless Maiden)",
-      "poster": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261014/tieu-thu-cuong-loan-nia-liston-thumb.webp",
-      "description": "Tập 8 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_van-gioi-doc-ton",
-      "type": "series",
-      "name": "Vạn Giới Độc Tôn (Ten Thousand Worlds)",
-      "poster": "https://phimimg.com/upload/vod/20250308-1/25c9c7486b5de820475bd8fe0ccb316e.jpg",
-      "background": "https://phimimg.com/upload/vod/20250308-1/4b81238b9844aa16e3f7e9ee8afdbc94.jpg",
-      "description": "Tập 503 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_luyen-khi-muoi-van-nam",
-      "type": "series",
-      "name": "Luyện Khí Mười Vạn Năm (One Hundred Thousand Years of Qi Refining)",
-      "poster": "https://phimimg.com/upload/vod/20250219-1/0ddffeb590aa6bad556a0724302487ad.jpg",
-      "background": "https://phimimg.com/upload/vod/20250219-1/9e7246fa85194e2fad2da74ce43f0c7d.jpg",
-      "description": "Tập 397 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_nhat-tram-thuong-khung",
-      "type": "series",
-      "name": "Nhất Trảm Thương Khung (GuAn / One Slash Across the Sky)",
-      "poster": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20260729/nhat-tram-thuong-khung-thumb.webp",
-      "description": "Tập 19 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_gia-thien",
-      "type": "series",
-      "name": "Già Thiên (Shrouding The Heavens)",
-      "poster": "https://phimimg.com/upload/vod/20240411-1/0a4084fdfad19ecab9f1f53d629bf422.jpg",
-      "background": "https://phimimg.com/upload/vod/20240411-1/bbf5847cc8ae2ce6528d5b51ef6f877a.jpg",
-      "description": "Tập 191 • FHD • Vietsub"
-    },
-    {
-      "id": "kk_du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai",
-      "type": "series",
-      "name": "Dự Án Nuôi Dưỡng Cô Gái Phép Thuật: Khởi Động Lại (Magical Girl Raising Project: Restart)",
-      "poster": "https://phimimg.com/uploads/movies/20261008/du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai-poster.webp",
-      "background": "https://phimimg.com/uploads/movies/20261008/du-an-nuoi-duong-co-gai-phep-thuat-khoi-dong-lai-thumb.webp",
       "description": "Tập 8 • FHD • Vietsub"
     }
   ]
