@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KKPhim Việt Nam - Nuvio TV Addon</title>
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #090d16;
+      color: #f8fafc;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      padding: 16px;
+    }
+    .container {
+      background: #111827;
+      padding: 28px;
+      border-radius: 20px;
+      width: 100%;
+      max-width: 480px;
+      box-shadow: 0 15px 35px rgba(0, 0, 0, 0.7);
+      border: 1px solid #1f2937;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 24px;
+    }
+    .badge {
+      display: inline-block;
+      background: rgba(56, 189, 248, 0.15);
+      color: #38bdf8;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    h1 {
+      margin: 0 0 8px 0;
+      color: #f8fafc;
+      font-size: 1.55rem;
+    }
+    .subtitle {
+      color: #9ca3af;
+      font-size: 0.9rem;
+      margin: 0;
+      line-height: 1.4;
+    }
+    .addon-box {
+      background: #1f2937;
+      border: 1px solid #374151;
+      border-radius: 14px;
+      padding: 18px;
+      margin-bottom: 16px;
+      transition: 0.2s;
+    }
+    .addon-box:hover {
+      border-color: #38bdf8;
+    }
+    .addon-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 6px;
+    }
+    .addon-title {
+      font-weight: 700;
+      font-size: 1.05rem;
+      color: #38bdf8;
+    }
+    .tag {
+      font-size: 0.7rem;
+      background: #374151;
+      color: #d1d5db;
+      padding: 2px 8px;
+      border-radius: 6px;
+    }
+    .addon-desc {
+      font-size: 0.85rem;
+      color: #d1d5db;
+      margin-bottom: 12px;
+      line-height: 1.4;
+    }
+    .addon-url {
+      font-size: 0.75rem;
+      color: #9ca3af;
+      word-break: break-all;
+      margin-bottom: 14px;
+      background: #090d16;
+      padding: 10px;
+      border-radius: 8px;
+      font-family: monospace;
+    }
+    .btn-group {
+      display: flex;
+      gap: 10px;
+    }
+    button, a.btn-install {
+      flex: 1;
+      padding: 11px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      text-align: center;
+      text-decoration: none;
+      cursor: pointer;
+      border: none;
+      transition: 0.2s;
+    }
+    .btn-install {
+      background: #0284c7;
+      color: white;
+    }
+    .btn-install:hover {
+      background: #0369a1;
+    }
+    .btn-copy {
+      background: #111827;
+      color: #38bdf8;
+      border: 1px solid #38bdf8;
+    }
+    .btn-copy:hover {
+      background: #38bdf8;
+      color: #090d16;
+    }
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #10b981;
+      color: #fff;
+      padding: 10px 22px;
+      border-radius: 30px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      display: none;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="badge">v3.1.0 • NUVIO TV</div>
+      <h1>🎬 KKPhim Việt Nam</h1>
+      <p class="subtitle">Hệ thống tự động cập nhật kho phim Tiếng Việt, Thuyết Minh & Vietsub trực tiếp</p>
+    </div>
+
+    <!-- Nguồn 1: Stremio Addon chuẩn (Catalog + Meta + Stream) -->
+    <div class="addon-box">
+      <div class="addon-header">
+        <span class="addon-title">📺 KKPhim 7 Danh Mục + Kho Lưu Trữ</span>
+        <span class="tag">Stremio Addon</span>
+      </div>
+      <div class="addon-desc">Hiển thị đầy đủ 7 danh mục phim mới 2026, phim bộ Trung/Hàn/Hồng Kông, Thuyết Minh, Lồng Tiếng và kho 1000 bộ trên màn hình chính.</div>
+      <div class="addon-url" id="url1">https://github.io</div>
+      <div class="btn-group">
+        <a class="btn-install" href="stremio://huynhsang0603.github.io/khophimkkk/manifest.json">Cài Nhanh</a>
+        <button class="btn-copy" onclick="copyUrl('url1')">Copy Link</button>
+      </div>
+    </div>
+
+    <!-- Nguồn 2: Nuvio Scraper Plugin (provider.js) -->
+    <div class="addon-box">
+      <div class="addon-header">
+        <span class="addon-title">⚡ KKPhim Scraper (Gọn 2 Luồng)</span>
+        <span class="tag">Nuvio Plugin</span>
+      </div>
+      <div class="addon-desc">Chỉ lấy nguồn phát gọn gàng gồm 1 luồng Thuyết Minh & 1 luồng Vietsub theo mã phim IMDb / TMDb.</div>
+      <div class="addon-url" id="url2">https://githubusercontent.com</div>
+      <div class="btn-group">
+        <button class="btn-install" onclick="copyUrl('url2')">Copy Link Cài Plugin</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toastMsg">✅ Đã copy link vào bộ nhớ tạm!</div>
+
+  <script>
+    function copyUrl(elementId) {
+      const urlText = document.getElementById(elementId).innerText;
+      navigator.clipboard.writeText(urlText);
+      const toast = document.getElementById('toastMsg');
+      toast.style.display = 'block';
+      setTimeout(() => { toast.style.display = 'none'; }, 2500);
+    }
+  </script>
+</body>
+</html>
