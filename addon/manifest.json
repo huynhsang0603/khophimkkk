@@ -188,7 +188,7 @@
     {
       "type": "series",
       "id": "kk_lt",
-      "name": "KKPhim - Phim Lồng Tiếng",
+      "name": "KKPhim - Phim Cổ Trang ",
       "extra": [
         {
           "name": "genre",
@@ -246,6 +246,10 @@
       "id": "kk_all",
       "name": "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)",
       "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        },
         {
           "name": "genre",
           "isRequired": false,
