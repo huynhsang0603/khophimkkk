@@ -4,7 +4,7 @@ const path = require("path");
 const KK_API = "https://phimapi.com";
 const KK_IMG = "https://phimimg.com";
 const CINEMETA_API = "https://strem.io";
-const VERSION = "4.0.0";
+const VERSION = "4.2.0";
 
 const PAGES_PER_RUN = 15; // Mỗi lần chạy quét 15 trang mới nhất (~360 phim)
 const MAX_DISPLAY_PER_CATALOG = 1000;
@@ -119,10 +119,12 @@ async function processMovieMeta(item, processedSlugs, archiveDb) {
     fs.writeFileSync(
       path.join("addon", "stream", "movie", `${customId}.json`),
       JSON.stringify({ streams: movieStreams })
-      fs.writeFileSync(
-      path.join("addon", "stream", "movie", "series", `${customId}.json`),
+    );
+    fs.writeFileSync(
+      path.join("addon", "stream", "series", `${customId}:1:1.json`),
       JSON.stringify({ streams: movieStreams })
     );
+
   } else {
     (mainServer.server_data || []).forEach((ep, idx) => {
       const epNum = parseInt(String(ep.name || "").replace(/\D/g, ""), 10) || idx + 1;
@@ -255,7 +257,7 @@ async function run() {
   // 2. Lấy trực tiếp API Năm 2026 (Giữ nguyên cách gọi đã chạy tốt ở bản trước)
   const items2026 = [];
   for (let p = 1; p <= 3; p++) {
-    const res2026 = await fetchJson(`${KK_API}/v1/api/year=2026?page=${p}&limit=30`);
+    const res2026 = await fetchJson(`${KK_API}/v1/api/nam/2026?page=${p}&limit=30`);
     const list = (res2026 && res2026.data && res2026.data.items) || (res2026 && res2026.items) || [];
     items2026.push(...list);
   }
