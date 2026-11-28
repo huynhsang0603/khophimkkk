@@ -225,6 +225,8 @@ async function run() {
     { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_latest", name: "KKPhim - Phim Mới Cập Nhật", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+
     { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_all", name: "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] }
   ];
@@ -298,6 +300,8 @@ async function run() {
     fs.writeFileSync(path.join("addon", "catalog", "series", `${id}.json`), JSON.stringify({ metas: finalMetas }));
     console.log(`Xuat xong ${id}: ${finalMetas.length} phim`);
   };
+
+  saveCat("kk_latest", newItems.map((i) => archiveDb[`kk_${i.slug}`]).filter(Boolean));
 
   saveCat("kk_home", homeItems.length > 0 ? homeItems.map((i) => archiveDb[`kk_${i.slug}`]).filter(Boolean) : allSorted.slice(0, 30));
   saveCat("kk_2026", allSorted.filter((m) => m.year === Number(latestYear)));
