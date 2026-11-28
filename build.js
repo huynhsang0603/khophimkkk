@@ -4,7 +4,7 @@ const path = require("path");
 const KK_API = "https://phimapi.com";
 const KK_IMG = "https://phimimg.com";
 const CINEMETA_API = "https://strem.io";
-const VERSION = "3.3.0";
+const VERSION = "3.5.0";
 
 const PAGES_PER_RUN = 5;
 const MAX_DISPLAY_PER_CATALOG = 1000;
@@ -16,13 +16,14 @@ const API_HEADERS = {
 
 const CATALOGS = [
   { type: "series", id: "kk_home", name: "KKPhim - Hôm Nay Xem Gì", url: `${KK_API}/v1/api/home`, pages: 1 },
-  { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", url: `${KK_API}/v1/api/nam/2026?page=1&limit=64`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", url: `${KK_API}/v1/api/quoc-gia/trung-quoc?page=1&limit=64`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", url: `${KK_API}/v1/api/quoc-gia/hong-kong?page=1&limit=64`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", url: `${KK_API}/v1/api/danh-sach/phim-thuyet-minh?page=1&limit=64`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", url: `${KK_API}/v1/api/danh-sach/phim-long-tieng?page=1&limit=64`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", url: `${KK_API}/v1/api/danh-sach/hoat-hinh?page=1&limit=`, pages: PAGES_PER_RUN }
+  { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", url: `${KK_API}/v1/api/nam/2026?page=1&limit=30`, pages: 2 },
+  { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", url: `${KK_API}/v1/api/quoc-gia/trung-quoc?page=1`, pages: 2 },
+  { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", url: `${KK_API}/v1/api/quoc-gia/hong-kong?page=1`, pages: 2 },
+  { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", url: `${KK_API}/v1/api/danh-sach/phim-bo?page=1&sort_lang=thuyet-minh`, pages: 2 },
+  { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", url: `${KK_API}/v1/api/danh-sach/phim-bo?page=1&sort_lang=long-tieng`, pages: 2 },
+  { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", url: `${KK_API}/v1/api/danh-sach/hoat-hinh?page=1`, pages: 2 }
 ];
+
 
 const GENRES_LIST = [
   "Hành Động", "Tình Cảm", "Hài Hước", "Cổ Trang", "Tâm Lý",
