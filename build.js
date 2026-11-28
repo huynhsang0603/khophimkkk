@@ -4,11 +4,9 @@ const path = require("path");
 const KK_API = "https://phimapi.com";
 const KK_IMG = "https://phimimg.com";
 const CINEMETA_API = "https://strem.io";
-const VERSION = "3.1.0";
+const VERSION = "3.3.0";
 
-// Tự động quét thêm 10 trang mỗi lần chạy (tích lũy dần toàn bộ kho phimapi.com)
-const PAGES_PER_RUN = 10;
-// Giới hạn tối đa 1.000 phim hiển thị trong danh mục tổng để Tivi TCL không bị tràn RAM
+const PAGES_PER_RUN = 5;
 const MAX_DISPLAY_PER_CATALOG = 1000;
 
 const API_HEADERS = {
@@ -18,12 +16,12 @@ const API_HEADERS = {
 
 const CATALOGS = [
   { type: "series", id: "kk_home", name: "KKPhim - Hôm Nay Xem Gì", url: `${KK_API}/v1/api/home`, pages: 1 },
-  { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", url: `${KK_API}/v1/api/nam/2026?limit=30`, pages: 3 },
-  { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", url: `${KK_API}/v1/api/quoc-gia/trung-quoc?limit=30`, pages: 3 },
-  { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", url: `${KK_API}/v1/api/quoc-gia/hong-kong?limit=30`, pages: 3 },
-  { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", url: `${KK_API}/v1/api/danh-sach/phim-bo?sort_lang=thuyet-minh&limit=30`, pages: 3 },
-  { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", url: `${KK_API}/v1/api/danh-sach/phim-bo?sort_lang=long-tieng&limit=30`, pages: 3 },
-  { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", url: `${KK_API}/v1/api/danh-sach/hoat-hinh?limit=30`, pages: 3 }
+  { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", url: `${KK_API}/v1/api/nam/2026?page=1&limit=30`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", url: `${KK_API}/v1/api/quoc-gia/trung-quoc?page=1&limit=30`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", url: `${KK_API}/v1/api/quoc-gia/hong-kong?page=1&limit=30`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", url: `${KK_API}/v1/api/danh-sach/phim-thuyet-minh?page=1&limit=30`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", url: `${KK_API}/v1/api/danh-sach/phim-long-tieng?page=1&limit=30`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", url: `${KK_API}/v1/api/danh-sach/hoat-hinh?page=1&limit=30`, pages: PAGES_PER_RUN }
 ];
 
 const GENRES_LIST = [
@@ -212,6 +210,16 @@ async function run() {
     "addon/stream/movie"
   ].forEach((dir) => fs.mkdirSync(dir, { recursive: true }));
 
+  // Tự động lấy năm mới nhất từ API /nam-phat-hanh (2026)
+  const yearsData = await fetchJson(`${KK_API}/nam-phat-hanh`);
+  const latestYear = yearsData?.data?.items?.[0]?.year || 2026;
+
+  const catLatest = CATALOGS.find((c) => c.id === "kk_2026");
+  if (catLatest) {
+    catLatest.name = `KKPhim - Phim Mới ${latestYear} Nhất`;
+    catLatest.url = `${KK_API}/v1/api/nam/${latestYear}?page=1&limit=30`;
+  }
+
   const dbPath = path.join("addon", "archive_db.json");
   let archiveDb = {};
   if (fs.existsSync(dbPath)) {
@@ -252,21 +260,21 @@ async function run() {
       type: c.type,
       id: c.id,
       name: c.name,
-      extra: [{ name: "genre", options: GENRES_LIST }]
+      extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }]
     })),
     {
       type: "series",
       id: "kk_all",
       name: "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)",
-      extra: [{ name: "genre", options: GENRES_LIST }]
+      extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }]
     }
   ];
 
   const addonManifest = {
     id: "org.github.kkphim.static7",
     version: VERSION,
-    name: "KKPhim 7 Danh Mục + Kho Lưu Trữ (Tiếng Việt)",
-    description: "Tự động cập nhật toàn kho KKPhim phát trực tiếp trên Nuvio TV",
+    name: "KKPhim 7 Danh Mục (Tiếng Việt)",
+    description: "7 danh mục trang chủ + Kho lưu trữ KKPhim cho cả Điện thoại và Tivi",
     resources: ["catalog", "meta", "stream"],
     types: ["series", "movie"],
     idPrefixes: ["kk_", "tt"],
@@ -283,7 +291,7 @@ async function run() {
     const catItems = [];
 
     for (let p = 1; p <= cat.pages; p++) {
-      const pageUrl = cat.url.includes("?") ? `${cat.url}&page=${p}` : cat.url;
+      const pageUrl = cat.url.includes("page=1") ? cat.url.replace("page=1", `page=${p}`) : cat.url;
       const data = await fetchJson(pageUrl);
       const items = (data && data.items) || (data && data.data && data.data.items) || [];
       catItems.push(...items);
@@ -350,7 +358,7 @@ async function run() {
   }));
   fs.writeFileSync(path.join("addon", "catalog", "series", "kk_all.json"), JSON.stringify({ metas: allMetas }));
 
-  console.log(`Hoan tat! Kho luu tru hien co: ${sortedArchive.length} phim. Lan sau quet tiep trang ${state.nextDeepPage}.`);
+  console.log(`Hoan tat! Kho luu tru: ${sortedArchive.length} phim.`);
 }
 
 run();
