@@ -16,12 +16,12 @@ const API_HEADERS = {
 
 const CATALOGS = [
   { type: "series", id: "kk_home", name: "KKPhim - Hôm Nay Xem Gì", url: `${KK_API}/v1/api/home`, pages: 1 },
-  { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", url: `${KK_API}/v1/api/nam/2026?page=1&limit=30`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", url: `${KK_API}/v1/api/quoc-gia/trung-quoc?page=1&limit=30`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", url: `${KK_API}/v1/api/quoc-gia/hong-kong?page=1&limit=30`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", url: `${KK_API}/v1/api/danh-sach/phim-thuyet-minh?page=1&limit=30`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", url: `${KK_API}/v1/api/danh-sach/phim-long-tieng?page=1&limit=30`, pages: PAGES_PER_RUN },
-  { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", url: `${KK_API}/v1/api/danh-sach/hoat-hinh?page=1&limit=30`, pages: PAGES_PER_RUN }
+  { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", url: `${KK_API}/v1/api/nam/2026?page=1&limit=64`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", url: `${KK_API}/v1/api/quoc-gia/trung-quoc?page=1&limit=64`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", url: `${KK_API}/v1/api/quoc-gia/hong-kong?page=1&limit=64`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", url: `${KK_API}/v1/api/danh-sach/phim-thuyet-minh?page=1&limit=64`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", url: `${KK_API}/v1/api/danh-sach/phim-long-tieng?page=1&limit=64`, pages: PAGES_PER_RUN },
+  { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", url: `${KK_API}/v1/api/danh-sach/hoat-hinh?page=1&limit=`, pages: PAGES_PER_RUN }
 ];
 
 const GENRES_LIST = [
@@ -212,12 +212,13 @@ async function run() {
 
   // Tự động lấy năm mới nhất từ API /nam-phat-hanh (2026)
   const yearsData = await fetchJson(`${KK_API}/nam-phat-hanh`);
-  const latestYear = yearsData?.data?.items?.[0]?.year || 2026;
+  const latestYear = (yearsData && yearsData.data && yearsData.data.items && yearsData.data.items[0] && yearsData.data.items[0].year) || 2026;
+
 
   const catLatest = CATALOGS.find((c) => c.id === "kk_2026");
   if (catLatest) {
     catLatest.name = `KKPhim - Phim Mới ${latestYear} Nhất`;
-    catLatest.url = `${KK_API}/v1/api/nam/${latestYear}?page=1&limit=30`;
+    catLatest.url = `${KK_API}/v1/api/nam/${latestYear}?page=1&limit=64`;
   }
 
   const dbPath = path.join("addon", "archive_db.json");
