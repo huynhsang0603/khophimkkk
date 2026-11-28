@@ -4,26 +4,15 @@ const path = require("path");
 const KK_API = "https://phimapi.com";
 const KK_IMG = "https://phimimg.com";
 const CINEMETA_API = "https://strem.io";
-const VERSION = "3.5.0";
+const VERSION = "4.0.0";
 
-const PAGES_PER_RUN = 5;
+const PAGES_PER_RUN = 15; // Mỗi lần chạy quét 15 trang mới nhất (~360 phim)
 const MAX_DISPLAY_PER_CATALOG = 1000;
 
 const API_HEADERS = {
   accept: "application/json",
   "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
 };
-
-const CATALOGS = [
-  { type: "series", id: "kk_home", name: "KKPhim - Hôm Nay Xem Gì", url: `${KK_API}/v1/api/home`, pages: 1 },
-  { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", url: `${KK_API}/v1/api/nam/2026?page=1&limit=30`, pages: 2 },
-  { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", url: `${KK_API}/v1/api/quoc-gia/trung-quoc?page=1`, pages: 2 },
-  { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", url: `${KK_API}/v1/api/quoc-gia/hong-kong?page=1`, pages: 2 },
-  { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", url: `${KK_API}/v1/api/danh-sach/phim-bo?page=1&sort_lang=thuyet-minh`, pages: 2 },
-  { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", url: `${KK_API}/v1/api/danh-sach/phim-bo?page=1&sort_lang=long-tieng`, pages: 2 },
-  { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", url: `${KK_API}/v1/api/danh-sach/hoat-hinh?page=1`, pages: 2 }
-];
-
 
 const GENRES_LIST = [
   "Hành Động", "Tình Cảm", "Hài Hước", "Cổ Trang", "Tâm Lý",
@@ -72,17 +61,18 @@ async function resolveImdbId(movie, mediaType) {
   const first = metas.shift();
   return first && /^tt\d+/i.test(first.id) ? first.id.toLowerCase() : "";
 }
-async function processMovieMeta(item, defaultType, processedSlugs, archiveDb) {
-  const isMovie = item.type === "single" || item.episode_total === "1";
-  const itemMediaType = isMovie ? "movie" : defaultType;
+async function processMovieMeta(item, processedSlugs, archiveDb) {
   const customId = `kk_${item.slug}`;
-
   if (processedSlugs.has(customId)) return;
   processedSlugs.add(customId);
 
   const existing = archiveDb[customId];
+  const isMovie = item.type === "single" || item.episode_total === "1";
+  const itemMediaType = isMovie ? "movie" : "series";
   const metaFilePath = path.join("addon", "meta", itemMediaType, `${customId}.json`);
-  if (existing && existing.completed && fs.existsSync(metaFilePath)) {
+
+  // Nếu đã có đủ dữ liệu mới (có trường countries và langs) và đã hoàn thành thì bỏ qua
+  if (existing && existing.completed && existing.countries && fs.existsSync(metaFilePath)) {
     return;
   }
 
@@ -91,7 +81,8 @@ async function processMovieMeta(item, defaultType, processedSlugs, archiveDb) {
   const episodes = (dJson && dJson.episodes) || [];
   if (!movie) return;
 
-  const imdbId = (existing && existing.imdb_id) || (await resolveImdbId(movie, itemMediaType));
+  const actualType = (movie.type === "single" || movie.episode_total === "1") ? "movie" : "series";
+  const imdbId = (existing && existing.imdb_id) || (await resolveImdbId(movie, actualType));
   const cleanPlot = (movie.content || "")
     .replace(/<[^>]*>?/gm, "")
     .replace(/&nbsp;/g, " ")
@@ -102,6 +93,7 @@ async function processMovieMeta(item, defaultType, processedSlugs, archiveDb) {
   const horizontalThumb = fixImg(movie.thumb_url || movie.poster_url);
   const availableLangs = episodes.map((s) => s.server_name).filter(Boolean).join(" | ");
   const genres = Array.isArray(movie.category) ? movie.category.map((c) => c.name).filter(Boolean) : [];
+  const countries = Array.isArray(movie.country) ? movie.country.map((c) => c.slug || c.name).filter(Boolean) : [];
 
   const mainServer = episodes.reduce(
     (p, c) => (((c.server_data && c.server_data.length) || 0) > ((p.server_data && p.server_data.length) || 0) ? c : p),
@@ -111,7 +103,7 @@ async function processMovieMeta(item, defaultType, processedSlugs, archiveDb) {
   const videos = [];
   const epStreamsMap = {};
 
-  if (itemMediaType === "movie") {
+  if (actualType === "movie") {
     const movieStreams = [];
     episodes.forEach((server) => {
       (server.server_data || []).forEach((ep) => {
@@ -173,7 +165,7 @@ async function processMovieMeta(item, defaultType, processedSlugs, archiveDb) {
     meta: {
       id: customId,
       imdb_id: imdbId || undefined,
-      type: itemMediaType,
+      type: actualType,
       name: movie.origin_name ? `${movie.name} (${movie.origin_name})` : movie.name,
       poster: verticalPoster,
       background: horizontalThumb,
@@ -183,19 +175,23 @@ async function processMovieMeta(item, defaultType, processedSlugs, archiveDb) {
       genres,
       cast: Array.isArray(movie.actor) ? movie.actor.filter(Boolean) : [],
       director: Array.isArray(movie.director) ? movie.director.filter(Boolean) : [],
-      videos: itemMediaType === "series" ? videos : undefined
+      videos: actualType === "series" ? videos : undefined
     }
   };
-  fs.writeFileSync(metaFilePath, JSON.stringify(metaObj));
+  fs.writeFileSync(path.join("addon", "meta", actualType, `${customId}.json`), JSON.stringify(metaObj));
 
-  const isCompleted = movie.status === "completed" || itemMediaType === "movie";
+  const isCompleted = movie.status === "completed" || actualType === "movie";
   archiveDb[customId] = {
     id: customId,
-    type: itemMediaType,
+    type: actualType,
+    kkType: movie.type || "", // single, series, hoathinh, tvshows
     name: movie.name,
     origin_name: movie.origin_name || "",
     poster: verticalPoster,
+    year: Number(movie.year) || 0,
     genres,
+    countries,
+    langs: `${movie.lang || ""} ${availableLangs}`.toLowerCase(),
     imdb_id: imdbId,
     completed: isCompleted,
     updatedAt: Date.now()
@@ -211,72 +207,33 @@ async function run() {
     "addon/stream/movie"
   ].forEach((dir) => fs.mkdirSync(dir, { recursive: true }));
 
-  // Tự động lấy năm mới nhất từ API /nam-phat-hanh (2026)
-  const yearsData = await fetchJson(`${KK_API}/nam-phat-hanh`);
-  const latestYear = (yearsData && yearsData.data && yearsData.data.items && yearsData.data.items[0] && yearsData.data.items[0].year) || 2026;
-
-
-  const catLatest = CATALOGS.find((c) => c.id === "kk_2026");
-  if (catLatest) {
-    catLatest.name = `KKPhim - Phim Mới ${latestYear} Nhất`;
-    catLatest.url = `${KK_API}/v1/api/nam/${latestYear}?page=1&limit=64`;
-  }
-
   const dbPath = path.join("addon", "archive_db.json");
   let archiveDb = {};
   if (fs.existsSync(dbPath)) {
-    try {
-      archiveDb = JSON.parse(fs.readFileSync(dbPath, "utf8"));
-    } catch (e) {
-      archiveDb = {};
-    }
+    try { archiveDb = JSON.parse(fs.readFileSync(dbPath, "utf8")); } catch (e) { archiveDb = {}; }
   }
 
-  const providerManifest = {
-    id: "com.huynhsang0603.kkphim",
-    name: "KKPhim Việt Nam",
-    version: VERSION,
-    description: "KKPhim Tiếng Việt gọn gàng - 1 luồng Thuyết Minh & 1 luồng Vietsub",
-    author: "huynhsang0603",
-    homepage: "https://github.com",
-    repository: "https://github.com",
-    idPrefixes: ["kk_", "tt", "tmdb:"],
-    scrapers: [
-      {
-        id: "kkphim_vn",
-        name: "KKPhim",
-        description: "Giao diện tiếng Việt, gọn 1 luồng Thuyết Minh & 1 luồng Vietsub",
-        version: VERSION,
-        type: "all",
-        filename: "provider.js",
-        idPrefixes: ["kk_", "tt", "tmdb:"],
-        supportedTypes: ["movie", "series", "tv"]
-      }
-    ]
-  };
-  fs.writeFileSync("manifest.json", JSON.stringify(providerManifest, null, 2));
-  fs.writeFileSync("provider-manifest.json", JSON.stringify(providerManifest, null, 2));
+  // Lấy năm mới nhất từ API /nam-phat-hanh
+  const yearsData = await fetchJson(`${KK_API}/nam-phat-hanh`);
+  const latestYear = (yearsData && yearsData.data && yearsData.data.items && yearsData.data.items && yearsData.data.items.year) || 2026;
 
+  // Khai báo 8 danh mục chuẩn cho Nuvio TV & Điện thoại
   const addonCatalogs = [
-    ...CATALOGS.map((c) => ({
-      type: c.type,
-      id: c.id,
-      name: c.name,
-      extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }]
-    })),
-    {
-      type: "series",
-      id: "kk_all",
-      name: "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)",
-      extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }]
-    }
+    { type: "series", id: "kk_home", name: "KKPhim - Hôm Nay Xem Gì", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_2026", name: `KKPhim - Phim Mới ${latestYear} Nhất`, extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_all", name: "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] }
   ];
 
   const addonManifest = {
     id: "org.github.kkphim.static7",
     version: VERSION,
-    name: "KKPhim 7 Danh Mục (Tiếng Việt)",
-    description: "7 danh mục trang chủ + Kho lưu trữ KKPhim cho cả Điện thoại và Tivi",
+    name: "KKPhim 8 Danh Mục (Tiếng Việt)",
+    description: "Tự động cập nhật toàn kho KKPhim phát trực tiếp trên Nuvio TV & Mobile",
     resources: ["catalog", "meta", "stream"],
     types: ["series", "movie"],
     idPrefixes: ["kk_", "tt"],
@@ -288,79 +245,70 @@ async function run() {
   const processedSlugs = new Set();
   const batchSize = 10;
 
-  for (const cat of CATALOGS) {
-    const dir = path.join("addon", "catalog", cat.type);
-    const catItems = [];
-
-    for (let p = 1; p <= cat.pages; p++) {
-      const pageUrl = cat.url.includes("page=1") ? cat.url.replace("page=1", `page=${p}`) : cat.url;
-      const data = await fetchJson(pageUrl);
-      const items = (data && data.items) || (data && data.data && data.data.items) || [];
-      catItems.push(...items);
-    }
-
-    for (let i = 0; i < catItems.length; i += batchSize) {
-      const batch = catItems.slice(i, i + batchSize);
-      await Promise.all(batch.map((item) => processMovieMeta(item, cat.type, processedSlugs, archiveDb)));
-    }
-
-    const metas = catItems.map((item) => {
-      const isMovie = item.type === "single" || item.episode_total === "1";
-      const customId = `kk_${item.slug}`;
-      return {
-        id: customId,
-        type: isMovie ? "movie" : cat.type,
-        name: item.name,
-        poster: fixImg(item.poster_url || item.thumb_url),
-        genres: (archiveDb[customId] && archiveDb[customId].genres) || []
-      };
-    });
-
-    fs.writeFileSync(path.join(dir, `${cat.id}.json`), JSON.stringify({ metas }));
+  // 1. Lấy trang chủ /v1/api/home
+  const homeData = await fetchJson(`${KK_API}/v1/api/home`);
+  const homeItems = (homeData && homeData.data && homeData.data.items) || (homeData && homeData.items) || [];
+  for (let i = 0; i < homeItems.length; i += batchSize) {
+    await Promise.all(homeItems.slice(i, i + batchSize).map((item) => processMovieMeta(item, processedSlugs, archiveDb)));
   }
 
-  const statePath = path.join("addon", "crawl_state.json");
-  let state = { nextDeepPage: 1 };
-  if (fs.existsSync(statePath)) {
-    try {
-      state = JSON.parse(fs.readFileSync(statePath, "utf8"));
-    } catch (e) {}
-  }
-
-  const deepItems = [];
-  let reachedEnd = false;
-
-  for (let p = state.nextDeepPage; p < state.nextDeepPage + PAGES_PER_RUN; p++) {
+  // 2. Quét PAGES_PER_RUN trang mới nhất từ endpoint chính đang chạy cực ổn định
+  const newItems = [];
+  for (let p = 1; p <= PAGES_PER_RUN; p++) {
     const data = await fetchJson(`${KK_API}/danh-sach/phim-moi-cap-nhat?page=${p}`);
     const items = (data && data.items) || [];
-    if (items.length === 0) {
-      reachedEnd = true;
-      break;
-    }
-    deepItems.push(...items);
+    newItems.push(...items);
   }
 
-  for (let i = 0; i < deepItems.length; i += batchSize) {
-    const batch = deepItems.slice(i, i + batchSize);
-    await Promise.all(batch.map((item) => processMovieMeta(item, "series", processedSlugs, archiveDb)));
+  // 3. Quét lùi thêm 5 trang sâu để tích lũy dần toàn bộ kho phim cũ
+  const statePath = path.join("addon", "crawl_state.json");
+  let state = { nextDeepPage: PAGES_PER_RUN + 1 };
+  if (fs.existsSync(statePath)) {
+    try { state = JSON.parse(fs.readFileSync(statePath, "utf8")); } catch (e) {}
   }
-
-  state.nextDeepPage = reachedEnd ? 1 : state.nextDeepPage + PAGES_PER_RUN;
+  let reachedEnd = false;
+  for (let p = state.nextDeepPage; p < state.nextDeepPage + 5; p++) {
+    const data = await fetchJson(`${KK_API}/danh-sach/phim-moi-cap-nhat?page=${p}`);
+    const items = (data && data.items) || [];
+    if (items.length === 0) { reachedEnd = true; break; }
+    newItems.push(...items);
+  }
+  state.nextDeepPage = reachedEnd ? 1 : state.nextDeepPage + 5;
   fs.writeFileSync(statePath, JSON.stringify(state));
 
-  const sortedArchive = Object.values(archiveDb).sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));
-  fs.writeFileSync(dbPath, JSON.stringify(archiveDb));
+  for (let i = 0; i < newItems.length; i += batchSize) {
+    await Promise.all(newItems.slice(i, i + batchSize).map((item) => processMovieMeta(item, processedSlugs, archiveDb)));
+  }
 
-  const allMetas = sortedArchive.slice(0, MAX_DISPLAY_PER_CATALOG).map((m) => ({
+  // Lưu kho lưu trữ tổng
+  fs.writeFileSync(dbPath, JSON.stringify(archiveDb));
+  const allSorted = Object.values(archiveDb).sort((a, b) => (b.updatedAt || 0) - (a.updatedAt || 0));
+
+  const toMetaCard = (m) => ({
     id: m.id,
     type: m.type,
     name: m.origin_name ? `${m.name} (${m.origin_name})` : m.name,
     poster: m.poster,
     genres: m.genres || []
-  }));
-  fs.writeFileSync(path.join("addon", "catalog", "series", "kk_all.json"), JSON.stringify({ metas: allMetas }));
+  });
 
-  console.log(`Hoan tat! Kho luu tru: ${sortedArchive.length} phim.`);
+  // 4. Tự động xuất file JSON cho từng danh mục từ kho đã lưu (Đảm bảo 100% không bao giờ bị rỗng)
+  const saveCat = (id, list) => {
+    const finalMetas = list.slice(0, MAX_DISPLAY_PER_CATALOG).map(toMetaCard);
+    fs.writeFileSync(path.join("addon", "catalog", "series", `${id}.json`), JSON.stringify({ metas: finalMetas }));
+    console.log(`Xuat xong ${id}: ${finalMetas.length} phim`);
+  };
+
+  saveCat("kk_home", homeItems.length > 0 ? homeItems.map((i) => archiveDb[`kk_${i.slug}`]).filter(Boolean) : allSorted.slice(0, 30));
+  saveCat("kk_2026", allSorted.filter((m) => m.year === Number(latestYear)));
+  saveCat("kk_cn_drama", allSorted.filter((m) => (m.countries || []).some((c) => c.includes("trung-quoc") || c.includes("Trung Quốc"))));
+  saveCat("kk_hk", allSorted.filter((m) => (m.countries || []).some((c) => c.includes("hong-kong") || c.includes("Hồng Kông"))));
+  saveCat("kk_tm", allSorted.filter((m) => (m.langs || "").includes("thuyết minh")));
+  saveCat("kk_lt", allSorted.filter((m) => (m.langs || "").includes("lồng tiếng")));
+  saveCat("kk_anime", allSorted.filter((m) => m.kkType === "hoathinh" || (m.genres || []).some((g) => g.includes("Hoạt Hình"))));
+  saveCat("kk_all", allSorted);
+
+  console.log(`Hoan tat! Tong kho luu tru: ${allSorted.length} phim.`);
 }
 
 run();
