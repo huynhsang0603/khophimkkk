@@ -187,6 +187,34 @@
     },
     {
       "type": "series",
+      "id": "kk_latest",
+      "name": "KKPhim - Phim Mới Cập Nhật",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Hành Động",
+            "Tình Cảm",
+            "Hài Hước",
+            "Cổ Trang",
+            "Tâm Lý",
+            "Hình Sự",
+            "Chiến Tranh",
+            "Võ Thuật",
+            "Viễn Tưởng",
+            "Phiêu Lưu",
+            "Khoa Học",
+            "Kinh Dị",
+            "Thần Thoại",
+            "Chính Kịch",
+            "Bí Ẩn"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
       "id": "kk_anime",
       "name": "KKPhim - Phim Hoạt Hình",
       "extra": [
