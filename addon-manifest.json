@@ -1,8 +1,8 @@
 {
   "id": "org.github.kkphim.static7",
-  "version": "3.5.0",
-  "name": "KKPhim 7 Danh Mục (Tiếng Việt)",
-  "description": "7 danh mục trang chủ + Kho lưu trữ KKPhim cho cả Điện thoại và Tivi",
+  "version": "4.0.0",
+  "name": "KKPhim 8 Danh Mục (Tiếng Việt)",
+  "description": "Tự động cập nhật toàn kho KKPhim phát trực tiếp trên Nuvio TV & Mobile",
   "resources": [
     "catalog",
     "meta",
