@@ -213,29 +213,24 @@ async function run() {
     try { archiveDb = JSON.parse(fs.readFileSync(dbPath, "utf8")); } catch (e) { archiveDb = {}; }
   }
 
-  // Lấy năm mới nhất từ API /nam-phat-hanh
-  const yearsData = await fetchJson(`${KK_API}/nam-phat-hanh`);
-  const latestYear = (yearsData && yearsData.data && yearsData.data.items && yearsData.data.items && yearsData.data.items.year) || 2026;
-
-  // Khai báo 8 danh mục chuẩn cho Nuvio TV & Điện thoại
+  // Khai báo đầy đủ 9 danh mục chuẩn cho Nuvio TV & Điện thoại
   const addonCatalogs = [
     { type: "series", id: "kk_home", name: "KKPhim - Hôm Nay Xem Gì", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
-    { type: "series", id: "kk_2026", name: `KKPhim - Phim Mới ${latestYear} Nhất`, extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_latest", name: "KKPhim - Phim Mới Cập Nhật", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_2026", name: "KKPhim - Phim Mới 2026 Nhất", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
-    { type: "series", id: "kk_latest", name: "KKPhim - Phim Mới Cập Nhật", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
-
     { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_all", name: "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] }
   ];
 
   const addonManifest = {
     id: "org.github.kkphim.static7",
-    version: VERSION,
-    name: "KKPhim 8 Danh Mục (Tiếng Việt)",
-    description: "Tự động cập nhật toàn kho KKPhim phát trực tiếp trên Nuvio TV & Mobile",
+    version: "4.2.0",
+    name: "KKPhim 9 Danh Mục (Tiếng Việt)",
+    description: "Đầy đủ 9 danh mục + Kho lưu trữ KKPhim cho Nuvio TV & Mobile",
     resources: ["catalog", "meta", "stream"],
     types: ["series", "movie"],
     idPrefixes: ["kk_", "tt"],
@@ -254,32 +249,44 @@ async function run() {
     await Promise.all(homeItems.slice(i, i + batchSize).map((item) => processMovieMeta(item, processedSlugs, archiveDb)));
   }
 
-  // 2. Quét PAGES_PER_RUN trang mới nhất từ endpoint chính đang chạy cực ổn định
-  const newItems = [];
+  // 2. Lấy trực tiếp API Năm 2026 (Giữ nguyên cách gọi đã chạy tốt ở bản trước)
+  const items2026 = [];
+  for (let p = 1; p <= 3; p++) {
+    const res2026 = await fetchJson(`${KK_API}/v1/api/nam/2026?page=${p}&limit=30`);
+    const list = (res2026 && res2026.data && res2026.data.items) || (res2026 && res2026.items) || [];
+    items2026.push(...list);
+  }
+  for (let i = 0; i < items2026.length; i += batchSize) {
+    await Promise.all(items2026.slice(i, i + batchSize).map((item) => processMovieMeta(item, processedSlugs, archiveDb)));
+  }
+
+  // 3. Quét phim mới cập nhật + quét lùi kho cũ
+  const latestItems = [];
   for (let p = 1; p <= PAGES_PER_RUN; p++) {
     const data = await fetchJson(`${KK_API}/danh-sach/phim-moi-cap-nhat?page=${p}`);
     const items = (data && data.items) || [];
-    newItems.push(...items);
+    latestItems.push(...items);
   }
 
-  // 3. Quét lùi thêm 5 trang sâu để tích lũy dần toàn bộ kho phim cũ
   const statePath = path.join("addon", "crawl_state.json");
   let state = { nextDeepPage: PAGES_PER_RUN + 1 };
   if (fs.existsSync(statePath)) {
     try { state = JSON.parse(fs.readFileSync(statePath, "utf8")); } catch (e) {}
   }
+  const deepItems = [];
   let reachedEnd = false;
   for (let p = state.nextDeepPage; p < state.nextDeepPage + 5; p++) {
     const data = await fetchJson(`${KK_API}/danh-sach/phim-moi-cap-nhat?page=${p}`);
     const items = (data && data.items) || [];
     if (items.length === 0) { reachedEnd = true; break; }
-    newItems.push(...items);
+    deepItems.push(...items);
   }
   state.nextDeepPage = reachedEnd ? 1 : state.nextDeepPage + 5;
   fs.writeFileSync(statePath, JSON.stringify(state));
 
-  for (let i = 0; i < newItems.length; i += batchSize) {
-    await Promise.all(newItems.slice(i, i + batchSize).map((item) => processMovieMeta(item, processedSlugs, archiveDb)));
+  const allNewBatch = [...latestItems, ...deepItems];
+  for (let i = 0; i < allNewBatch.length; i += batchSize) {
+    await Promise.all(allNewBatch.slice(i, i + batchSize).map((item) => processMovieMeta(item, processedSlugs, archiveDb)));
   }
 
   // Lưu kho lưu trữ tổng
@@ -294,17 +301,16 @@ async function run() {
     genres: m.genres || []
   });
 
-  // 4. Tự động xuất file JSON cho từng danh mục từ kho đã lưu (Đảm bảo 100% không bao giờ bị rỗng)
   const saveCat = (id, list) => {
     const finalMetas = list.slice(0, MAX_DISPLAY_PER_CATALOG).map(toMetaCard);
     fs.writeFileSync(path.join("addon", "catalog", "series", `${id}.json`), JSON.stringify({ metas: finalMetas }));
     console.log(`Xuat xong ${id}: ${finalMetas.length} phim`);
   };
 
-  saveCat("kk_latest", newItems.map((i) => archiveDb[`kk_${i.slug}`]).filter(Boolean));
-
+  // Xuất dữ liệu cho cả 9 danh mục
   saveCat("kk_home", homeItems.length > 0 ? homeItems.map((i) => archiveDb[`kk_${i.slug}`]).filter(Boolean) : allSorted.slice(0, 30));
-  saveCat("kk_2026", allSorted.filter((m) => m.year === Number(latestYear)));
+  saveCat("kk_latest", latestItems.map((i) => archiveDb[`kk_${i.slug}`]).filter(Boolean));
+  saveCat("kk_2026", items2026.length > 0 ? items2026.map((i) => archiveDb[`kk_${i.slug}`]).filter(Boolean) : allSorted.filter((m) => String(m.year) === "2026"));
   saveCat("kk_cn_drama", allSorted.filter((m) => (m.countries || []).some((c) => c.includes("trung-quoc") || c.includes("Trung Quốc"))));
   saveCat("kk_hk", allSorted.filter((m) => (m.countries || []).some((c) => c.includes("hong-kong") || c.includes("Hồng Kông"))));
   saveCat("kk_tm", allSorted.filter((m) => (m.langs || "").includes("thuyết minh")));
