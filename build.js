@@ -119,6 +119,9 @@ async function processMovieMeta(item, processedSlugs, archiveDb) {
     fs.writeFileSync(
       path.join("addon", "stream", "movie", `${customId}.json`),
       JSON.stringify({ streams: movieStreams })
+      fs.writeFileSync(
+      path.join("addon", "stream", "movie", "series", `${customId}.json`),
+      JSON.stringify({ streams: movieStreams })
     );
   } else {
     (mainServer.server_data || []).forEach((ep, idx) => {
@@ -221,9 +224,9 @@ async function run() {
     { type: "series", id: "kk_cn_drama", name: "KKPhim - Phim Bộ Trung Quốc", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_hk", name: "KKPhim - Phim Hồng Kông", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_tm", name: "KKPhim - Phim Thuyết Minh", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
-    { type: "series", id: "kk_lt", name: "KKPhim - Phim Lồng Tiếng", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
+    { type: "series", id: "kk_lt", name: "KKPhim - Phim Cổ Trang ", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
     { type: "series", id: "kk_anime", name: "KKPhim - Phim Hoạt Hình", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] },
-    { type: "series", id: "kk_all", name: "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)", extra: [{ name: "genre", isRequired: false, options: GENRES_LIST }] }
+    { type: "series", id: "kk_all", name: "KKPhim - Kho Lưu Trữ Mới Nhất (1000 Bộ)", extra: [{ name: "search", isRequired: false }, { name: "genre", isRequired: false, options: GENRES_LIST }] }
   ];
 
   const addonManifest = {
@@ -252,7 +255,7 @@ async function run() {
   // 2. Lấy trực tiếp API Năm 2026 (Giữ nguyên cách gọi đã chạy tốt ở bản trước)
   const items2026 = [];
   for (let p = 1; p <= 3; p++) {
-    const res2026 = await fetchJson(`${KK_API}/v1/api/nam/2026?page=${p}&limit=30`);
+    const res2026 = await fetchJson(`${KK_API}/v1/api/year=2026?page=${p}&limit=30`);
     const list = (res2026 && res2026.data && res2026.data.items) || (res2026 && res2026.items) || [];
     items2026.push(...list);
   }
@@ -266,6 +269,19 @@ async function run() {
     const data = await fetchJson(`${KK_API}/danh-sach/phim-moi-cap-nhat?page=${p}`);
     const items = (data && data.items) || [];
     latestItems.push(...items);
+  }
+  const seedPaths = [
+  "/v1/api/quoc-gia/hong-kong",
+  "/v1/api/quoc-gia/trung-quoc",
+  "/v1/api/danh-sach/phim-thuyet-minh",
+  "/v1/api/the-loai/co-",
+  "/v1/api/danh-sach/hoat-hinh"
+];
+  const seedItems = [];
+  for (const sp of seedPaths) {
+    const res = await fetchJson(`${KK_API}${sp}?page=1&limit=30`);
+    const list = (res && res.data && res.data.items) || (res && res.items) || [];
+    seedItems.push(...list);
   }
 
   const statePath = path.join("addon", "crawl_state.json");
@@ -284,7 +300,7 @@ async function run() {
   state.nextDeepPage = reachedEnd ? 1 : state.nextDeepPage + 5;
   fs.writeFileSync(statePath, JSON.stringify(state));
 
-  const allNewBatch = [...latestItems, ...deepItems];
+  const allNewBatch = [...latestItems, ...deepItems, ...seedItems];
   for (let i = 0; i < allNewBatch.length; i += batchSize) {
     await Promise.all(allNewBatch.slice(i, i + batchSize).map((item) => processMovieMeta(item, processedSlugs, archiveDb)));
   }
@@ -314,7 +330,9 @@ async function run() {
   saveCat("kk_cn_drama", allSorted.filter((m) => (m.countries || []).some((c) => c.includes("trung-quoc") || c.includes("Trung Quốc"))));
   saveCat("kk_hk", allSorted.filter((m) => (m.countries || []).some((c) => c.includes("hong-kong") || c.includes("Hồng Kông"))));
   saveCat("kk_tm", allSorted.filter((m) => (m.langs || "").includes("thuyết minh")));
-  saveCat("kk_lt", allSorted.filter((m) => (m.langs || "").includes("lồng tiếng")));
+  saveCat("kk_lt", allSorted.filter((m) => (m.countries || []).some((c) => c.includes("trung-quoc") || c.includes("Trung Quốc")) &&
+  (m.genres || []).some((g) => g.includes("Cổ Trang"))));
+
   saveCat("kk_anime", allSorted.filter((m) => m.kkType === "hoathinh" || (m.genres || []).some((g) => g.includes("Hoạt Hình"))));
   saveCat("kk_all", allSorted);
 
