@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kho Phim  - Nuvio TV Addon</title>
+  <title>Kho Phim - Nuvio TV & Mobile</title>
   <style>
     body {
       font-family: system-ui, -apple-system, sans-serif;
@@ -66,6 +66,7 @@
       justify-content: space-between;
       align-items: center;
       margin-bottom: 6px;
+      gap: 8px;
     }
     .addon-title {
       font-weight: 700;
@@ -76,8 +77,9 @@
       font-size: 0.7rem;
       background: #374151;
       color: #d1d5db;
-      padding: 2px 8px;
+      padding: 3px 8px;
       border-radius: 6px;
+      white-space: nowrap;
     }
     .addon-desc {
       font-size: 0.85rem;
@@ -146,34 +148,33 @@
 <body>
   <div class="container">
     <div class="header">
-      <div class="badge">v3.1.0 • NUVIO TV</div>
+      <div class="badge">v3.1.0 • NUVIO TV & MOBILE</div>
       <h1>🎬 Kho Phim</h1>
       <p class="subtitle">Hệ thống tự động cập nhật kho phim Tiếng Việt, Thuyết Minh & Vietsub trực tiếp</p>
     </div>
 
-    <!-- Nguồn 1: Addon dùng trên TiVi (Catalog + Meta + Stream) -->
+    <!-- Nguồn 1: Addon dùng trên TiVi (addon-manifest.json - 7 Danh Mục) -->
     <div class="addon-box">
       <div class="addon-header">
         <span class="addon-title">📺 Kho Phim Tivi 7 Danh Mục + Kho Lưu Trữ</span>
         <span class="tag">Addon dùng trên TiVi</span>
       </div>
       <div class="addon-desc">Hiển thị đầy đủ 7 danh mục phim mới 2026, phim bộ Trung/Hàn/Hồng Kông, Thuyết Minh, Lồng Tiếng và kho 1000 bộ trên màn hình chính.</div>
-      <div class="addon-url" id="url1">https://raw.githubusercontent.com/huynhsang0603/khophimkkk/main/addon-manifest.json</div>
+      <div class="addon-url" id="url1">https://github.com/huynhsang0603/khophimkkk/blob/main/addon/manifest.json</div>
       <div class="btn-group">
-        <a class="btn-install" href="stremio://huynhsang0603.github.io/khophimkkk/add-manifest.json">Cài Nhanh</a>
+        <a class="btn-install" href="stremio://://githubusercontent.com">Cài Nhanh</a>
         <button class="btn-copy" onclick="copyUrl('url1')">Copy Link</button>
       </div>
     </div>
 
-    <!-- Nguồn 2: Nuvio Scraper Plugin (provider.js) -->
+    <!-- Nguồn 2: Plugin điện thoại (manifest.json - Gọn 2 Luồng) -->
     <div class="addon-box">
       <div class="addon-header">
-        <span class="addon-title">⚡ Kho phim Đien Thọai 7 Danh Mục + Kho Lưu Trữ   (Gọn 2 Luồng)</span>
-        <span class="tag"> Plugin điện thoại</span>
+        <span class="addon-title">⚡ Kho Phim Điện Thoại (Gọn 2 Luồng)</span>
+        <span class="tag">Plugin điện thoại</span>
       </div>
       <div class="addon-desc">Chỉ lấy nguồn phát gọn gàng gồm 1 luồng Thuyết Minh & 1 luồng Vietsub theo mã phim IMDb / TMDb.</div>
-      <div class="addon-url" id="url2">https://raw.githubusercontent.com/huynhsang0603/khophimkkk/main/manifest.json</div>
-      
+      <div class="addon-url" id="url2">https://raw.githubusercontent.com/huynhsang0603/khophimkkk/refs/heads/main/manifest.json</div>
       <div class="btn-group">
         <button class="btn-install" onclick="copyUrl('url2')">Copy Link Cài Plugin</button>
       </div>
